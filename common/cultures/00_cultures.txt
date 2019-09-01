@@ -1,0 +1,306 @@
+# "00_cultures.txt" written exactly like this will overwrite vanilla cultures.
+
+# Do not change tags in here without changing every other reference to them.
+
+# If adding new groups or cultures, make sure they are unique.
+
+# Culture-specific opinion can be added to modifiers (E.G., norse_opinion = 5), 
+# but the modifier *has* to be defined in 00_modifier_definitions.txt as well. It also needs localisation. Works for groups as well.
+
+american = {
+	graphical_cultures = { westerngfx }
+	
+	white_american = {
+		graphical_cultures = { englishgfx }
+		
+		color = { 0.20 0.70 1.00 }
+		
+		dynasty_title_names = yes
+		dukes_called_kings = yes
+		
+		male_names = {
+			John William James George Charles Robert Joseph Frank Edward Henry Thomas Walter Harry Willie Arthur Albert 
+			Fred Clarence Paul Harold Roy Joe Raymond Richard Charlie Louis Jack Earl Carl Ernest Ralph David Samuel Sam 
+			Howard Herbert Andrew Elmer Lee Lawrence Francis Alfred Will Daniel Eugene Leo Oscar Floyd Herman Jesse Michael 
+			Tom Lewis Leonard Ray Clyde Benjamin Peter Claude Lester Theodore Russell Eddie Frederick Leroy Clifford Anthony 
+			Jim Jessie Martin Edgar Chester Ben Edwin Dewey Cecil Stanley Lloyd Donald Homer Harvey Luther Norman Johnnie 
+			Leon Bernard Ed Hugh Patrick Kenneth Leslie Victor Alexander Philip Oliver Mack Horace Milton Guy Everett Jacob 
+			Melvin Charley Allen Alvin Earnest Ira Sidney Archie Otis Virgil Julius Jerry Percy Otto Isaac Bill Glenn Maurice 
+			Alex Dan Warren Hubert Marion Lonnie Nathan Stephen Wesley Vincent Marvin Manuel Willard Vernon Willis Dave 
+			Morris Jose Wallace Wilbur Gerald Rufus Bennie Bert August Rudolph Gilbert Curtis Perry Max Steve Franklin 
+			Gordon Mark Nelson Glen Mckinley Roland Dennis Mike Sylvester Johnie Matthew Calvin Jess Emil Phillip Marshall 
+			Amos Elbert Felix Arnold Jake Ellis Gus Emmett Clayton Irvin Jimmie Nathaniel Adolph Moses Alonzo Cornelius 
+			Pete Irving Orville Adam Ollie Clifton Douglas Claud Jay Aaron Tony Abraham Bob Jasper Roscoe Levi Nicholas 
+			Sherman Edmund Owen Noah Clinton Ivan Monroe Wilson Ervin Bruce Elijah Reuben Wayne Jerome Barney Ross 
+			Grant Don Laurence Roger Tommie Wilfred Grady Harley Julian Preston Timothy Leland Antonio Clark Karl Mary 
+			Mose Simon Ted Alva Dock Cleveland Johnny Roosevelt Solomon Luke Carroll Harrison Jeff Troy Millard Silas 
+			Fredrick Austin Forrest Ike Allan Loyd Freddie Myron Wilbert Larry Aubrey Boyd Byron Edd Louie Wiley Jackson 
+			Dwight Rex Neal Anton Hiram Mathew Van Abe Anderson Wade Bryan Christopher Malcolm Miles Dale Merle Andy Fletcher 
+			Forest Riley Mitchell Emory Grover Elwood Major Neil Pat Randolph Ruben Jesus Lyle Murray Nick Marcus 
+			Clement Gene Taylor Edmond Ambrose Dean Booker Earle Ned Ramon Russel Augustus Chris Columbus Dick Eli Emanuel 
+			Delbert Freeman Isiah Loren Pedro Spencer Alton Erwin Jeremiah Ward Wilmer Jimmy Emery Ezra Lorenzo Ora Steven 
+			Tommy Conrad Clay Cyril Ferdinand Lynn Pearl Ronald Bud Dallas Elmo Francisco Lucius Stewart Scott Clair Elton 
+			Lyman Burton Carlton Sterling Al Aloysius Basil Carlos Dewitt Elisha Herschel Lemuel Billy Cyrus Enoch Garland 
+			Hobert Johnson Joshua Orval Vern Alfonso Alphonso Christian Dee Hollis Joel Lowell Emerson Lon Ulysses 
+			Dudley Elliott Harris Houston Kelly Lacy Buck Cleo Garfield Irwin Isaiah Junius Mason
+		}
+		
+		female_names = {
+			Mary Helen Anna Margaret Ruth Elizabeth Florence Ethel Marie Lillian Annie Edna Emma Alice Bessie Bertha Grace 
+			Rose Clara Mildred Gladys Minnie Gertrude Pearl Mabel Frances Dorothy Martha Hazel Ida Irene Myrtle Eva Catherine 
+			Louise Edith Sarah Elsie Esther Lillie Agnes Ella Nellie Mattie Laura Julia Josephine Carrie Viola Hattie Ruby 
+			Lena Jessie Mae Cora Beatrice Alma Willie Mamie Blanche Lucy Lula Fannie Jennie Katherine Marion Lucille Stella 
+			Rosa Evelyn Pauline Ada Thelma Virginia Maggie Vera Maude Beulah Dora Susie Daisy Ellen Nora Sadie Leona 
+			Marguerite Georgia Eleanor Effie Della May Ann Kathryn Nettie Olive Bernice Lottie Sallie Nancy Betty Hilda 
+			Theresa Lizzie Lydia Emily Flora Katie Anne Violet Charlotte Marjorie Inez Ollie Lola Lois Rosie Doris Estelle 
+			Addie Alberta Loretta Lela Etta Mable Rebecca Eunice Goldie Jane Essie Henrietta Iva Jean Ora Harriet Caroline 
+			Nannie Sylvia Eula Mollie Opal Velma Genevieve Verna Susan Marian Amelia Lucile Victoria Madeline Maria Christine 
+			Vivian Rachel Amanda Nina Olga Sara Flossie Estella Ola Matilda Barbara Sophie Alta Amy Eliza Janie Irma Hannah 
+			Kathleen Freda Geneva Celia Norma Callie Naomi Winifred Elva Frieda Kate Belle Sally Ina Allie Isabel Maud Wilma 
+			Erma Juanita Winnie Lila Luella Josie Fern Cecelia Virgie Sophia Nell Cecilia Augusta Selma Adeline Gussie Leola 
+			Rena Jeanette Delia Mayme Millie Isabelle Muriel Bonnie Veronica Miriam Roxie Lelia Margie Dollie Birdie Teresa 
+			Bertie Regina Tillie Cornelia Roberta Cleo Lulu Audrey Faye Adele Carolyn Madge Adelaide Hester Elma Elnora Letha 
+			Leila Lorena Ila Jewell Anita Maudie Lessie Lora Cecile Zella Fay Jeannette Bettie Olivia Leah Johnnie Myra Rita 
+			Jewel Francis Gracie Sue Hallie Neva Claire Dovie Lilly Lenora Rhoda Harriett Ophelia Geraldine Johanna Louisa 
+			Lettie Katharine Dorothea Lou Pearlie Helene Lee Elvira Antoinette Bess Angeline Christina Hettie Nona Rosetta 
+			Zelma Cecil Nola Isabella Linda June Lily Phyllis Marcella Claudia Dessie Lucinda Corinne Rosalie Edythe Lorraine 
+			Gertie Reba Alvina Angelina Erna Wilhelmina Annette Blanch Clarice Linnie Mathilda Merle Abbie Constance Eugenia 
+			Helena Vesta Louella Shirley Hulda Priscilla Corine Janet Angela Eloise Mittie Golda Jannie Catharine Lorene Lona 
+			Elsa Minerva Leota Zora Jimmie Meta Dolly Orpha Rosella Tessie Wanda Eddie Ernestine Leta Evie Isabell Mina 
+			Dolores Carmen Maybelle Nelle Odessa Pansy Yvonne Patricia Cynthia Artie Lura Fanny Georgie Aline Cassie Eileen 
+			Floy Willa Iona Lauretta Donna Lenore Malinda Vida Cordelia Mazie Alpha Polly Peggy Billie Elise Ivy Jeanne Mandy 
+			Ona Era Annabelle Bella Chloe Ester Frankie Iola Leora Phoebe Zula Carol Una Angie Mona
+		}
+	}
+}
+
+italian = {
+	graphical_cultures = { westerngfx }
+	
+	
+	sicilian = {
+		graphical_cultures = { italiangfx southerngfx }
+		
+		color = { 0.90 0.50 0.15 }
+		
+		dynasty_title_names = yes
+		dukes_called_kings = yes
+		
+		male_names = {
+			Achille Adamo Adelmo Adriano Agnolo Agostino Alberico Alberto Alderano Aldo Alessandro Alfio Alfredo Alphons Amadeo 
+			Amedeo Amico Amleto Angelo Annibale Antonio Armando Arnaldo Arsenio Arturo Augusto Azeglio Baccio Baldassare Bartolomeo 
+			Benedetto Benito Benvenuto Beppe Bernardo Bruno Calcedonio Calogero Camillo Carlo Carmelo Carmine Cesare Cipriano Cirillo 
+			Ciro Claudio Coluccio Constantino Coriolano Corrado Cosimo Costantino Costanzo Danilo Damiano Daniele Dante Dario Davide 
+			Delfino Dino Dionigi Domenico Donatello Donato Durante Edoardo Elladio Elmo Emilio Ennio Enrico Enzio Enzo Eraldo Ermanno 
+			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
+			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
+			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
+			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
+			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
+			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
+			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
+			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
+			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
+			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
+			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
+			Saverio Sebastiano Sergius Severino Silvestro Silvio Simone Stefano Tazio Telemaco Temistocle Tiziano Toni Tonino Torquato Tullio 
+			Ubaldo Uberto Ugo Ugolino Umberto Valerio Venancio Vincentio Vincenzo Virgilio Vito Vittorio Zanobi
+		}
+		
+		female_names = {
+			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
+			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
+			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
+			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
+			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
+			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
+			Imelda Iolanda Iris Irma Isa Isabella Jolanda Julia Lara Laura Lauretta Letizia Liana Licia Lidia Liliana 
+			Lilla Lina Lisa Livia Lolita Loredana Loretta Lucia Luciana Lucrezia Ludovica Luigina Luisa Marcella Margherita 
+			Maria Mariana Mariella Marina Marisa Marissa Marta Martina Matilda Maura Melania Melina Melissa Mercedes Michela 
+			Milena Monica Morena Nadia Natalia Nicoletta Nina Olga Ornella Paloma Paola Paoletta Patrizia Paulina Piera Pina 
+			Priscilla Rachel Raffaella Ramona Renata Rita Roberta Romana Romina Rosa Rosalia Rosaria Rosina Rossana Sandra 
+			Serafina Serena Silvia Sonia Sophia Stefani Stefania Stella Susanna Sylvia Tatiana Teresa Tina Tiziana Tonia Tosca 
+			Valentina Valeria Vanessa Vanna Veronica Victoria Virginia Viridiana Vittoria Xenia Zaira Zita
+		}
+	}
+	campanian = {
+		graphical_cultures = { italiangfx southerngfx }
+		
+		color = { 0.85 0.60 0.10 }
+		
+		dynasty_title_names = yes
+		dukes_called_kings = yes
+		
+		male_names = {
+			Achille Adamo Adelmo Adriano Agnolo Agostino Alberico Alberto Alderano Aldo Alessandro Alfio Alfredo Alphons Amadeo 
+			Amedeo Amico Amleto Angelo Annibale Antonio Armando Arnaldo Arsenio Arturo Augusto Azeglio Baccio Baldassare Bartolomeo 
+			Benedetto Benito Benvenuto Beppe Bernardo Bruno Calcedonio Calogero Camillo Carlo Carmelo Carmine Cesare Cipriano Cirillo 
+			Ciro Claudio Coluccio Constantino Coriolano Corrado Cosimo Costantino Costanzo Danilo Damiano Daniele Dante Dario Davide 
+			Delfino Dino Dionigi Domenico Donatello Donato Durante Edoardo Elladio Elmo Emilio Ennio Enrico Enzio Enzo Eraldo Ermanno 
+			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
+			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
+			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
+			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
+			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
+			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
+			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
+			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
+			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
+			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
+			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
+			Saverio Sebastiano Sergius Severino Silvestro Silvio Simone Stefano Tazio Telemaco Temistocle Tiziano Toni Tonino Torquato Tullio 
+			Ubaldo Uberto Ugo Ugolino Umberto Valerio Venancio Vincentio Vincenzo Virgilio Vito Vittorio Zanobi
+		}
+		
+		female_names = {
+			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
+			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
+			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
+			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
+			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
+			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
+			Imelda Iolanda Iris Irma Isa Isabella Jolanda Julia Lara Laura Lauretta Letizia Liana Licia Lidia Liliana 
+			Lilla Lina Lisa Livia Lolita Loredana Loretta Lucia Luciana Lucrezia Ludovica Luigina Luisa Marcella Margherita 
+			Maria Mariana Mariella Marina Marisa Marissa Marta Martina Matilda Maura Melania Melina Melissa Mercedes Michela 
+			Milena Monica Morena Nadia Natalia Nicoletta Nina Olga Ornella Paloma Paola Paoletta Patrizia Paulina Piera Pina 
+			Priscilla Rachel Raffaella Ramona Renata Rita Roberta Romana Romina Rosa Rosalia Rosaria Rosina Rossana Sandra 
+			Serafina Serena Silvia Sonia Sophia Stefani Stefania Stella Susanna Sylvia Tatiana Teresa Tina Tiziana Tonia Tosca 
+			Valentina Valeria Vanessa Vanna Veronica Victoria Virginia Viridiana Vittoria Xenia Zaira Zita
+		}
+	}
+	calabrian = {
+		graphical_cultures = { italiangfx southerngfx }
+		
+		color = { 0.70 0.25 0.10 }
+		
+		dynasty_title_names = yes
+		dukes_called_kings = yes
+		
+		male_names = {
+			Achille Adamo Adelmo Adriano Agnolo Agostino Alberico Alberto Alderano Aldo Alessandro Alfio Alfredo Alphons Amadeo 
+			Amedeo Amico Amleto Angelo Annibale Antonio Armando Arnaldo Arsenio Arturo Augusto Azeglio Baccio Baldassare Bartolomeo 
+			Benedetto Benito Benvenuto Beppe Bernardo Bruno Calcedonio Calogero Camillo Carlo Carmelo Carmine Cesare Cipriano Cirillo 
+			Ciro Claudio Coluccio Constantino Coriolano Corrado Cosimo Costantino Costanzo Danilo Damiano Daniele Dante Dario Davide 
+			Delfino Dino Dionigi Domenico Donatello Donato Durante Edoardo Elladio Elmo Emilio Ennio Enrico Enzio Enzo Eraldo Ermanno 
+			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
+			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
+			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
+			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
+			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
+			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
+			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
+			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
+			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
+			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
+			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
+			Saverio Sebastiano Sergius Severino Silvestro Silvio Simone Stefano Tazio Telemaco Temistocle Tiziano Toni Tonino Torquato Tullio 
+			Ubaldo Uberto Ugo Ugolino Umberto Valerio Venancio Vincentio Vincenzo Virgilio Vito Vittorio Zanobi
+		}
+		
+		female_names = {
+			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
+			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
+			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
+			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
+			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
+			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
+			Imelda Iolanda Iris Irma Isa Isabella Jolanda Julia Lara Laura Lauretta Letizia Liana Licia Lidia Liliana 
+			Lilla Lina Lisa Livia Lolita Loredana Loretta Lucia Luciana Lucrezia Ludovica Luigina Luisa Marcella Margherita 
+			Maria Mariana Mariella Marina Marisa Marissa Marta Martina Matilda Maura Melania Melina Melissa Mercedes Michela 
+			Milena Monica Morena Nadia Natalia Nicoletta Nina Olga Ornella Paloma Paola Paoletta Patrizia Paulina Piera Pina 
+			Priscilla Rachel Raffaella Ramona Renata Rita Roberta Romana Romina Rosa Rosalia Rosaria Rosina Rossana Sandra 
+			Serafina Serena Silvia Sonia Sophia Stefani Stefania Stella Susanna Sylvia Tatiana Teresa Tina Tiziana Tonia Tosca 
+			Valentina Valeria Vanessa Vanna Veronica Victoria Virginia Viridiana Vittoria Xenia Zaira Zita
+		}
+	}
+	apulian = {
+		graphical_cultures = { italiangfx southerngfx }
+		
+		color = { 0.80 0.20 0.05 }
+		
+		dynasty_title_names = yes
+		dukes_called_kings = yes
+		
+		male_names = {
+			Achille Adamo Adelmo Adriano Agnolo Agostino Alberico Alberto Alderano Aldo Alessandro Alfio Alfredo Alphons Amadeo 
+			Amedeo Amico Amleto Angelo Annibale Antonio Armando Arnaldo Arsenio Arturo Augusto Azeglio Baccio Baldassare Bartolomeo 
+			Benedetto Benito Benvenuto Beppe Bernardo Bruno Calcedonio Calogero Camillo Carlo Carmelo Carmine Cesare Cipriano Cirillo 
+			Ciro Claudio Coluccio Constantino Coriolano Corrado Cosimo Costantino Costanzo Danilo Damiano Daniele Dante Dario Davide 
+			Delfino Dino Dionigi Domenico Donatello Donato Durante Edoardo Elladio Elmo Emilio Ennio Enrico Enzio Enzo Eraldo Ermanno 
+			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
+			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
+			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
+			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
+			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
+			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
+			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
+			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
+			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
+			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
+			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
+			Saverio Sebastiano Sergius Severino Silvestro Silvio Simone Stefano Tazio Telemaco Temistocle Tiziano Toni Tonino Torquato Tullio 
+			Ubaldo Uberto Ugo Ugolino Umberto Valerio Venancio Vincentio Vincenzo Virgilio Vito Vittorio Zanobi
+		}
+		
+		female_names = {
+			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
+			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
+			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
+			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
+			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
+			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
+			Imelda Iolanda Iris Irma Isa Isabella Jolanda Julia Lara Laura Lauretta Letizia Liana Licia Lidia Liliana 
+			Lilla Lina Lisa Livia Lolita Loredana Loretta Lucia Luciana Lucrezia Ludovica Luigina Luisa Marcella Margherita 
+			Maria Mariana Mariella Marina Marisa Marissa Marta Martina Matilda Maura Melania Melina Melissa Mercedes Michela 
+			Milena Monica Morena Nadia Natalia Nicoletta Nina Olga Ornella Paloma Paola Paoletta Patrizia Paulina Piera Pina 
+			Priscilla Rachel Raffaella Ramona Renata Rita Roberta Romana Romina Rosa Rosalia Rosaria Rosina Rossana Sandra 
+			Serafina Serena Silvia Sonia Sophia Stefani Stefania Stella Susanna Sylvia Tatiana Teresa Tina Tiziana Tonia Tosca 
+			Valentina Valeria Vanessa Vanna Veronica Victoria Virginia Viridiana Vittoria Xenia Zaira Zita
+		}
+	}
+	polentonese = {
+		graphical_cultures = { italiangfx southerngfx }
+		
+		color = { 0.60 0.30 0.20 }
+		
+		dynasty_title_names = yes
+		dukes_called_kings = yes
+		
+		male_names = {
+			Achille Adamo Adelmo Adriano Agnolo Agostino Alberico Alberto Alderano Aldo Alessandro Alfio Alfredo Alphons Amadeo 
+			Amedeo Amico Amleto Angelo Annibale Antonio Armando Arnaldo Arsenio Arturo Augusto Azeglio Baccio Baldassare Bartolomeo 
+			Benedetto Benito Benvenuto Beppe Bernardo Bruno Calcedonio Calogero Camillo Carlo Carmelo Carmine Cesare Cipriano Cirillo 
+			Ciro Claudio Coluccio Constantino Coriolano Corrado Cosimo Costantino Costanzo Danilo Damiano Daniele Dante Dario Davide 
+			Delfino Dino Dionigi Domenico Donatello Donato Durante Edoardo Elladio Elmo Emilio Ennio Enrico Enzio Enzo Eraldo Ermanno 
+			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
+			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
+			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
+			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
+			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
+			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
+			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
+			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
+			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
+			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
+			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
+			Saverio Sebastiano Sergius Severino Silvestro Silvio Simone Stefano Tazio Telemaco Temistocle Tiziano Toni Tonino Torquato Tullio 
+			Ubaldo Uberto Ugo Ugolino Umberto Valerio Venancio Vincentio Vincenzo Virgilio Vito Vittorio Zanobi
+		}
+		
+		female_names = {
+			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
+			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
+			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
+			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
+			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
+			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
+			Imelda Iolanda Iris Irma Isa Isabella Jolanda Julia Lara Laura Lauretta Letizia Liana Licia Lidia Liliana 
+			Lilla Lina Lisa Livia Lolita Loredana Loretta Lucia Luciana Lucrezia Ludovica Luigina Luisa Marcella Margherita 
+			Maria Mariana Mariella Marina Marisa Marissa Marta Martina Matilda Maura Melania Melina Melissa Mercedes Michela 
+			Milena Monica Morena Nadia Natalia Nicoletta Nina Olga Ornella Paloma Paola Paoletta Patrizia Paulina Piera Pina 
+			Priscilla Rachel Raffaella Ramona Renata Rita Roberta Romana Romina Rosa Rosalia Rosaria Rosina Rossana Sandra 
+			Serafina Serena Silvia Sonia Sophia Stefani Stefania Stella Susanna Sylvia Tatiana Teresa Tina Tiziana Tonia Tosca 
+			Valentina Valeria Vanessa Vanna Veronica Victoria Virginia Viridiana Vittoria Xenia Zaira Zita
+		}
+	}
+}

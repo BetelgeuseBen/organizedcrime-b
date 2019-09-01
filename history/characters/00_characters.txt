@@ -1,0 +1,221 @@
+1 = {
+    name=Giuseppe
+    dynasty=8
+  
+    religion=criminal
+    culture=sicilian
+  
+    1867.05.02 = { birth=yes }
+    1889.01.01 = { add_spouse=12 }
+    1903.12.01 = { add_spouse=15 }
+    1930.08.15 = { death=yes }
+	
+	mother = 2
+	father = 3
+}
+
+2 = {
+    name=Angelina
+	dynasty=18
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1848.05.11 = { birth=yes }
+    1860.01.01 = { add_spouse=3 }
+    1873.01.01 = { add_spouse=4 }
+    1941.06.20 = { death=yes }
+}
+
+3 = {
+    name=Calogero
+    dynasty=8
+  
+    religion=upright
+    culture=sicilian
+  
+    1839.11.07 = { birth=yes }
+    1872.05.26 = { death=yes }
+}
+
+4 = {
+    name=Bernardo
+    dynasty=12
+  
+    religion=criminal
+    culture=sicilian
+  
+    1847.07.06 = { birth=yes }
+    1909.07.10 = { death=yes }
+}
+
+5 = {
+    name=Vincenzo
+    dynasty=12
+  
+    religion=criminal
+    culture=sicilian
+  
+    1874.01.01 = { birth=yes }
+    1876.01.01 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+6 = {
+    name=Vincenzo
+    dynasty=12
+  
+    religion=criminal
+    culture=sicilian
+  
+    1886.05.01 = { birth=yes }
+    1922.05.08 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+7 = {
+    name=Ciro
+    dynasty=12
+  
+    religion=criminal
+    culture=sicilian
+  
+    1888.07.20 = { birth=yes }
+    1938.02.20 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+8 = {
+    name=Nicolò
+    dynasty=12
+  
+    religion=criminal
+    culture=sicilian
+  
+    1890.01.06 = { birth=yes }
+    1916.09.07 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+9 = {
+    name=Lucia
+    dynasty=12
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1876.01.18 = { birth=yes }
+    1946.01.01 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+10 = {
+    name=Salvatrice
+    dynasty=12
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1880.07.30 = { birth=yes }
+    1946.01.01 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+11 = {
+    name=Rosalia
+    dynasty=12
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1892.08.19 = { birth=yes }
+    1915.10.14 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+12 = {
+    name=Maria
+    dynasty=19
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1867.01.01 = { birth=yes }
+    1898.01.01 = { death=yes }
+	
+}
+
+13 = {
+    name=Angela
+    dynasty=8
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1891.01.01 = { birth=yes }
+    1892.01.01 = { death=yes }
+	
+	father = 1
+	mother = 12
+}
+
+14 = {
+    name=Calogero
+    dynasty=8
+  
+    religion=criminal
+    culture=sicilian
+  
+    1892.11.01 = { birth=yes }
+    1912.01.01 = { death=yes }
+	
+	father = 1
+	mother = 12
+}
+
+15 = {
+    name=Nicolina
+    dynasty=20
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1884.01.01 = { birth=yes }
+    1967.01.01 = { death=yes }
+	
+	father = 1
+	mother = 12
+}
+
+16 = {
+    name=Ignazio
+    dynasty=17
+  
+    religion=criminal
+    culture=sicilian
+  
+    1877.03.21 = { birth=yes }
+    1903.12.23 = { add_spouse=10 }
+    1947.01.13 = { death=yes }
+}

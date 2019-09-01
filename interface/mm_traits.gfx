@@ -1,0 +1,19 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_murder_suspect"
+		texturefile = "gfx/traits/murder_suspect.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_rat"
+		texturefile = "gfx/traits/rat.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}

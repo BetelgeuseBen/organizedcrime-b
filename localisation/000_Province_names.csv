@@ -1,0 +1,460 @@
+PROV1;St. George;St. George;St. George;;;;;;;;;x
+PROV2;West Brighton;West Brighton;West Brighton;;;;;;;;;x
+PROV3;Castleton Corners;Castleton Corners;Castleton Corners;;;;;;;;;x
+PROV4;Stapleton;Stapleton;Stapleton;;;;;;;;;x
+PROV5;Emerson Hill;Emerson Hill;Emerson Hill;;;;;;;;;x
+PROV6;Todt Hill;Todt Hill;Todt Hill;;;;;;;;;x
+PROV7;Manor Heights;Manor Heights;Manor Heights;;;;;;;;;x
+PROV8;Port Richmond;Port Richmond;Port Richmond;;;;;;;;;x
+PROV9;Mariners Harbor;Mariners Harbor;Mariners Harbor;;;;;;;;;x
+PROV10;Graniteville;Graniteville;Graniteville;;;;;;;;;x
+PROV11;Howland Hook;Howland Hook;Howland Hook;;;;;;;;;x
+PROV12;Bloomfield;Bloomfield;Bloomfield;;;;;;;;;x
+PROV13;Bull's Head;Bull's Head;Bull's Head;;;;;;;;;x
+PROV14;New Springville;New Springville;New Springville;;;;;;;;;x
+PROV15;Chelsea;Chelsea;Chelsea;;;;;;;;;x
+PROV16;Clifton;Clifton;Clifton;;;;;;;;;x
+PROV17;Fort Wadsworth;Fort Wadsworth;Fort Wadsworth;;;;;;;;;x
+PROV18;Concord;Concord;Concord;;;;;;;;;x
+PROV19;South Beach;South Beach;South Beach;;;;;;;;;x
+PROV20;Grant City;Grant City;Grant City;;;;;;;;;x
+PROV21;New Dorp;New Dorp;New Dorp;;;;;;;;;x
+PROV22;Great Kills;Great Kills;Great Kills;;;;;;;;;x
+PROV23;Richmond;Richmond;Richmond;;;;;;;;;x
+PROV24;Woodrow;Woodrow;Woodrow;;;;;;;;;x
+PROV25;Fresh Kills;Fresh Kills;Fresh Kills;;;;;;;;;x
+PROV26;Arden Heights;Arden Heights;Arden Heights;;;;;;;;;x
+PROV27;Eltingville;Eltingville;Eltingville;;;;;;;;;x
+PROV28;Rossville;Rossville;Rossville;;;;;;;;;x
+PROV29;Tottenville;Tottenville;Tottenville;;;;;;;;;x
+PROV30;Huguenot;Huguenot;Huguenot;;;;;;;;;x
+PROV31;Pleasant Plains;Pleasant Plains;Pleasant Plains;;;;;;;;;x
+PROV32;Charleston;Charleston;Charleston;;;;;;;;;x
+PROV33;Downtown;Downtown;Downtown;;;;;;;;;x
+PROV34;Boerum Hill;Boerum Hill;Boerum Hill;;;;;;;;;x
+PROV35;Navy Yards;Navy Yards;Navy Yards;;;;;;;;;x
+PROV36;Brooklyn Heights;Brooklyn Heights;Brooklyn Heights;;;;;;;;;x
+PROV37;D.U.M.B.O.;D.U.M.B.O.;D.U.M.B.O.;;;;;;;;;x
+PROV38;Vinegar Hill;Vinegar Hill;Vinegar Hill;;;;;;;;;x
+PROV39;Red Hook;Red Hook;Red Hook;;;;;;;;;x
+PROV40;Carroll Gardens;Carroll Gardens;Carroll Gardens;;;;;;;;;x
+PROV41;Cobble Hill;Cobble Hill;Cobble Hill;;;;;;;;;x
+PROV42;Gowanus;Gowanus;Gowanus;;;;;;;;;x
+PROV43;North Park Slope;North Park Slope;North Park Slope;;;;;;;;;x
+PROV44;South Park Slope;South Park Slope;South Park Slope;;;;;;;;;x
+PROV45;Sunset Park;Sunset Park;Sunset Park;;;;;;;;;x
+PROV46;Sunset South;Sunset South;Sunset South;;;;;;;;;x
+PROV47;Industry City;Industry City;Industry City;;;;;;;;;x
+PROV48;Greenwood Heights;Greenwood Heights;Greenwood Heights;;;;;;;;;x
+PROV49;Greenwood Waterfront;Greenwood Waterfront;Greenwood Waterfront;;;;;;;;;x
+PROV50;Bedford;Bedford;Bedford;;;;;;;;;x
+PROV51;Fort Greene;Fort Greene;Fort Greene;;;;;;;;;x
+PROV52;Clinton Hill;Clinton Hill;Clinton Hill;;;;;;;;;x
+PROV53;Stuyvesant;Stuyvesant;Stuyvesant;;;;;;;;;x
+PROV54;Stuyvesant Heights;Stuyvesant Heights;Stuyvesant Heights;;;;;;;;;x
+PROV55;Crown Heights;Crown Heights;Crown Heights;;;;;;;;;x
+PROV56;Prospect Park;Prospect Park;Prospect Park;;;;;;;;;x
+PROV57;Prospect Heights;Prospect Heights;Prospect Heights;;;;;;;;;x
+PROV58;Weeksville;Weeksville;Weeksville;;;;;;;;;x
+PROV59;Wingate;Wingate;Wingate;;;;;;;;;x
+PROV60;Central Bushwick;Central Bushwick;Central Bushwick;;;;;;;;;x
+PROV61;South Bushwick;South Bushwick;South Bushwick;;;;;;;;;x
+PROV62;North Bushwick;North Bushwick;North Bushwick;;;;;;;;;x
+PROV63;Williamsburg;Williamsburg;Williamsburg;;;;;;;;;x
+PROV64;Broadway Triangle;Broadway Triangle;Broadway Triangle;;;;;;;;;x
+PROV65;East Williamsburg;East Williamsburg;East Williamsburg;;;;;;;;;x
+PROV66;South Side;South Side;South Side;;;;;;;;;x
+PROV67;North Side;North Side;North Side;;;;;;;;;x
+PROV68;Greenpoint Waterfront;Greenpoint Waterfront;Greenpoint Waterfront;;;;;;;;;x
+PROV69;McCarren Park;McCarren Park;McCarren Park;;;;;;;;;x
+PROV70;North Greenpoint;North Greenpoint;North Greenpoint;;;;;;;;;x
+PROV71;East Greenpoint;East Greenpoint;East Greenpoint;;;;;;;;;x
+PROV72;Bay Ridge;Bay Ridge;Bay Ridge;;;;;;;;;x
+PROV73;Bay Ridge Waterfront;Bay Ridge Waterfront;Bay Ridge Waterfront;;;;;;;;;x
+PROV74;Dyker Heights;Dyker Heights;Dyker Heights;;;;;;;;;x
+PROV75;Dyker Beach;Dyker Beach;Dyker Beach;;;;;;;;;x
+PROV76;Fort Hamilton;Fort Hamilton;Fort Hamilton;;;;;;;;;x
+PROV77;South Bensonhurst;South Bensonhurst;South Bensonhurst;;;;;;;;;x
+PROV78;East Bensonhurst;East Bensonhurst;East Bensonhurst;;;;;;;;;x
+PROV79;West Bensonhurst;West Bensonhurst;West Bensonhurst;;;;;;;;;x
+PROV80;East Bath Beach;East Bath Beach;East Bath Beach;;;;;;;;;x
+PROV81;West Bath Beach;West Bath Beach;West Bath Beach;;;;;;;;;x
+PROV82;South Borough Park;South Borough Park;South Borough Park;;;;;;;;;x
+PROV83;West Borough Park;West Borough Park;West Borough Park;;;;;;;;;x
+PROV84;North Borough Park;North Borough Park;North Borough Park;;;;;;;;;x
+PROV85;East Borough Park;East Borough Park;East Borough Park;;;;;;;;;x
+PROV86;Mapleton;Mapleton;Mapleton;;;;;;;;;x
+PROV87;Flatbush;Flatbush;Flatbush;;;;;;;;;x
+PROV88;Parkville;Parkville;Parkville;;;;;;;;;x
+PROV89;Kensington;Kensington;Kensington;;;;;;;;;x
+PROV90;Windsor Terrace;Windsor Terrace;Windsor Terrace;;;;;;;;;x
+PROV91;Prospect Park South;Prospect Park South;Prospect Park South;;;;;;;;;x
+PROV92;East Flatbush;East Flatbush;East Flatbush;;;;;;;;;x
+PROV93;South Flatbush;South Flatbush;South Flatbush;;;;;;;;;x
+PROV94;Lefferts Gardens;Lefferts Gardens;Lefferts Gardens;;;;;;;;;x
+PROV95;Rugby;Rugby;Rugby;;;;;;;;;x
+PROV96;Remsen Village;Remsen Village;Remsen Village;;;;;;;;;x
+PROV97;Midwood;Midwood;Midwood;;;;;;;;;x
+PROV98;East Midwood;East Midwood;East Midwood;;;;;;;;;x
+PROV99;South Midwood;South Midwood;South Midwood;;;;;;;;;x
+PROV100;Manhattan Terrace;Manhattan Terrace;Manhattan Terrace;;;;;;;;;x
+PROV101;Flatlands;Flatlands;Flatlands;;;;;;;;;x
+PROV102;Georgetown;Georgetown;Georgetown;;;;;;;;;x
+PROV103;Mill Basin;Mill Basin;Mill Basin;;;;;;;;;x
+PROV104;Bergen Beach;Bergen Beach;Bergen Beach;;;;;;;;;x
+PROV105;Mill Island;Mill Island;Mill Island;;;;;;;;;x
+PROV106;East Canarsie;East Canarsie;East Canarsie;;;;;;;;;x
+PROV107;North Canarsie;North Canarsie;North Canarsie;;;;;;;;;x
+PROV108;West Canarsie;West Canarsie;West Canarsie;;;;;;;;;x
+PROV109;Canarsie Beach;Canarsie Beach;Canarsie Beach;;;;;;;;;x
+PROV110;Paerdegat Basin;Paerdegat Basin;Paerdegat Basin;;;;;;;;;x
+PROV111;Marine Park;Marine Park;Marine Park;;;;;;;;;x
+PROV112;White Island;White Island;White Island;;;;;;;;;x
+PROV113;Barren Island;Barren Island;Barren Island;;;;;;;;;x
+PROV114;Coney;Coney;Coney;;;;;;;;;x
+PROV115;Seagate;Seagate;Seagate;;;;;;;;;x
+PROV116;West Brighton;West Brighton;West Brighton;;;;;;;;;x
+PROV117;Brighton Beach;Brighton Beach;Brighton Beach;;;;;;;;;x
+PROV118;Manhattan Beach;Manhattan Beach;Manhattan Beach;;;;;;;;;x
+PROV119;North Gravesend;North Gravesend;North Gravesend;;;;;;;;;x
+PROV120;South Gravesend;South Gravesend;South Gravesend;;;;;;;;;x
+PROV121;West Gravesend;West Gravesend;West Gravesend;;;;;;;;;x
+PROV122;Gravesend Waterfront;Gravesend Waterfront;Gravesend Waterfront;;;;;;;;;x
+PROV123;Sheepshead Bay;Sheepshead Bay;Sheepshead Bay;;;;;;;;;x
+PROV124;Homecrest;Homecrest;Homecrest;;;;;;;;;x
+PROV125;Sheepshead Beach;Sheepshead Beach;Sheepshead Beach;;;;;;;;;x
+PROV126;Gerritsen Beach;Gerritsen Beach;Gerritsen Beach;;;;;;;;;x
+PROV127;Madison;Madison;Madison;;;;;;;;;x
+PROV128;East New York;East New York;East New York;;;;;;;;;x
+PROV129;Penn Ave;Penn Ave;Penn Ave;;;;;;;;;x
+PROV130;Cypress Hills;Cypress Hills;Cypress Hills;;;;;;;;;x
+PROV131;City Line;City Line;City Line;;;;;;;;;x
+PROV132;Highland Park;Highland Park;Highland Park;;;;;;;;;x
+PROV133;East New Lots;East New Lots;East New Lots;;;;;;;;;x
+PROV134;West New Lots;West New Lots;West New Lots;;;;;;;;;x
+PROV135;Starrett City;Starrett City;Starrett City;;;;;;;;;x
+PROV136;Spring Creek;Spring Creek;Spring Creek;;;;;;;;;x
+PROV137;Brownsville;Brownsville;Brownsville;;;;;;;;;x
+PROV138;South Brownsville;South Brownsville;South Brownsville;;;;;;;;;x
+PROV139;Broadway Junction;Broadway Junction;Broadway Junction;;;;;;;;;x
+PROV140;Ocean Hill;Ocean Hill;Ocean Hill;;;;;;;;;x
+PROV141;Central Jamaica;Central Jamaica;Central Jamaica;;;;;;;;;x
+PROV142;West Jamaica;West Jamaica;West Jamaica;;;;;;;;;x
+PROV143;East Jamaica;East Jamaica;East Jamaica;;;;;;;;;x
+PROV144;Hollis;Hollis;Hollis;;;;;;;;;x
+PROV145;St. Albans;St. Albans;St. Albans;;;;;;;;;x
+PROV146;Jamaica Hills;Jamaica Hills;Jamaica Hills;;;;;;;;;x
+PROV147;Briarwood;Briarwood;Briarwood;;;;;;;;;x
+PROV148;Holliswood;Holliswood;Holliswood;;;;;;;;;x
+PROV149;Central Idlewild;Central Idlewild;Central Idlewild;;;;;;;;;x
+PROV150;West Idlewild;West Idlewild;West Idlewild;;;;;;;;;x
+PROV151;East Idlewild;East Idlewild;East Idlewild;;;;;;;;;x
+PROV152;East Rochdale;East Rochdale;East Rochdale;;;;;;;;;x
+PROV153;West Rochdale;West Rochdale;West Rochdale;;;;;;;;;x
+PROV154;Springfield Gardens;Springfield Gardens;Springfield Gardens;;;;;;;;;x
+PROV155;Brookville;Brookville;Brookville;;;;;;;;;x
+PROV156;Laurelton;Laurelton;Laurelton;;;;;;;;;x
+PROV157;Cambria Heights;Cambria Heights;Cambria Heights;;;;;;;;;x
+PROV158;Rosedale;Rosedale;Rosedale;;;;;;;;;x
+PROV159;Ozone Park;Ozone Park;Ozone Park;;;;;;;;;x
+PROV160;South Richmond Hill;South Richmond Hill;South Richmond Hill;;;;;;;;;x
+PROV161;South Ozone Park;South Ozone Park;South Ozone Park;;;;;;;;;x
+PROV162;Lindenwood;Lindenwood;Lindenwood;;;;;;;;;x
+PROV163;Richmond Hill;Richmond Hill;Richmond Hill;;;;;;;;;x
+PROV164;Woodhaven;Woodhaven;Woodhaven;;;;;;;;;x
+PROV165;Kew Gardens;Kew Gardens;Kew Gardens;;;;;;;;;x
+PROV166;Howard Beach;Howard Beach;Howard Beach;;;;;;;;;x
+PROV167;Cross Bay;Cross Bay;Cross Bay;;;;;;;;;x
+PROV168;Broad Channel;Broad Channel;Broad Channel;;;;;;;;;x
+PROV169;Far Rockaway;Far Rockaway;Far Rockaway;;;;;;;;;x
+PROV170;Bayswater;Bayswater;Bayswater;;;;;;;;;x
+PROV171;Edgemere;Edgemere;Edgemere;;;;;;;;;x
+PROV172;Seaside;Seaside;Seaside;;;;;;;;;x
+PROV173;Somerville;Somerville;Somerville;;;;;;;;;x
+PROV174;Arverne;Arverne;Arverne;;;;;;;;;x
+PROV175;Rockaway Park;Rockaway Park;Rockaway Park;;;;;;;;;x
+PROV176;Breezy Point;Breezy Point;Breezy Point;;;;;;;;;x
+PROV177;Belle Harbor;Belle Harbor;Belle Harbor;;;;;;;;;x
+PROV178;Neponsit;Neponsit;Neponsit;;;;;;;;;x
+PROV179;Roxbury;Roxbury;Roxbury;;;;;;;;;x
+PROV180;Elmhurst;Elmhurst;Elmhurst;;;;;;;;;x
+PROV181;LeFrak City;LeFrak City;LeFrak City;;;;;;;;;x
+PROV182;Corona;Corona;Corona;;;;;;;;;x
+PROV183;North Corona;North Corona;North Corona;;;;;;;;;x
+PROV184;Jackson Heights;Jackson Heights;Jackson Heights;;;;;;;;;x
+PROV185;East Elmhurst;East Elmhurst;East Elmhurst;;;;;;;;;x
+PROV186;Maspeth;Maspeth;Maspeth;;;;;;;;;x
+PROV187;Mt. Olivet;Mt. Olivet;Mt. Olivet;;;;;;;;;x
+PROV188;Juniper Valley;Juniper Valley;Juniper Valley;;;;;;;;;x
+PROV189;Middle Village;Middle Village;Middle Village;;;;;;;;;x
+PROV190;South Ridgewood;South Ridgewood;South Ridgewood;;;;;;;;;x
+PROV191;North Ridgewood;North Ridgewood;North Ridgewood;;;;;;;;;x
+PROV192;Fresh Pond;Fresh Pond;Fresh Pond;;;;;;;;;x
+PROV193;West Glendale;West Glendale;West Glendale;;;;;;;;;x
+PROV194;East Glendale;East Glendale;East Glendale;;;;;;;;;x
+PROV195;Forest Hills;Forest Hills;Forest Hills;;;;;;;;;x
+PROV196;Forest Hills Gardens;Forest Hills Gardens;Forest Hills Gardens;;;;;;;;;x
+PROV197;Rego Park;Rego Park;Rego Park;;;;;;;;;x
+PROV198;Hunters Point;Hunters Point;Hunters Point;;;;;;;;;x
+PROV199;Long Island City;Long Island City;Long Island City;;;;;;;;;x
+PROV200;Astoria;Astoria;Astoria;;;;;;;;;x
+PROV201;Astoria Heights;Astoria Heights;Astoria Heights;;;;;;;;;x
+PROV202;Ravenswood;Ravenswood;Ravenswood;;;;;;;;;x
+PROV203;Hallets Point;Hallets Point;Hallets Point;;;;;;;;;x
+PROV204;Steinway;Steinway;Steinway;;;;;;;;;x
+PROV205;Ditmars;Ditmars;Ditmars;;;;;;;;;x
+PROV206;East Steinway;East Steinway;East Steinway;;;;;;;;;x
+PROV207;Sunnyside;Sunnyside;Sunnyside;;;;;;;;;x
+PROV208;Sunnyside Gardens;Sunnyside Gardens;Sunnyside Gardens;;;;;;;;;x
+PROV209;Blissville;Blissville;Blissville;;;;;;;;;x
+PROV210;Woodside;Woodside;Woodside;;;;;;;;;x
+PROV211;Mt. Zion;Mt. Zion;Mt. Zion;;;;;;;;;x
+PROV212;Flushing;Flushing;Flushing;;;;;;;;;x
+PROV213;College Point;College Point;College Point;;;;;;;;;x
+PROV214;Malba;Malba;Malba;;;;;;;;;x
+PROV215;Willets Point;Willets Point;Willets Point;;;;;;;;;x
+PROV216;Kew Gardens Hills;Kew Gardens Hills;Kew Gardens Hills;;;;;;;;;x
+PROV217;Flushing Meadows;Flushing Meadows;Flushing Meadows;;;;;;;;;x
+PROV218;Kissena;Kissena;Kissena;;;;;;;;;x
+PROV219;Pomonok;Pomonok;Pomonok;;;;;;;;;x
+PROV220;Auburndale;Auburndale;Auburndale;;;;;;;;;x
+PROV221;Hillcrest;Hillcrest;Hillcrest;;;;;;;;;x
+PROV222;Utopia;Utopia;Utopia;;;;;;;;;x
+PROV223;Fresh Meadows;Fresh Meadows;Fresh Meadows;;;;;;;;;x
+PROV224;North Auburndale;North Auburndale;North Auburndale;;;;;;;;;x
+PROV225;Whitestone;Whitestone;Whitestone;;;;;;;;;x
+PROV226;Clearview;Clearview;Clearview;;;;;;;;;x
+PROV227;Beechhurst;Beechhurst;Beechhurst;;;;;;;;;x
+PROV228;Murray Hill;Murray Hill;Murray Hill;;;;;;;;;x
+PROV229;Bayside;Bayside;Bayside;;;;;;;;;x
+PROV230;Bayside Hills;Bayside Hills;Bayside Hills;;;;;;;;;x
+PROV231;Bay Terrace;Bay Terrace;Bay Terrace;;;;;;;;;x
+PROV232;Little Neck;Little Neck;Little Neck;;;;;;;;;x
+PROV233;Douglaston;Douglaston;Douglaston;;;;;;;;;x
+PROV234;South Douglaston;South Douglaston;South Douglaston;;;;;;;;;x
+PROV235;Bellaire;Bellaire;Bellaire;;;;;;;;;x
+PROV236;North Queens Village;North Queens Village;North Queens Village;;;;;;;;;x
+PROV237;South Queens Village;South Queens Village;South Queens Village;;;;;;;;;x
+PROV238;Oakland Gardens;Oakland Gardens;Oakland Gardens;;;;;;;;;x
+PROV239;Glen Oaks;Glen Oaks;Glen Oaks;;;;;;;;;x
+PROV240;Floral Park;Floral Park;Floral Park;;;;;;;;;x
+PROV241;Bellerose;Bellerose;Bellerose;;;;;;;;;x
+PROV242;Mott Haven;Mott Haven;Mott Haven;;;;;;;;;x
+PROV243;Port Morris;Port Morris;Port Morris;;;;;;;;;x
+PROV244;Melrose;Melrose;Melrose;;;;;;;;;x
+PROV245;St. Mary's Park;St. Mary's Park;St. Mary's Park;;;;;;;;;x
+PROV246;Woodstock;Woodstock;Woodstock;;;;;;;;;x
+PROV247;Concourse;Concourse;Concourse;;;;;;;;;x
+PROV248;Concourse Village;Concourse Village;Concourse Village;;;;;;;;;x
+PROV249;Concourse Waterfront;Concourse Waterfront;Concourse Waterfront;;;;;;;;;x
+PROV250;Highbridge;Highbridge;Highbridge;;;;;;;;;x
+PROV251;Mount Eden;Mount Eden;Mount Eden;;;;;;;;;x
+PROV252;Hunts Point;Hunts Point;Hunts Point;;;;;;;;;x
+PROV253;South Hunts Point;South Hunts Point;South Hunts Point;;;;;;;;;x
+PROV254;East Hunts Point;East Hunts Point;East Hunts Point;;;;;;;;;x
+PROV255;Longwood;Longwood;Longwood;;;;;;;;;x
+PROV256;Rikers Island;Rikers Island;Rikers Island;;;;;;;;;x
+PROV257;Claremont Village;Claremont Village;Claremont Village;;;;;;;;;x
+PROV258;Charlotte Gardens;Charlotte Gardens;Charlotte Gardens;;;;;;;;;x
+PROV259;Forest Houses;Forest Houses;Forest Houses;;;;;;;;;x
+PROV260;Foxhurst;Foxhurst;Foxhurst;;;;;;;;;x
+PROV261;Kingsbridge;Kingsbridge;Kingsbridge;;;;;;;;;x
+PROV262;Spuyten Duyvil;Spuyten Duyvil;Spuyten Duyvil;;;;;;;;;x
+PROV263;Norwood;Norwood;Norwood;;;;;;;;;x
+PROV264;Bedford Park;Bedford Park;Bedford Park;;;;;;;;;x
+PROV265;Marble Hill;Marble Hill;Marble Hill;;;;;;;;;x
+PROV266;Riverdale;Riverdale;Riverdale;;;;;;;;;x
+PROV267;Fieldston;Fieldston;Fieldston;;;;;;;;;x
+PROV268;North Riverdale;North Riverdale;North Riverdale;;;;;;;;;x
+PROV269;Van Cortland Park;Van Cortland Park;Van Cortland Park;;;;;;;;;x
+PROV270;Woodlawn;Woodlawn;Woodlawn;;;;;;;;;x
+PROV271;West Tremont;West Tremont;West Tremont;;;;;;;;;x
+PROV272;East Tremont;East Tremont;East Tremont;;;;;;;;;x
+PROV273;Belmont;Belmont;Belmont;;;;;;;;;x
+PROV274;Bronx Zoo;Bronx Zoo;Bronx Zoo;;;;;;;;;x
+PROV275;Botanical Garden;Botanical Garden;Botanical Garden;;;;;;;;;x
+PROV276;University Heights;University Heights;University Heights;;;;;;;;;x
+PROV277;South Kingsbridge;South Kingsbridge;South Kingsbridge;;;;;;;;;x
+PROV278;Morris Heights;Morris Heights;Morris Heights;;;;;;;;;x
+PROV279;Mount Hope;Mount Hope;Mount Hope;;;;;;;;;x
+PROV280;Fordham;Fordham;Fordham;;;;;;;;;x
+PROV281;Westchester Square;Westchester Square;Westchester Square;;;;;;;;;x
+PROV282;Country Club;Country Club;Country Club;;;;;;;;;x
+PROV283;Unionport;Unionport;Unionport;;;;;;;;;x
+PROV284;Middletown;Middletown;Middletown;;;;;;;;;x
+PROV285;Parkchester;Parkchester;Parkchester;;;;;;;;;x
+PROV286;West Farms;West Farms;West Farms;;;;;;;;;x
+PROV287;Van Nest;Van Nest;Van Nest;;;;;;;;;x
+PROV288;Morris Park;Morris Park;Morris Park;;;;;;;;;x
+PROV289;Soundview Park;Soundview Park;Soundview Park;;;;;;;;;x
+PROV290;Soundview Village;Soundview Village;Soundview Village;;;;;;;;;x
+PROV291;Castle Hill;Castle Hill;Castle Hill;;;;;;;;;x
+PROV292;Clason Point;Clason Point;Clason Point;;;;;;;;;x
+PROV293;Shorehaven;Shorehaven;Shorehaven;;;;;;;;;x
+PROV294;East Schuylerville;East Schuylerville;East Schuylerville;;;;;;;;;x
+PROV295;West Schuylerville;West Schuylerville;West Schuylerville;;;;;;;;;x
+PROV296;Edgewater Park;Edgewater Park;Edgewater Park;;;;;;;;;x
+PROV297;Throggs Neck;Throggs Neck;Throggs Neck;;;;;;;;;x
+PROV298;Ferry Point;Ferry Point;Ferry Point;;;;;;;;;x
+PROV299;Pelham Bay;Pelham Bay;Pelham Bay;;;;;;;;;x
+PROV300;Pelham Bay Park;Pelham Bay Park;Pelham Bay Park;;;;;;;;;x
+PROV301;Co-op City;Co-op City;Co-op City;;;;;;;;;x
+PROV302;Baychester;Baychester;Baychester;;;;;;;;;x
+PROV303;City Island;City Island;City Island;;;;;;;;;x
+PROV304;Pelham Parkway;Pelham Parkway;Pelham Parkway;;;;;;;;;x
+PROV305;Morris;Morris;Morris;;;;;;;;;x
+PROV306;Pelham Gardens;Pelham Gardens;Pelham Gardens;;;;;;;;;x
+PROV307;Allerton;Allerton;Allerton;;;;;;;;;x
+PROV308;Laconia;Laconia;Laconia;;;;;;;;;x
+PROV309;Eastchester;Eastchester;Eastchester;;;;;;;;;x
+PROV310;Edenwald;Edenwald;Edenwald;;;;;;;;;x
+PROV311;Olinville;Olinville;Olinville;;;;;;;;;x
+PROV312;Williamsbridge;Williamsbridge;Williamsbridge;;;;;;;;;x
+PROV313;Wakefield;Wakefield;Wakefield;;;;;;;;;x
+PROV314;City Hall;City Hall;City Hall;;;;;;;;;x
+PROV315;Fulton St;Fulton St;Fulton St;;;;;;;;;x
+PROV316;Brooklyn Bridge;Brooklyn Bridge;Brooklyn Bridge;;;;;;;;;x
+PROV317;Catherine Slip;Catherine Slip;Catherine Slip;;;;;;;;;x
+PROV318;Wall St;Wall St;Wall St;;;;;;;;;x
+PROV319;Battery;Battery;Battery;;;;;;;;;x
+PROV320;Whitehall St;Whitehall St;Whitehall St;;;;;;;;;x
+PROV321;Rector St;Rector St;Rector St;;;;;;;;;x
+PROV322;Cortlandt St;Cortlandt St;Cortlandt St;;;;;;;;;x
+PROV323;Five Points;Five Points;Five Points;;;;;;;;;x
+PROV324;Hester St;Hester St;Hester St;;;;;;;;;x
+PROV325;Soho;Soho;Soho;;;;;;;;;x
+PROV326;Kenmare St;Kenmare St;Kenmare St;;;;;;;;;x
+PROV327;Mercer St;Mercer St;Mercer St;;;;;;;;;x
+PROV328;Prince St;Prince St;Prince St;;;;;;;;;x
+PROV329;Chelsea;Chelsea;Chelsea;;;;;;;;;x
+PROV330;Chelsea Waterfront;Chelsea Waterfront;Chelsea Waterfront;;;;;;;;;x
+PROV331;Union Square;Union Square;Union Square;;;;;;;;;x
+PROV332;Flatiron District;Flatiron District;Flatiron District;;;;;;;;;x
+PROV333;Tenderloin;Tenderloin;Tenderloin;;;;;;;;;x
+PROV334;Hudson Yards;Hudson Yards;Hudson Yards;;;;;;;;;x
+PROV335;West Village;West Village;West Village;;;;;;;;;x
+PROV336;Meatpacking District;Meatpacking District;Meatpacking District;;;;;;;;;x
+PROV337;Noho;Noho;Noho;;;;;;;;;x
+PROV338;Christopher St;Christopher St;Christopher St;;;;;;;;;x
+PROV339;Washington Square;Washington Square;Washington Square;;;;;;;;;x
+PROV340;Chambers St;Chambers St;Chambers St;;;;;;;;;x
+PROV341;Franklin St;Franklin St;Franklin St;;;;;;;;;x
+PROV342;Thomas St;Thomas St;Thomas St;;;;;;;;;x
+PROV343;Radio Row;Radio Row;Radio Row;;;;;;;;;x
+PROV344;Hudson Square;Hudson Square;Hudson Square;;;;;;;;;x
+PROV345;Murray St;Murray St;Murray St;;;;;;;;;x
+PROV346;South Bowery;South Bowery;South Bowery;;;;;;;;;x
+PROV347;Manhattan Bridge;Manhattan Bridge;Manhattan Bridge;;;;;;;;;x
+PROV348;East Broadway;East Broadway;East Broadway;;;;;;;;;x
+PROV349;Williamsburg Bridge;Williamsburg Bridge;Williamsburg Bridge;;;;;;;;;x
+PROV350;Allen St;Allen St;Allen St;;;;;;;;;x
+PROV351;Essex St;Essex St;Essex St;;;;;;;;;x
+PROV352;East Village;East Village;East Village;;;;;;;;;x
+PROV353;Alphabet City;Alphabet City;Alphabet City;;;;;;;;;x
+PROV354;Tompkins Square;Tompkins Square;Tompkins Square;;;;;;;;;x
+PROV355;North Bowery;North Bowery;North Bowery;;;;;;;;;x
+PROV356;East 4th St;East 4th St;East 4th St;;;;;;;;;x
+PROV357;Gramercy Park;Gramercy Park;Gramercy Park;;;;;;;;;x
+PROV358;Gas House District;Gas House District;Gas House District;;;;;;;;;x
+PROV359;Kips Bay;Kips Bay;Kips Bay;;;;;;;;;x
+PROV360;Stuyvesant Square;Stuyvesant Square;Stuyvesant Square;;;;;;;;;x
+PROV361;Rose Hill;Rose Hill;Rose Hill;;;;;;;;;x
+PROV362;Times Square;Times Square;Times Square;;;;;;;;;x
+PROV363;West 59th St;West 59th St;West 59th St;;;;;;;;;x
+PROV364;Herald Square;Herald Square;Herald Square;;;;;;;;;x
+PROV365;Garment District;Garment District;Garment District;;;;;;;;;x
+PROV366;Diamond District;Diamond District;Diamond District;;;;;;;;;x
+PROV367;West 47th St;West 47th St;West 47th St;;;;;;;;;x
+PROV368;Striker's Lane;Striker's Lane;Striker's Lane;;;;;;;;;x
+PROV369;West 50th St;West 50th St;West 50th St;;;;;;;;;x
+PROV370;West 34th St;West 34th St;West 34th St;;;;;;;;;x
+PROV371;West 42nd St;West 42nd St;West 42nd St;;;;;;;;;x
+PROV372;Turtle Bay Waterfront;Turtle Bay Waterfront;Turtle Bay Waterfront;;;;;;;;;x
+PROV373;Sutton Place;Sutton Place;Sutton Place;;;;;;;;;x
+PROV374;East 42nd St;East 42nd St;East 42nd St;;;;;;;;;x
+PROV375;East 50th St;East 50th St;East 50th St;;;;;;;;;x
+PROV376;East 57th St;East 57th St;East 57th St;;;;;;;;;x
+PROV377;Lower Murray Hill;Lower Murray Hill;Lower Murray Hill;;;;;;;;;x
+PROV378;Upper Murray Hill;Upper Murray Hill;Upper Murray Hill;;;;;;;;;x
+PROV379;Murray Hill Waterfront;Murray Hill Waterfront;Murray Hill Waterfront;;;;;;;;;x
+PROV380;Tudor City;Tudor City;Tudor City;;;;;;;;;x
+PROV381;Greeley Square;Greeley Square;Greeley Square;;;;;;;;;x
+PROV382;West 86th St;West 86th St;West 86th St;;;;;;;;;x
+PROV383;Central Park West;Central Park West;Central Park West;;;;;;;;;x
+PROV384;West 79th St;West 79th St;West 79th St;;;;;;;;;x
+PROV385;West 96th St;West 96th St;West 96th St;;;;;;;;;x
+PROV386;West 72nd St;West 72nd St;West 72nd St;;;;;;;;;x
+PROV387;Lincoln Square;Lincoln Square;Lincoln Square;;;;;;;;;x
+PROV388;Columbus Circle;Columbus Circle;Columbus Circle;;;;;;;;;x
+PROV389;Ansonia;Ansonia;Ansonia;;;;;;;;;x
+PROV390;North Riverside Blvd;North Riverside Blvd;North Riverside Blvd;;;;;;;;;x
+PROV391;South Riverside Blvd;South Riverside Blvd;South Riverside Blvd;;;;;;;;;x
+PROV392;North Manhattan Valley;North Manhattan Valley;North Manhattan Valley;;;;;;;;;x
+PROV393;South Manhattan Valley;South Manhattan Valley;South Manhattan Valley;;;;;;;;;x
+PROV394;West 106th St;West 106th St;West 106th St;;;;;;;;;x
+PROV395;West 100th St;West 100th St;West 100th St;;;;;;;;;x
+PROV396;Morningside;Morningside;Morningside;;;;;;;;;x
+PROV397;Morningside Park;Morningside Park;Morningside Park;;;;;;;;;x
+PROV398;West 125th St;West 125th St;West 125th St;;;;;;;;;x
+PROV399;Manhattanville;Manhattanville;Manhattanville;;;;;;;;;x
+PROV400;East 63rd St;East 63rd St;East 63rd St;;;;;;;;;x
+PROV401;East 66th St;East 66th St;East 66th St;;;;;;;;;x
+PROV402;East 71st St;East 71st St;East 71st St;;;;;;;;;x
+PROV403;St. Catherine;St. Catherine;St. Catherine;;;;;;;;;x
+PROV404;Blackwell's Island;Blackwell's Island;Blackwell's Island;;;;;;;;;x
+PROV405;East End Ave;East End Ave;East End Ave;;;;;;;;;x
+PROV406;Hoorn's Hook;Hoorn's Hook;Hoorn's Hook;;;;;;;;;x
+PROV407;East 73rd St;East 73rd St;East 73rd St;;;;;;;;;x
+PROV408;East 76th St;East 76th St;East 76th St;;;;;;;;;x
+PROV409;East 90th St;East 90th St;East 90th St;;;;;;;;;x
+PROV410;East 86th St;East 86th St;East 86th St;;;;;;;;;x
+PROV411;East 79th St;East 79th St;East 79th St;;;;;;;;;x
+PROV412;East 91st St;East 91st St;East 91st St;;;;;;;;;x
+PROV413;East 96th St;East 96th St;East 96th St;;;;;;;;;x
+PROV414;Lenox Hill;Lenox Hill;Lenox Hill;;;;;;;;;x
+PROV415;East 70th St;East 70th St;East 70th St;;;;;;;;;x
+PROV416;East 65th St;East 65th St;East 65th St;;;;;;;;;x
+PROV417;East 62nd St;East 62nd St;East 62nd St;;;;;;;;;x
+PROV418;Great Lawn;Great Lawn;Great Lawn;;;;;;;;;x
+PROV419;Sheep Meadow;Sheep Meadow;Sheep Meadow;;;;;;;;;x
+PROV420;North Meadow;North Meadow;North Meadow;;;;;;;;;x
+PROV421;West 125th St;West 125th St;West 125th St;;;;;;;;;x
+PROV422;Astor Row;Astor Row;Astor Row;;;;;;;;;x
+PROV423;Mount Morris Park;Mount Morris Park;Mount Morris Park;;;;;;;;;x
+PROV424;Central Park North;Central Park North;Central Park North;;;;;;;;;x
+PROV425;West 121st St;West 121st St;West 121st St;;;;;;;;;x
+PROV426;East 125th St;East 125th St;East 125th St;;;;;;;;;x
+PROV427;East 124th St;East 124th St;East 124th St;;;;;;;;;x
+PROV428;Pleasant Ave;Pleasant Ave;Pleasant Ave;;;;;;;;;x
+PROV429;East 120th St;East 120th St;East 120th St;;;;;;;;;x
+PROV430;East 116th St;East 116th St;East 116th St;;;;;;;;;x
+PROV431;Harlem River Park;Harlem River Park;Harlem River Park;;;;;;;;;x
+PROV432;East 135th St;East 135th St;East 135th St;;;;;;;;;x
+PROV433;Strivers Row;Strivers Row;Strivers Row;;;;;;;;;x
+PROV434;East 145th St;East 145th St;East 145th St;;;;;;;;;x
+PROV435;East 142nd St;East 142nd St;East 142nd St;;;;;;;;;x
+PROV436;East 150th St;East 150th St;East 150th St;;;;;;;;;x
+PROV437;East 102nd St;East 102nd St;East 102nd St;;;;;;;;;x
+PROV438;East 97th St;East 97th St;East 97th St;;;;;;;;;x
+PROV439;East 106th St;East 106th St;East 106th St;;;;;;;;;x
+PROV440;East 110th St;East 110th St;East 110th St;;;;;;;;;x
+PROV441;South Harlem Waterfront;South Harlem Waterfront;South Harlem Waterfront;;;;;;;;;x
+PROV442;Hamilton Heights;Hamilton Heights;Hamilton Heights;;;;;;;;;x
+PROV443;Sugar Hill;Sugar Hill;Sugar Hill;;;;;;;;;x
+PROV444;Riverbank;Riverbank;Riverbank;;;;;;;;;x
+PROV445;West 155th St;West 155th St;West 155th St;;;;;;;;;x
+PROV446;Randall's Island;Randall's Island;Randall's Island;;;;;;;;;x
+PROV447;Wards Island;Wards Island;Wards Island;;;;;;;;;x
+PROV448;Highbridge Park;Highbridge Park;Highbridge Park;;;;;;;;;x
+PROV449;West 160th St;West 160th St;West 160th St;;;;;;;;;x
+PROV450;East 160th St;East 160th St;East 160th St;;;;;;;;;x
+PROV451;West 175th St;West 175th St;West 175th St;;;;;;;;;x
+PROV452;Hudson Heights;Hudson Heights;Hudson Heights;;;;;;;;;x
+PROV453;Fort George;Fort George;Fort George;;;;;;;;;x
+PROV454;Fort George Hill;Fort George Hill;Fort George Hill;;;;;;;;;x
+PROV455;Laurel Hill Terace;Laurel Hill Terace;Laurel Hill Terace;;;;;;;;;x
+PROV456;Dyckman St;Dyckman St;Dyckman St;;;;;;;;;x
+PROV457;West 215th St;West 215th St;West 215th St;;;;;;;;;x
+PROV458;Inwood Hill;Inwood Hill;Inwood Hill;;;;;;;;;x
+PROV459;59th St Bridge;59th St Bridge;59th St Bridge;;;;;;;;;x
+PROV460;BaybridgeTEST;BaybridgeTEST;BaybridgeTEST;;;;;;;;;x

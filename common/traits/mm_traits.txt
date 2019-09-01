@@ -1,0 +1,9 @@
+rat = {
+	random = no
+	
+	diplomacy_penalty = -2
+	intrigue_penalty = -2
+	stewardship_penalty = -2
+	
+	illegal_group_opinion = -100
+}

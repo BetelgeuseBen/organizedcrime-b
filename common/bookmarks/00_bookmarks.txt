@@ -1,0 +1,9 @@
+bm_a_new_century = {
+	name = "BM_A_NEW_CENTURY"
+	desc = "BM_A_NEW_CENTURY_INFO"
+	date = 1900.1.1
+	custom_start = yes
+	picture = GFX_pick_era_image_3
+	
+	era = yes
+}

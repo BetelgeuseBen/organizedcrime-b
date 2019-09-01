@@ -1,0 +1,51 @@
+namespace = MMP
+
+character_event = {
+	id = MMP.1
+	desc = EVTDESCMMP.1
+	picture = GFX_evt_whispers
+	border = GFX_event_normal_frame_intrigue
+	
+	capable_only = yes
+	prisoner = no
+	is_part_of_plot = yes
+	
+	trigger = {
+		OR = {
+			has_plot = plot_kill_character
+			has_plot = plot_kill_spouse
+		}
+		plot_target_char = {
+			NOT = { is_inaccessible_trigger = yes }
+		}
+		NOT = { has_character_flag = murder_in_motion }
+		plot_power_contribution = 
+		{
+			plotter = ROOT
+			power = 0.025
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		plot_target_char = { save_event_target_as = plot_target }
+	}
+	
+	option = {
+		name = EVTOPTAMMP.1
+		trigger = {
+			plot_power = 1.0
+		}
+		
+		event_target:plot_target = { death = {death_reason = death_murder killer = ROOT} }
+		random = {
+			chance = 50
+			ROOT = {
+				character_event = { id = MMI.1 }
+			}
+		}
+	}
+}

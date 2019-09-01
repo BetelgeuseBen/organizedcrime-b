@@ -1,0 +1,21 @@
+# c_south_bowery
+
+# County Title
+title = c_south_bowery
+
+# Settlements
+max_settlements = 7
+
+b_south_bowery = castle
+b_grand_st_4 = city
+b_stanton_st = temple
+b_hester_st_2 = castle
+b_rivington_st = city
+b_broome_st_3 = temple
+b_canal_st_4 = castle
+
+# Misc
+culture = sicilian
+religion = criminal
+
+#History
