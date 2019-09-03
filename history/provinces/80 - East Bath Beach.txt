@@ -12,7 +12,7 @@ b_86th_st_2 = city
 #b_cropsey_ave = castle
 
 # Misc
-culture = apulian
+culture = white_american
 religion = upright
 
 #History

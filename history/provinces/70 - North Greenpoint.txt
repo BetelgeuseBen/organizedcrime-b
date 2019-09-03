@@ -13,7 +13,7 @@ b_provost_st = city
 #b_henry_st = city
 
 # Misc
-culture = sicilian
+culture = white_american
 religion = upright
 
 #History

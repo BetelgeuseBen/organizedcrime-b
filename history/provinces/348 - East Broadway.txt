@@ -15,7 +15,7 @@ b_water_st_6 = city
 #b_jackson_st = castle
 
 # Misc
-culture = campanian
+culture = litvak
 religion = criminal
 
 #History

@@ -13,7 +13,7 @@ b_clearview = castle
 #b_francis_lewis_blvd_5 = city
 
 # Misc
-culture = campanian
+culture = white_american
 religion = upright
 
 #History

@@ -11,7 +11,7 @@ b_flushing_meadows = castle
 #b_hebron_st = temple
 
 # Misc
-culture = sicilian
+culture = white_american
 religion = upright
 
 #History

@@ -15,7 +15,7 @@ b_e_5th_st_2 = temple
 #b_avenue_a_2 = castle
 
 # Misc
-culture = sicilian
+culture = galizianer
 religion = criminal
 
 #History

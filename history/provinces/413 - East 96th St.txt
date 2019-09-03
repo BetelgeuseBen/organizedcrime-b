@@ -13,7 +13,7 @@ b_e_92nd_st_2 = temple
 #b_e_93rd_st_2 = city
 
 # Misc
-culture = sicilian
+culture = litvak
 religion = criminal
 
 #History

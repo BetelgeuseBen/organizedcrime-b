@@ -13,7 +13,7 @@ b_todt_hill = castle
 #b_ridge_ave = city
 
 # Misc
-culture = calabrian
+culture = white_american
 religion = upright
 
 #History

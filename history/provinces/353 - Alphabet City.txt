@@ -15,7 +15,7 @@ b_e_7th_st = temple
 #b_e_11th_st_2 = castle
 
 # Misc
-culture = calabrian
+culture = galizianer
 religion = criminal
 
 #History

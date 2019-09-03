@@ -11,7 +11,7 @@ b_ferry_point = castle
 #b_hutchinson_river_pkwy = temple
 
 # Misc
-culture = calabrian
+culture = white_american
 religion = upright
 
 #History

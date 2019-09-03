@@ -14,7 +14,7 @@ b_ditmas_ave = city
 #b_foster_ave = temple
 
 # Misc
-culture = sicilian
+culture = white_american
 religion = upright
 
 #History

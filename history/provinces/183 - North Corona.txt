@@ -13,7 +13,7 @@ b_junction_blvd_2 = city
 #b_northern_blvd = city
 
 # Misc
-culture = calabrian
+culture = white_american
 religion = upright
 
 #History

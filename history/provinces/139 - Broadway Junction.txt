@@ -12,7 +12,7 @@ b_broadway_4 = city
 #b_atlantic_ave_3 = castle
 
 # Misc
-culture = calabrian
+culture = white_american
 religion = upright
 
 #History

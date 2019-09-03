@@ -15,7 +15,7 @@ b_e_83rd_st_3 = temple
 #b_e_81st_st_3 = castle
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

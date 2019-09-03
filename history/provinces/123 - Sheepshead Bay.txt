@@ -13,7 +13,7 @@ b_sheepshead_bay = castle
 #b_avenue_x_2 = city
 
 # Misc
-culture = sicilian
+culture = white_american
 religion = upright
 
 #History

@@ -13,7 +13,7 @@ b_e_82nd_st = castle
 #b_e_83rd_st = city
 
 # Misc
-culture = calabrian
+culture = galizianer
 religion = criminal
 
 #History

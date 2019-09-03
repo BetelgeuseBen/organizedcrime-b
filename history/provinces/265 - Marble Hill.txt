@@ -12,7 +12,7 @@ b_marble_hill = castle
 #b_tibbett_ave = castle
 
 # Misc
-culture = apulian
+culture = white_american
 religion = upright
 
 #History

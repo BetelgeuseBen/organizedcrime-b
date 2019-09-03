@@ -11,7 +11,7 @@ b_dyckman_st = castle
 #b_post_ave_2 = temple
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

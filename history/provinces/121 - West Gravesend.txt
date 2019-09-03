@@ -14,7 +14,7 @@ b_86th_st_3 = city
 #b_avenue_p = temple
 
 # Misc
-culture = campanian
+culture = white_american
 religion = upright
 
 #History

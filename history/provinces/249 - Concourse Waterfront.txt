@@ -13,7 +13,7 @@ b_concourse_waterfront = castle
 #b_151st_st = city
 
 # Misc
-culture = campanian
+culture = white_american
 religion = criminal
 
 #History

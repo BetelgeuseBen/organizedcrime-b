@@ -13,7 +13,7 @@ b_emmons_ave = city
 #b_nostrand_ave_4 = city
 
 # Misc
-culture = sicilian
+culture = white_american
 religion = upright
 
 #History

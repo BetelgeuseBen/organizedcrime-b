@@ -14,7 +14,7 @@ b_e_66th_st = temple
 #b_e_61st_st_2 = temple
 
 # Misc
-culture = sicilian
+culture = irish
 religion = criminal
 
 #History

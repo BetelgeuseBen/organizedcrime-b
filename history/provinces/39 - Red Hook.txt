@@ -15,7 +15,7 @@ b_columbia_st = city
 #b_lorraine_st = castle
 
 # Misc
-culture = sicilian
+culture = unknown_italian
 religion = upright
 
 #History

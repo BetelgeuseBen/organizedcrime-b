@@ -11,7 +11,7 @@ b_blackwells_island = castle
 #b_loop_rd = temple
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

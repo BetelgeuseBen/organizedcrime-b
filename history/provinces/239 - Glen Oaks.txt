@@ -11,7 +11,7 @@ b_glen_oaks = castle
 #b_commonwealth_blvd = temple
 
 # Misc
-culture = calabrian
+culture = white_american
 religion = upright
 
 #History

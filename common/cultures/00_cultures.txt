@@ -72,12 +72,19 @@ american = {
 			Ona Era Annabelle Bella Chloe Ester Frankie Iola Leora Phoebe Zula Carol Una Angie Mona
 		}
 	}
+	afro_american = {
+		graphical_cultures = { englishgfx }
+		color = { 0.50 0.2 0 }
+	}
 }
 
 italian = {
 	graphical_cultures = { westerngfx }
 	
-	
+	unknown_italian = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.80 0.50 0.40 }
+	}
 	sicilian = {
 		graphical_cultures = { italiangfx southerngfx }
 		
@@ -302,5 +309,41 @@ italian = {
 			Serafina Serena Silvia Sonia Sophia Stefani Stefania Stella Susanna Sylvia Tatiana Teresa Tina Tiziana Tonia Tosca 
 			Valentina Valeria Vanessa Vanna Veronica Victoria Virginia Viridiana Vittoria Xenia Zaira Zita
 		}
+	}
+}
+irish = {
+	graphical_cultures = { westerngfx }
+	
+	irish = {
+		color = { 0.29 1 0 }
+		graphical_cultures = { italiangfx southerngfx }
+	}
+}
+jewish = {
+	graphical_cultures = { westerngfx }
+	
+	galizianer = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.95 0.95 0.95 }
+	}
+	litvak = {
+		color = { 1 0.85 0 }
+		graphical_cultures = { italiangfx southerngfx }
+	}
+	german_jew = {
+		color = { 0.5 0.5 0.5 }
+		graphical_cultures = { italiangfx southerngfx }
+	}
+	polish_jew = {
+		color = { 1 0 0 }
+		graphical_cultures = { italiangfx southerngfx }
+	}
+}
+park = {
+	graphical_cultures = { westerngfx }
+	
+	central_park = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.5 0.1 0 }
 	}
 }

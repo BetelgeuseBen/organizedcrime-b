@@ -15,7 +15,7 @@ b_duane_st = city
 #b_broadway_9 = castle
 
 # Misc
-culture = sicilian
+culture = unknown_italian
 religion = criminal
 
 #History

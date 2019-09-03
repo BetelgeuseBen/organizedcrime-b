@@ -12,7 +12,7 @@ b_16th_ave_2 = city
 #b_shore_pkwy = castle
 
 # Misc
-culture = apulian
+culture = white_american
 religion = upright
 
 #History

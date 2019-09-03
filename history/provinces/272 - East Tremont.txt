@@ -12,7 +12,7 @@ b_crotona = city
 #b_tremont_ave_2 = castle
 
 # Misc
-culture = sicilian
+culture = white_american
 religion = criminal
 
 #History

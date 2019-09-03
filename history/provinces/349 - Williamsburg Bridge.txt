@@ -14,7 +14,7 @@ b_delancey_st = castle
 #b_broome_st_4 = temple
 
 # Misc
-culture = campanian
+culture = litvak
 religion = criminal
 
 #History

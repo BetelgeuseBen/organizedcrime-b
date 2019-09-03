@@ -11,7 +11,7 @@ b_howard_beach = castle
 #b_todd_ln = temple
 
 # Misc
-culture = sicilian
+culture = white_american
 religion = upright
 
 #History

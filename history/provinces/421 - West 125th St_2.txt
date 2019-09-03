@@ -15,7 +15,7 @@ b_w_127th_st = castle
 #b_st_nicholas_ave = castle
 
 # Misc
-culture = white_american
+culture = afro_american
 religion = upright
 
 #History

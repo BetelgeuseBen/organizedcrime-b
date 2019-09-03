@@ -15,7 +15,7 @@ b_tiemann_pl = castle
 #b_broadway_14 = castle
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

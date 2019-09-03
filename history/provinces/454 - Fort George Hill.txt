@@ -11,7 +11,7 @@ b_fort_george_hill = castle
 #b_hillside_ave_3 = temple
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

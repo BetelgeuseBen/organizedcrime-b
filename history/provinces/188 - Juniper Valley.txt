@@ -12,7 +12,7 @@ b_juniper_valley = castle
 #b_80th_st_3 = castle
 
 # Misc
-culture = apulian
+culture = white_american
 religion = upright
 
 #History

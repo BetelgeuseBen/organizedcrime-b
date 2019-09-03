@@ -15,7 +15,7 @@ b_lafayette_st_3 = temple
 #b_bowery_3 = castle
 
 # Misc
-culture = white_american
+culture = unknown_italian
 religion = upright
 
 #History

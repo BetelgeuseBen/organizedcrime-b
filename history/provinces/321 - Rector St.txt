@@ -15,7 +15,7 @@ b_thames_st = city
 #b_carlisle_st = castle
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

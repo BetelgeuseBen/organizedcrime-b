@@ -13,7 +13,7 @@ b_e_138th_st = temple
 #b_e_131st_st = city
 
 # Misc
-culture = sicilian
+culture = afro_american
 religion = upright
 
 #History

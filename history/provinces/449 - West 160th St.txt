@@ -12,7 +12,7 @@ b_riverside_dr_2 = city
 #b_broadway_15 = castle
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

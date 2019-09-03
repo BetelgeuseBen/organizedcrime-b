@@ -11,7 +11,7 @@ b_west_215th_st = castle
 #b_10th_ave = temple
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

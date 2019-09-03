@@ -13,7 +13,7 @@ b_pelham_gardens = castle
 #b_mace_ave = city
 
 # Misc
-culture = sicilian
+culture = white_american
 religion = upright
 
 #History

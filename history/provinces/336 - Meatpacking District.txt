@@ -15,7 +15,7 @@ b_hudson_st = city
 #b_jane_st = castle
 
 # Misc
-culture = calabrian
+culture = unknown_italian
 religion = criminal
 
 #History

@@ -12,7 +12,7 @@ b_morris_park = castle
 #b_van_nest_ave_2 = castle
 
 # Misc
-culture = campanian
+culture = white_american
 religion = upright
 
 #History

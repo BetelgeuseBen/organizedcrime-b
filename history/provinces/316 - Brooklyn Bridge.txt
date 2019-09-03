@@ -13,7 +13,7 @@ b_dover_st = castle
 #b_pearl_st_2 = city
 
 # Misc
-culture = campanian
+culture = unknown_italian
 religion = upright
 
 #History

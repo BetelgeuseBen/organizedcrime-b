@@ -15,7 +15,7 @@ b_e_90th_st = city
 #b_e_92nd_st = castle
 
 # Misc
-culture = calabrian
+culture = galizianer
 religion = criminal
 
 #History

@@ -14,7 +14,7 @@ b_kingsbridge_ave = city
 #b_sedgewick_ave = temple
 
 # Misc
-culture = apulian
+culture = white_american
 religion = criminal
 
 #History

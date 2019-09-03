@@ -15,7 +15,7 @@ b_w_45th_st_2 = city
 #b_w_43rd_st_2 = castle
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

@@ -13,7 +13,7 @@ b_nassau_ave = city
 #b_eckford_st = city
 
 # Misc
-culture = sicilian
+culture = white_american
 religion = upright
 
 #History

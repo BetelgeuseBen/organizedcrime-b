@@ -15,7 +15,7 @@ b_w_116th_st_2 = castle
 #b_w_123rd_st = castle
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

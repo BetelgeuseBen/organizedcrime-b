@@ -15,7 +15,7 @@ b_hester_st_3 = temple
 #b_canal_st_5 = castle
 
 # Misc
-culture = sicilian
+culture = litvak
 religion = criminal
 
 #History
