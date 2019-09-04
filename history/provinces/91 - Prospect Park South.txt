@@ -13,7 +13,7 @@ b_church_ave_2 = city
 #b_ocean_ave_3 = city
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

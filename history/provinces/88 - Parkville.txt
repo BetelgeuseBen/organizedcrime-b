@@ -12,7 +12,7 @@ b_parkville = castle
 #b_cortelyou_rd = castle
 
 # Misc
-culture = sicilian
+culture = galizianer
 religion = upright
 
 #History

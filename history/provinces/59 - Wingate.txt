@@ -13,7 +13,7 @@ b_wingate = castle
 #b_union_st_3 = city
 
 # Misc
-culture = white_american
+culture = afro_american
 religion = upright
 
 #History

@@ -15,7 +15,7 @@ b_jersey_st = city
 #b_st_marks_pl = castle
 
 # Misc
-culture = sicilian
+culture = litvak
 religion = upright
 
 #History

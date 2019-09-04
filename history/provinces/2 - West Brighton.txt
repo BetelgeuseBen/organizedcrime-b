@@ -15,7 +15,7 @@ b_west_brighton = castle
 #b_bement_ave = castle
 
 # Misc
-culture = sicilian
+culture = unknown_italian
 religion = upright
 
 #History

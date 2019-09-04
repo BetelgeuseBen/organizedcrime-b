@@ -13,7 +13,7 @@ b_water_st_2 = city
 #b_bridge_st = city
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

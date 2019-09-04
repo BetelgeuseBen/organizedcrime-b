@@ -15,7 +15,7 @@ b_dekalb_ave = temple
 #b_gates_ave = castle
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

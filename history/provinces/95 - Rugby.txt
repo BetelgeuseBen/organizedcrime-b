@@ -12,7 +12,7 @@ b_utica_ave_3 = city
 #b_winthrop_st = castle
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

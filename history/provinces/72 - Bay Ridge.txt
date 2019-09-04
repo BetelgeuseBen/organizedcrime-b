@@ -13,7 +13,7 @@ b_5th_ave_6 = city
 #b_4th_ave_4 = city
 
 # Misc
-culture = calabrian
+culture = unknown_italian
 religion = upright
 
 #History

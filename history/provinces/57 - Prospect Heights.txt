@@ -13,7 +13,7 @@ b_washington_ave_2 = city
 #b_sterling_pl = city
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

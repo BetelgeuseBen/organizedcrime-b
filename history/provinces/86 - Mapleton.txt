@@ -11,7 +11,7 @@ b_mapleton = castle
 #b_dahill_rd = temple
 
 # Misc
-culture = white_american
+culture = unknown_italian
 religion = upright
 
 #History

@@ -14,7 +14,7 @@ b_new_utrecht_ave = city
 #b_55th_st = temple
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

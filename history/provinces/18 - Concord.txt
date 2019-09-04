@@ -12,7 +12,7 @@ b_concord = castle
 #b_w_fingerboard_rd = castle
 
 # Misc
-culture = sicilian
+culture = german
 religion = upright
 
 #History

@@ -14,7 +14,7 @@ b_flatbush_ave = temple
 #b_rogers_ave_2 = temple
 
 # Misc
-culture = sicilian
+culture = galizianer
 religion = upright
 
 #History

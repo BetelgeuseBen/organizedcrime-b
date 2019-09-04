@@ -11,7 +11,7 @@ b_eltingville = castle
 #b_ridgecrest_ave = temple
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

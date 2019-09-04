@@ -12,7 +12,7 @@ b_grant_city = castle
 #b_father_capodanno_blvd = castle
 
 # Misc
-culture = white_american
+culture = french
 religion = upright
 
 #History

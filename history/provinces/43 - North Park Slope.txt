@@ -15,7 +15,7 @@ b_5th_ave = temple
 #b_union_st_2 = castle
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

@@ -13,7 +13,7 @@ b_empire_blvd = city
 #b_nostrand_ave_3 = city
 
 # Misc
-culture = white_american
+culture = afro_american
 religion = upright
 
 #History

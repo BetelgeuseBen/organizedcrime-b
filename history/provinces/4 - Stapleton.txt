@@ -15,7 +15,7 @@ b_st_pauls_ave = city
 #b_murray_hulbert_ave = castle
 
 # Misc
-culture = white_american
+culture = naval_base
 religion = upright
 
 #History

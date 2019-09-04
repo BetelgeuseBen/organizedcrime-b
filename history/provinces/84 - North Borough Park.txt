@@ -12,7 +12,7 @@ b_north_borough_park = castle
 #b_fort_hamilton_pkwy_4 = castle
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

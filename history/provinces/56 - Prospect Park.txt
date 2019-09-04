@@ -11,7 +11,7 @@ b_prospect_park = castle
 #b_mary_pinkett_ave = temple
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

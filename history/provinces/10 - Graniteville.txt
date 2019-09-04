@@ -15,7 +15,7 @@ b_graniteville = castle
 #b_wilcox_st = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

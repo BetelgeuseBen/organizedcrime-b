@@ -12,7 +12,7 @@ b_navy_st = city
 #b_railroad_ave = castle
 
 # Misc
-culture = white_american
+culture = naval_base
 religion = upright
 
 #History

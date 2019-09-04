@@ -15,7 +15,7 @@ b_cadman_plaza_w = city
 #b_cranberry_st = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

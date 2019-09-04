@@ -13,7 +13,7 @@ b_58th_st = city
 #b_5th_ave_4 = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

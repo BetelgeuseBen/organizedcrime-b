@@ -12,7 +12,7 @@ b_avenue_j = city
 #b_avenue_l = castle
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

@@ -11,7 +11,7 @@ b_dyker_beach = castle
 #b_poly_pl = temple
 
 # Misc
-culture = white_american
+culture = unknown_italian
 religion = upright
 
 #History
