@@ -10,7 +10,7 @@
 american = {
 	graphical_cultures = { westerngfx }
 	
-	white_american = {
+	yankee = {
 		graphical_cultures = { englishgfx }
 		
 		color = { 0.20 0.70 1.00 }
@@ -72,9 +72,21 @@ american = {
 			Ona Era Annabelle Bella Chloe Ester Frankie Iola Leora Phoebe Zula Carol Una Angie Mona
 		}
 	}
+	german = {
+		graphical_cultures = { englishgfx }
+		color = { 0.5 0.5 0.5 }
+	}
+	french = {
+		graphical_cultures = { englishgfx }
+		color = { 0 0.16 1 }
+	}
 	afro_american = {
 		graphical_cultures = { englishgfx }
 		color = { 0.50 0.2 0 }
+	}
+	scandinavian = {
+	graphical_cultures = { englishgfx }
+	color = { 0.14 0.8 1 }
 	}
 }
 
@@ -330,20 +342,38 @@ jewish = {
 		color = { 1 0.85 0 }
 		graphical_cultures = { italiangfx southerngfx }
 	}
-	german_jew = {
-		color = { 0.5 0.5 0.5 }
-		graphical_cultures = { italiangfx southerngfx }
-	}
-	polish_jew = {
-		color = { 1 0 0 }
+}
+slavic = {
+	czech = {
+		color = { 0.28 0 1 }
 		graphical_cultures = { italiangfx southerngfx }
 	}
 }
-park = {
+no_living_there = {
 	graphical_cultures = { westerngfx }
 	
 	central_park = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.5 0.1 0 }
+	}
+	naval_base = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0 1 1 }
+	}
+	iron_mine = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.8 0.2 0.8 }
+	}
+	resort = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.2 0.65 1 }
+	}
+	fort = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.6 0.6 0.6 }
+	}
+	port= {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.2 0.1 0.2 }
 	}
 }
