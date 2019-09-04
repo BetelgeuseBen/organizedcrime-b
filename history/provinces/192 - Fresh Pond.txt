@@ -12,7 +12,7 @@ b_fresh_pond_rd_2 = city
 #b_traffic_ave = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

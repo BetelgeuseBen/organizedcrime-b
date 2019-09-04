@@ -11,7 +11,7 @@ b_marine_park = castle
 #b_marine_pkwy = temple
 
 # Misc
-culture = white_american
+culture = central_park
 religion = upright
 
 #History

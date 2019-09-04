@@ -10,7 +10,7 @@ b_roxbury = castle
 #b_bayside = city
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

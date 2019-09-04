@@ -11,7 +11,7 @@ b_kew_gardens_rd = city
 #b_austin_st = temple
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

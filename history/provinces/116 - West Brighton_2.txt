@@ -13,7 +13,7 @@ b_ocean_pkwy = city
 #b_w_5th_st = city
 
 # Misc
-culture = white_american
+culture = litvak
 religion = upright
 
 #History

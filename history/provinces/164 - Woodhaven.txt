@@ -12,7 +12,7 @@ b_woodhaven_blvd = city
 #b_forest_pkwy = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

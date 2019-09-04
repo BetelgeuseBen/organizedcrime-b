@@ -12,7 +12,7 @@ b_gravesend_waterfront = castle
 #b_harway_ave = castle
 
 # Misc
-culture = white_american
+culture = unknown_italian
 religion = upright
 
 #History

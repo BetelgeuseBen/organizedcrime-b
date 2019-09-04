@@ -12,7 +12,7 @@ b_seagate = castle
 #b_atlantic_ave = castle
 
 # Misc
-culture = white_american
+culture = litvak
 religion = upright
 
 #History

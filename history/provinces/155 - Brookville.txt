@@ -12,7 +12,7 @@ b_brookville = castle
 #b_230th_st = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

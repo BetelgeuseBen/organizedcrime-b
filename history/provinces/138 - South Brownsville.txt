@@ -13,7 +13,7 @@ b_south_brownsville = castle
 #b_riverdale_ave = city
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

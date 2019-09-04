@@ -13,7 +13,7 @@ b_surf_ave = city
 #b_w_17th_st = city
 
 # Misc
-culture = white_american
+culture = litvak
 religion = upright
 
 #History

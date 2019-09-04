@@ -14,7 +14,7 @@ b_flatlands_ave = city
 #b_avenue_k = temple
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

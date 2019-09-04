@@ -14,7 +14,7 @@ b_north_gravesend = castle
 #b_avenue_u_2 = temple
 
 # Misc
-culture = white_american
+culture = unknown_italian
 religion = upright
 
 #History

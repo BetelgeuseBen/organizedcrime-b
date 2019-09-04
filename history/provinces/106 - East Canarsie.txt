@@ -14,7 +14,7 @@ b_avenue_n_3 = temple
 #b_avenue_m_2 = temple
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

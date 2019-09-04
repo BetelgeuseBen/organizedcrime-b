@@ -12,7 +12,7 @@ b_st_albans = castle
 #b_120th_ave = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History
