@@ -12,7 +12,7 @@ b_east_elmhurst = castle
 #b_ditmars_blvd = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

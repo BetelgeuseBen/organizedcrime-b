@@ -13,7 +13,7 @@ b_south_ozone_park = castle
 #b_lefferts_blvd_2 = city
 
 # Misc
-culture = calabrian
+culture = yankee
 religion = upright
 
 #History

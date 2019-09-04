@@ -12,7 +12,7 @@ b_south_gravesend = castle
 #b_shore_pkwy_2 = castle
 
 # Misc
-culture = campanian
+culture = unknown_italian
 religion = upright
 
 #History

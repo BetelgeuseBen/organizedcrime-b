@@ -12,7 +12,7 @@ b_junction_blvd = city
 #b_92nd_st = castle
 
 # Misc
-culture = calabrian
+culture = yankee
 religion = upright
 
 #History

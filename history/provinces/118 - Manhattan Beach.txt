@@ -13,7 +13,7 @@ b_manhattan_beach = castle
 #b_oxford_st = city
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

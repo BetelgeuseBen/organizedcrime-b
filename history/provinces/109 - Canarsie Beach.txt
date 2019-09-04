@@ -11,7 +11,7 @@ b_canarsie_beach = castle
 #b_canarsie_rd = temple
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

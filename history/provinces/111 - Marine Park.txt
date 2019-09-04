@@ -11,7 +11,7 @@ b_marine_park = castle
 #b_marine_pkwy = temple
 
 # Misc
-culture = calabrian
+culture = central_park
 religion = upright
 
 #History

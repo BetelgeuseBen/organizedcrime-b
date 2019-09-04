@@ -14,7 +14,7 @@ b_31st_ave_2 = temple
 #b_34th_ave_3 = temple
 
 # Misc
-culture = sicilian
+culture = czech
 religion = upright
 
 #History

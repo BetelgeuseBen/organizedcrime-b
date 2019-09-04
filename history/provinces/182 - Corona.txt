@@ -12,7 +12,7 @@ b_corona = castle
 #b_108th_st = castle
 
 # Misc
-culture = calabrian
+culture = yankee
 religion = upright
 
 #History

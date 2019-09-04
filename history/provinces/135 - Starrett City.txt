@@ -11,7 +11,7 @@ b_starrett_city = castle
 #b_louisiana_ave = temple
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

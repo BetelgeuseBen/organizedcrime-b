@@ -13,7 +13,7 @@ b_emmons_ave = city
 #b_nostrand_ave_4 = city
 
 # Misc
-culture = sicilian
+culture = unknown_italian
 religion = upright
 
 #History

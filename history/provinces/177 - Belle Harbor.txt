@@ -12,7 +12,7 @@ b_belle_harbor = castle
 #b_beach_142nd_st = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

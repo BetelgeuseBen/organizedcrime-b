@@ -12,7 +12,7 @@ b_lindenwood = castle
 #b_84th_st_2 = castle
 
 # Misc
-culture = calabrian
+culture = yankee
 religion = upright
 
 #History

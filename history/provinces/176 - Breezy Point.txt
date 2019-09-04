@@ -11,7 +11,7 @@ b_breezy_point = castle
 #b_breezy_point_blvd = temple
 
 # Misc
-culture = sicilian
+culture = irish
 religion = upright
 
 #History

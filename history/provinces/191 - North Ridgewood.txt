@@ -12,7 +12,7 @@ b_forest_ave_3 = city
 #b_cypress_ave_2 = castle
 
 # Misc
-culture = calabrian
+culture = galizianer
 religion = upright
 
 #History

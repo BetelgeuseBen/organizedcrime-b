@@ -13,7 +13,7 @@ b_pitkin_ave_3 = city
 #b_rockaway_blvd_5 = city
 
 # Misc
-culture = apulian
+culture = yankee
 religion = upright
 
 #History

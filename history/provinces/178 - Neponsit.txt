@@ -11,7 +11,7 @@ b_neponsit = castle
 #b_rockaway_beach_blvd_4 = temple
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

@@ -13,7 +13,7 @@ b_atlantic_ave_4 = city
 #b_myrtle_ave_4 = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

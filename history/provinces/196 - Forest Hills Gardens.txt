@@ -13,7 +13,7 @@ b_forest_hills_gardens = castle
 #b_continental_ave = city
 
 # Misc
-culture = campanian
+culture = yankee
 religion = upright
 
 #History
