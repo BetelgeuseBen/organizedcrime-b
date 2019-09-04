@@ -14,7 +14,7 @@ b_w_153rd_st = temple
 #b_w_151st_st = temple
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

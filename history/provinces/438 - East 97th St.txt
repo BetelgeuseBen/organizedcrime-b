@@ -14,7 +14,7 @@ b_e_101st_st_2 = castle
 #b_e_99th_st_2 = temple
 
 # Misc
-culture = calabrian
+culture = litvak
 religion = criminal
 
 #History

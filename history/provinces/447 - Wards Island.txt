@@ -11,7 +11,7 @@ b_wards_island = castle
 #b_east_river_ln = temple
 
 # Misc
-culture = white_american
+culture = unknown_italian
 religion = upright
 
 #History

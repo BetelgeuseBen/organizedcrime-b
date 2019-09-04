@@ -13,7 +13,7 @@ b_e_139th_st = castle
 #b_e_140th_st = city
 
 # Misc
-culture = white_american
+culture = afro_american
 religion = upright
 
 #History

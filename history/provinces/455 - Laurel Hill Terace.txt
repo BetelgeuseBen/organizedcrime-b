@@ -12,7 +12,7 @@ b_laurel_hill_terace = castle
 #b_amsterdam_ave_3 = castle
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History
