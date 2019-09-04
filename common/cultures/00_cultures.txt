@@ -10,7 +10,7 @@
 american = {
 	graphical_cultures = { westerngfx }
 	
-	white_american = {
+	yankee = {
 		graphical_cultures = { englishgfx }
 		
 		color = { 0.20 0.70 1.00 }
@@ -72,12 +72,31 @@ american = {
 			Ona Era Annabelle Bella Chloe Ester Frankie Iola Leora Phoebe Zula Carol Una Angie Mona
 		}
 	}
+	german = {
+		graphical_cultures = { englishgfx }
+		color = { 0.5 0.5 0.5 }
+	}
+	french = {
+		graphical_cultures = { englishgfx }
+		color = { 0 0.16 1 }
+	}
+	afro_american = {
+		graphical_cultures = { englishgfx }
+		color = { 0.50 0.2 0 }
+	}
+	scandinavian = {
+	graphical_cultures = { englishgfx }
+	color = { 0.14 0.8 1 }
+	}
 }
 
 italian = {
 	graphical_cultures = { westerngfx }
 	
-	
+	unknown_italian = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.80 0.50 0.40 }
+	}
 	sicilian = {
 		graphical_cultures = { italiangfx southerngfx }
 		
@@ -302,5 +321,59 @@ italian = {
 			Serafina Serena Silvia Sonia Sophia Stefani Stefania Stella Susanna Sylvia Tatiana Teresa Tina Tiziana Tonia Tosca 
 			Valentina Valeria Vanessa Vanna Veronica Victoria Virginia Viridiana Vittoria Xenia Zaira Zita
 		}
+	}
+}
+irish = {
+	graphical_cultures = { westerngfx }
+	
+	irish = {
+		color = { 0.29 1 0 }
+		graphical_cultures = { italiangfx southerngfx }
+	}
+}
+jewish = {
+	graphical_cultures = { westerngfx }
+	
+	galizianer = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.95 0.95 0.95 }
+	}
+	litvak = {
+		color = { 1 0.85 0 }
+		graphical_cultures = { italiangfx southerngfx }
+	}
+}
+slavic = {
+	czech = {
+		color = { 0.28 0 1 }
+		graphical_cultures = { italiangfx southerngfx }
+	}
+}
+no_living_there = {
+	graphical_cultures = { westerngfx }
+	
+	central_park = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.5 0.1 0 }
+	}
+	naval_base = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0 1 1 }
+	}
+	iron_mine = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.8 0.2 0.8 }
+	}
+	resort = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.2 0.65 1 }
+	}
+	fort = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.6 0.6 0.6 }
+	}
+	port= {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.2 0.1 0.2 }
 	}
 }
