@@ -13,7 +13,7 @@ b_nassau_ave = city
 #b_eckford_st = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

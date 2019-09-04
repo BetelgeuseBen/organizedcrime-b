@@ -12,7 +12,7 @@ b_8th_ave_3 = city
 #b_60th_st_2 = castle
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

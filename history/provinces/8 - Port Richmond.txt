@@ -15,7 +15,7 @@ b_richmond_terrace = city
 #b_port_richmon_ave = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

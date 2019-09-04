@@ -12,7 +12,7 @@ b_south_beach = castle
 #b_olympia_blvd = castle
 
 # Misc
-culture = white_american
+culture = resort
 religion = upright
 
 #History

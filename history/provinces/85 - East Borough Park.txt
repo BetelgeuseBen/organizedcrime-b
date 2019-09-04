@@ -13,7 +13,7 @@ b_east_borough_park = castle
 #b_48th_st = city
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

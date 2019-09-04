@@ -13,7 +13,7 @@ b_new_dorp = castle
 #b_oakwood_heights = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

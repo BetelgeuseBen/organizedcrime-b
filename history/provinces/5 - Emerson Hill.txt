@@ -15,7 +15,7 @@ b_emerson_hill = castle
 #b_clove_rd = castle
 
 # Misc
-culture = white_american
+culture = iron_mine
 religion = upright
 
 #History

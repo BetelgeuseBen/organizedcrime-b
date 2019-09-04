@@ -13,7 +13,7 @@ b_todt_hill = castle
 #b_ridge_ave = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

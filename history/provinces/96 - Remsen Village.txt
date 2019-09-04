@@ -11,7 +11,7 @@ b_remsen_village = castle
 #b_avenue_a = temple
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

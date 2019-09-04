@@ -11,7 +11,7 @@ b_rossville = castle
 #b_correll_ave = temple
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

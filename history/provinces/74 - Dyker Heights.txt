@@ -14,7 +14,7 @@ b_3rd_ave_5 = city
 #b_fort_hamilton_pkwy = temple
 
 # Misc
-culture = white_american
+culture = unknown_italian
 religion = upright
 
 #History

@@ -13,7 +13,7 @@ b_provost_st = city
 #b_henry_st = city
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

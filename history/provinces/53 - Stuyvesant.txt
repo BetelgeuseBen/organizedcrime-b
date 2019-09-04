@@ -15,7 +15,7 @@ b_dekalb_ave_2 = temple
 #b_vernon_ave = castle
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

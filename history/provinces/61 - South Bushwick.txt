@@ -13,7 +13,7 @@ b_cooper_st = city
 #b_evergreen_ave_2 = city
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

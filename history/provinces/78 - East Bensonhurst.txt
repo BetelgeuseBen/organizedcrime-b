@@ -12,7 +12,7 @@ b_east_bensonhurst = castle
 #b_20th_ave = castle
 
 # Misc
-culture = white_american
+culture = unknown_italian
 religion = upright
 
 #History

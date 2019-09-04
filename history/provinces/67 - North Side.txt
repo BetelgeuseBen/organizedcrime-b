@@ -15,7 +15,7 @@ b_bedford_ave_3 = temple
 #b_n_6th_st = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

@@ -14,7 +14,7 @@ b_aleman_way = city
 #b_commercial_st = temple
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

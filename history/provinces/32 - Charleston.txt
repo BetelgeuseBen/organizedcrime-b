@@ -11,7 +11,7 @@ b_charleston = castle
 #b_bricktown_way = temple
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

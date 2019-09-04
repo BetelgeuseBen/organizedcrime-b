@@ -11,7 +11,7 @@ b_south_midwood = castle
 #b_kings_hwy_2 = temple
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

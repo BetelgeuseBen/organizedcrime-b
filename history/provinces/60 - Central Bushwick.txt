@@ -15,7 +15,7 @@ b_bushwick_ave = temple
 #b_evergreen_ave = castle
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

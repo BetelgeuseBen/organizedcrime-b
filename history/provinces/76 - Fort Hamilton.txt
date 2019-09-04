@@ -13,7 +13,7 @@ b_fort_hamilton = castle
 #b_bay_ridge_pkwy = city
 
 # Misc
-culture = white_american
+culture = fort
 religion = upright
 
 #History

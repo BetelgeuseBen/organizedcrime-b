@@ -12,7 +12,7 @@ b_huguenot = castle
 #b_woodvale_ave = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

@@ -15,7 +15,7 @@ b_morningside_rd = city
 #b_lake_ave = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

@@ -15,7 +15,7 @@ b_castleton_corners = castle
 #b_westcott_blvd = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

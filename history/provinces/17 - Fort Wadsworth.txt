@@ -12,7 +12,7 @@ b_fort_wadsworth = castle
 #b_hudson_rd = castle
 
 # Misc
-culture = white_american
+culture = unknown_italian
 religion = upright
 
 #History

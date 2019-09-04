@@ -13,7 +13,7 @@ b_church_ave = city
 #b_minna_st = city
 
 # Misc
-culture = white_american
+culture = unknown_italian
 religion = upright
 
 #History

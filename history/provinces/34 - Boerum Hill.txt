@@ -15,7 +15,7 @@ b_wyckoff_st = temple
 #b_schermerhorn_st = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

@@ -12,7 +12,7 @@ b_manhattan_terrace = castle
 #b_kings_hwy_3 = castle
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History
