@@ -14,7 +14,7 @@ b_steinway_st = city
 #b_28th_ave = temple
 
 # Misc
-culture = sicilian
+culture = yankee
 religion = upright
 
 #History

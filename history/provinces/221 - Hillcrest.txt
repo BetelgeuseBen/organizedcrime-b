@@ -12,7 +12,7 @@ b_hillcrest = castle
 #b_goethals_ave = castle
 
 # Misc
-culture = sicilian
+culture = yankee
 religion = upright
 
 #History

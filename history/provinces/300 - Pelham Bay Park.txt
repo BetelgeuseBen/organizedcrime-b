@@ -11,7 +11,7 @@ b_pelham_bay_park = castle
 #b_orchard_beach = temple
 
 # Misc
-culture = campanian
+culture = yankee
 religion = upright
 
 #History

@@ -12,7 +12,7 @@ b_middletown = castle
 #b_dudley_ave = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

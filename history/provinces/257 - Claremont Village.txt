@@ -12,7 +12,7 @@ b_webster_ave = city
 #b_crotona_ave = castle
 
 # Misc
-culture = white_american
+culture = litvak
 religion = upright
 
 #History

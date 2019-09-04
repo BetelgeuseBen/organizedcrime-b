@@ -12,7 +12,7 @@ b_woodstock = castle
 #b_southern_blvd = castle
 
 # Misc
-culture = apulian
+culture = litvak
 religion = upright
 
 #History

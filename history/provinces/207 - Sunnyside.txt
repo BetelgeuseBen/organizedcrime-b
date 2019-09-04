@@ -13,7 +13,7 @@ b_greenpoint_ave_2 = city
 #b_39th_st_2 = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

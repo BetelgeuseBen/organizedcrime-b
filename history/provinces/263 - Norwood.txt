@@ -12,7 +12,7 @@ b_norwood = castle
 #b_reservoir_oval = castle
 
 # Misc
-culture = calabrian
+culture = irish
 religion = upright
 
 #History

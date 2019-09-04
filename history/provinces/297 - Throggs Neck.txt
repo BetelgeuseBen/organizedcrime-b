@@ -12,7 +12,7 @@ b_throggs_neck = castle
 #b_pennyfield_ave = castle
 
 # Misc
-culture = calabrian
+culture = yankee
 religion = upright
 
 #History

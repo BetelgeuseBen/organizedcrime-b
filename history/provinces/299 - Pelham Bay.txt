@@ -13,7 +13,7 @@ b_pelham_bay = castle
 #b_wilkinson_ave = city
 
 # Misc
-culture = campanian
+culture = yankee
 religion = upright
 
 #History

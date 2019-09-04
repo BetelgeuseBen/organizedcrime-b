@@ -11,7 +11,7 @@ b_van_cortland_park = castle
 #b_moshulu_pkwy = temple
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

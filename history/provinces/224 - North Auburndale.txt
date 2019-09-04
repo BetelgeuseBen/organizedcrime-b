@@ -12,7 +12,7 @@ b_north_auburndale = castle
 #b_francis_lewis_blvd_4 = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

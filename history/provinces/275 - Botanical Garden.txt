@@ -11,7 +11,7 @@ b_botanical_garden = castle
 #b_thain_ave = temple
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

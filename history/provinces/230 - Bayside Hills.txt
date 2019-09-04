@@ -13,7 +13,7 @@ b_bayside_hills = castle
 #b_cloverdale_blvd = city
 
 # Misc
-culture = campanian
+culture = yankee
 religion = upright
 
 #History

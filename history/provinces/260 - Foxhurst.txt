@@ -12,7 +12,7 @@ b_southern_blvd_4 = city
 #b_westchester_ave = castle
 
 # Misc
-culture = white_american
+culture = litvak
 religion = upright
 
 #History

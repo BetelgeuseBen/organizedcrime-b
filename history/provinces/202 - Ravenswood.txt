@@ -13,7 +13,7 @@ b_36th_ave = city
 #b_crescent_st = city
 
 # Misc
-culture = sicilian
+culture = irish
 religion = upright
 
 #History

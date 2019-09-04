@@ -13,7 +13,7 @@ b_tremont_ave = city
 #b_bathgate_ave = city
 
 # Misc
-culture = sicilian
+culture = yankee
 religion = criminal
 
 #History

@@ -11,7 +11,7 @@ b_east_steinway = castle
 #b_25th_ave = temple
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History
