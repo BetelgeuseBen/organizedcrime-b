@@ -13,7 +13,7 @@ b_pelham_gardens = castle
 #b_mace_ave = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

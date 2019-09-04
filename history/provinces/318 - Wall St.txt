@@ -15,7 +15,7 @@ b_exchange_pl = castle
 #b_pearl_st_3 = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History
