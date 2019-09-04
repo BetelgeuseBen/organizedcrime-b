@@ -11,7 +11,7 @@ b_edgewater_park = castle
 #b_longstreet_ave = temple
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

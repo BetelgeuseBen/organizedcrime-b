@@ -13,7 +13,7 @@ b_ditmars = castle
 #b_20th_ave_2 = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

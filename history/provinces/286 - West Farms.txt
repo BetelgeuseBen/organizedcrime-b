@@ -13,7 +13,7 @@ b_westchester_ave_3 = city
 #b_archer_st = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

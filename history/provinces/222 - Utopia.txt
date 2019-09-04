@@ -12,7 +12,7 @@ b_utopia = castle
 #b_jewel_ave_3 = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

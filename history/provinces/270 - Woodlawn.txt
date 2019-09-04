@@ -11,7 +11,7 @@ b_woodlawn = castle
 #b_webster_ave_3 = temple
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

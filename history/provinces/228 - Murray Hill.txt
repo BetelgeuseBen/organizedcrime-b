@@ -13,7 +13,7 @@ b_murray_hill = castle
 #b_bayside_ave = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

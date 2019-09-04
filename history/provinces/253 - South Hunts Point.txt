@@ -13,7 +13,7 @@ b_south_hunts_point = castle
 #b_bryant_ave = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = criminal
 
 #History

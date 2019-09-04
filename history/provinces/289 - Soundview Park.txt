@@ -12,7 +12,7 @@ b_soundview_park = castle
 #b_boynton_ave = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

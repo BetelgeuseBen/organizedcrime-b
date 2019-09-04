@@ -12,7 +12,7 @@ b_little_neck = castle
 #b_douglas_rd_2 = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

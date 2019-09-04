@@ -13,7 +13,7 @@ b_college_point_blvd = city
 #b_20th_ave_3 = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

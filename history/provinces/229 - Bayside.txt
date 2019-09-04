@@ -13,7 +13,7 @@ b_bayside_2 = castle
 #b_kennedy_st = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

@@ -13,7 +13,7 @@ b_brook_ave_2 = city
 #b_149th_st_3 = city
 
 # Misc
-culture = white_american
+culture = litvak
 religion = upright
 
 #History

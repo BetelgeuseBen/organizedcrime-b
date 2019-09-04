@@ -12,7 +12,7 @@ b_south_kingsbridge = castle
 #b_heath_ave = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

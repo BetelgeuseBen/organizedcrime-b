@@ -13,7 +13,7 @@ b_auburndale = castle
 #b_58th_ave = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

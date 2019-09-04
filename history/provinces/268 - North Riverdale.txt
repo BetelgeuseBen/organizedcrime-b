@@ -13,7 +13,7 @@ b_north_riverdale = castle
 #b_college_rd = city
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History
