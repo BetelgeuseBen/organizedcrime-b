@@ -15,7 +15,7 @@ b_w_22nd_st = city
 #b_w_17th_st_2 = castle
 
 # Misc
-culture = white_american
+culture = unknown_italian
 religion = upright
 
 #History

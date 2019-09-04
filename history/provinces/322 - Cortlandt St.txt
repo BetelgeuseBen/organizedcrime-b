@@ -15,7 +15,7 @@ b_liberty_st = temple
 #b_dey_st = castle
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

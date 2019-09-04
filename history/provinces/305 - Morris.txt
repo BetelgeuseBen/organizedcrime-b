@@ -12,7 +12,7 @@ b_morris = castle
 #b_seminole_ave = castle
 
 # Misc
-culture = campanian
+culture = yankee
 religion = upright
 
 #History

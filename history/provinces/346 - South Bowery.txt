@@ -15,7 +15,7 @@ b_broome_st_3 = temple
 b_canal_st_4 = castle
 
 # Misc
-culture = sicilian
+culture = unknown_italian
 religion = criminal
 
 #History

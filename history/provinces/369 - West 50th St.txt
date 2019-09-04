@@ -15,7 +15,7 @@ b_w_52nd_st = temple
 #b_w_55th_st_3 = castle
 
 # Misc
-culture = calabrian
+culture = irish
 religion = upright
 
 #History

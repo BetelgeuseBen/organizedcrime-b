@@ -15,7 +15,7 @@ b_broadway_8 = temple
 #b_murray_st = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

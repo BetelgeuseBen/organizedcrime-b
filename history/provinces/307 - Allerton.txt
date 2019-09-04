@@ -12,7 +12,7 @@ b_allerton = castle
 #b_bronx_park_e_2 = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

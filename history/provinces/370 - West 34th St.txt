@@ -15,7 +15,7 @@ b_w_37th_st_2 = castle
 #b_hudson_blvd = castle
 
 # Misc
-culture = calabrian
+culture = irish
 religion = upright
 
 #History

@@ -13,7 +13,7 @@ b_w_97th_st_2 = temple
 #b_w_102nd_st = city
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

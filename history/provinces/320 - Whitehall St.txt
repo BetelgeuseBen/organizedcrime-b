@@ -15,7 +15,7 @@ b_broad_st = castle
 #b_hanover_square = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

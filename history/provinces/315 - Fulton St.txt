@@ -15,7 +15,7 @@ b_spruce_st = city
 #b_beekman_st = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

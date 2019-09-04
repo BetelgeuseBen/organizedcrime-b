@@ -15,7 +15,7 @@ b_mulberry_st_2 = temple
 #b_houston_st = castle
 
 # Misc
-culture = apulian
+culture = unknown_italian
 religion = criminal
 
 #History

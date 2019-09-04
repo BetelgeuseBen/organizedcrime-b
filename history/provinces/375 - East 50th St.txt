@@ -15,7 +15,7 @@ b_e_52nd_st = castle
 #b_park_ave_2 = castle
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

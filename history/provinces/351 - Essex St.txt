@@ -15,7 +15,7 @@ b_attorney_st = temple
 b_clinton_st = castle
 
 # Misc
-culture = calabrian
+culture = litvak
 religion = criminal
 
 #History

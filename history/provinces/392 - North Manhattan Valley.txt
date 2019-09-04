@@ -14,7 +14,7 @@ b_w_107th_st = castle
 #b_w_108th_st = temple
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History

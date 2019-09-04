@@ -15,7 +15,7 @@ b_hudson_st_2 = temple
 #b_broadway_13 = castle
 
 # Misc
-culture = white_american
+culture = yankee
 religion = upright
 
 #History

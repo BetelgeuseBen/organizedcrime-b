@@ -15,7 +15,7 @@ b_e_55th_st = city
 #b_e_56th_st = castle
 
 # Misc
-culture = white_american
+culture = galizianer
 religion = upright
 
 #History

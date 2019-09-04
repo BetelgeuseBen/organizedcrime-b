@@ -15,7 +15,7 @@ b_w_77th_st = castle
 #b_w_79th_st = castle
 
 # Misc
-culture = white_american
+culture = irish
 religion = upright
 
 #History
