@@ -1,5 +1,5 @@
-max_provinces = 461
-# stats:  460 provinces
+max_provinces = 462
+# stats:  461 provinces
 # unused:
 definitions = "definition.csv"
 provinces = "provinces.bmp"
@@ -26,3 +26,5 @@ tree = { 3 4 7 10 }
 major_rivers = 
 {
 }
+
+sea_zones = { 461 460 }
