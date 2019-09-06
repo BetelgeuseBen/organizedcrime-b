@@ -219,3 +219,44 @@
     1903.12.23 = { add_spouse=10 }
     1947.01.13 = { death=yes }
 }
+#Irish Mobsters
+1000 = {
+    name=Owney
+    dynasty=15000
+	
+    religion=criminal
+    culture=irish
+  
+    1891.12.18 = { birth=yes }
+    1965.04.24 = { death=yes }
+}
+1001 = {
+    name=Biff
+    dynasty=15001
+	
+    religion=criminal
+    culture=irish
+  
+    1861.06.04 = { birth=yes }
+    1926.09.12 = { death=yes }
+}
+1002 = {
+    name=One-Lung
+    dynasty=15002
+	
+    religion=criminal
+    culture=irish
+  
+    1889.01.15 = { birth=yes }
+    1926.09.12 = { death=yes }
+}
+1003 = {
+    name=Mallet
+    dynasty=15003
+	
+    religion=criminal
+    culture=irish
+  
+    1872.011.29 = { birth=yes }
+    1926.09.12 = { death=yes }
+}
