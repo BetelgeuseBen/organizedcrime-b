@@ -2043,11 +2043,9 @@ e_manhattan = {
 				}
 				b_madison_st = {
 				}
-				b_cherry_st = {
+				b_wagner_pl = {
 				}
-				b_water_st_3 = {
-				}
-				b_monroe_st = {
+				b_south_st = {
 				}
 			}
 			c_fulton_st = { # 315
@@ -2217,7 +2215,7 @@ e_manhattan = {
 				}
 				b_pine_st = {
 				}
-				b_water_st_4 = {
+				b_water_st_3 = {
 				}
 				b_exchange_pl = {
 				}
@@ -2289,7 +2287,7 @@ e_manhattan = {
 				
 				b_whitehall_st = {
 				}
-				b_water_st_5 = {
+				b_water_st_4 = {
 				}
 				b_pearl_st_4 = {
 				}
@@ -2456,9 +2454,9 @@ e_manhattan = {
 				}
 				b_howard_st = {
 				}
-				b_bayard_st = {
+				b_lispenard_st = {
 				}
-				b_franklin_st_2 = {
+				b_leonard_st_2 = {
 				}
 			}
 			c_kenmare_st = { # 326
@@ -2573,7 +2571,7 @@ e_manhattan = {
 				color={ 36 31 133 }
 				color2={ 255 255 255 }
 				
-				b_franklin_st_3 = {
+				b_franklin_st_2 = {
 				}
 				b_laight_st = {
 				}
@@ -2657,9 +2655,9 @@ e_manhattan = {
 				}
 				b_white_st_2 = {
 				}
-				b_franklin_st_4 = {
+				b_franklin_st_3 = {
 				}
-				b_leonard_st_2 = {
+				b_leonard_st_3 = {
 				}
 				b_worth_st_2 = {
 				}
@@ -3217,7 +3215,7 @@ e_manhattan = {
 		color={ 64 58 153 }
 		color2={ 255 255 255 }
 		
-		capital = 346 # c_south_bowery
+		capital = 346 # c_central_bowery
 		culture = sicilian
 		
 		d_lower_east_side = {
@@ -3230,25 +3228,25 @@ e_manhattan = {
 					any_demesne_province = { OR = { province_id = 346 province_id = 347 province_id = 348 province_id = 349 province_id = 350 province_id = 351 } }
 				}
 			}
-			capital = 346 # c_south_bowery
+			capital = 346 # c_central_bowery
 			
-			c_south_bowery = { # 346
+			c_central_bowery = { # 346
 				color={ 34 88 138 }
 				color2={ 255 255 255 }
 				
-				b_south_bowery = {
-				}
-				b_grand_st_4 = {
-				}
-				b_stanton_st = {
-				}
-				b_hester_st_2 = {
+				b_central_bowery = {
 				}
 				b_rivington_st = {
 				}
-				b_broome_st_3 = {
+				b_stanton_st = {
 				}
-				b_canal_st_4 = {
+				b_houston_st_3 = {
+				}
+				b_delancey_st = {
+				}
+				b_forsyth_st = {
+				}
+				b_chrystie_st = {
 				}
 			}
 			c_allen_st = { # 350
@@ -3261,13 +3259,13 @@ e_manhattan = {
 				}
 				b_stanton_st_2 = {
 				}
-				b_broome_st_5 = {
+				b_orchard_st = {
 				}
-				b_grand_st_5 = {
+				b_ludlow_st = {
 				}
-				b_hester_st_3 = {
+				b_grand_st_4 = {
 				}
-				b_canal_st_5 = {
+				b_houston_st_4 = {
 				}
 			}
 			c_east_broadway = { # 348
@@ -3282,7 +3280,7 @@ e_manhattan = {
 				}
 				b_henry_st_2 = {
 				}
-				b_water_st_6 = {
+				b_water_st_5 = {
 				}
 				b_jefferson_st = {
 				}
@@ -3320,7 +3318,7 @@ e_manhattan = {
 				}
 				b_madison_st_2 = {
 				}
-				b_cherry_st_2 = {
+				b_cherry_st = {
 				}
 				b_division_st = {
 				}
@@ -3337,11 +3335,117 @@ e_manhattan = {
 				}
 				b_lewis_st = {
 				}
-				b_delancey_st = {
+				b_delancey_st_2 = {
 				}
 				b_mangin_st = {
 				}
+				b_broome_st_3 = {
+				}
+			}
+		}
+		d_chinatown = {
+			color={ 57 115 164 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 459 province_id = 460 province_id = 461 province_id = 462 province_id = 463 } }
+				}
+			}
+			capital = 459 # c_pell_st
+			
+			c_pell_st = { # 459
+				color={ 47 125 159 }
+				color2={ 255 255 255 }
+				
+				b_pell_st = {
+				}
+				b_doyers_st = {
+				}
+				b_elizabeth_st_2 = {
+				}
+				b_division_st_2 = {
+				}
+				b_bayard_st = {
+				}
+				b_forsyth_st_2 = {
+				}
+				b_eldridge_st = {
+				}
+			}
+			c_mott_st = { # 460
+				color={ 62 96 151 }
+				color2={ 255 255 255 }
+				
+				b_mott_st_3 = {
+				}
+				b_mulberry_st_3 = {
+				}
+				b_elizabeth_st_3 = {
+				}
+				b_canal_st_4 = {
+				}
+				b_mosco_st = {
+				}
+				b_baxter_st = {
+				}
+				b_hogan_pl = {
+				}
+			}
+			c_seward_park = { # 463
+				color={ 60 141 167 }
+				color2={ 255 255 255 }
+				
+				b_seward_park = {
+				}
+				b_ludlow_st_2 = {
+				}
+				b_orchard_st_2 = {
+				}
+				b_division_st_3 = {
+				}
+				b_canal_st_5 = {
+				}
+				b_hester_st_2 = {
+				}
+				b_grand_st_6 = {
+				}
+			}
+			c_south_bowery = { # 462
+				color={ 26 104 146 }
+				color2={ 255 255 255 }
+				
+				b_south_bowery = {
+				}
+				b_delancey_st_3 = {
+				}
+				b_grand_st_5 = {
+				}
 				b_broome_st_4 = {
+				}
+				b_chrystie_st_2 = {
+				}
+				b_forsyth_st_3 = {
+				}
+				b_eldridge_st_2 = {
+				}
+			}
+			c_two_bridges = { # 461
+				color={ 62 107 169 }
+				color2={ 255 255 255 }
+				
+				b_two_bridges = {
+				}
+				b_cherry_st_2 = {
+				}
+				b_water_st_6 = {
+				}
+				b_monroe_st = {
+				}
+				b_market_st_3 = {
+				}
+				b_madison_st_4 = {
 				}
 			}
 		}
@@ -3680,6 +3784,24 @@ e_manhattan = {
 				}
 				b_hillside_ave_3 = {
 				}
+				b_ocean = {
+				}
+				b_459_0 = {
+				}
+				b_0_0 = {
+				}
+				b_217_0 = {
+				}
+				b_255_0 = {
+				}
+				b_atlantic = {
+				}
+				b_river = {
+				}
+				b_ocean_2 = {
+				}
+				b_0_0_2 = {
+				}
 			}
 			c_laurel_hill_terace = { # 455
 				color={ 16 3 109 }
@@ -3692,6 +3814,22 @@ e_manhattan = {
 				b_st_nicholas_ave_4 = {
 				}
 				b_amsterdam_ave_3 = {
+				}
+				b_460_0 = {
+				}
+				b_31_0 = {
+				}
+				b_107_0 = {
+				}
+				b_247_0 = {
+				}
+				b_huguenot_coast = {
+				}
+				b_river_2 = {
+				}
+				b_ocean_3 = {
+				}
+				b_0_0_3 = {
 				}
 			}
 		}
@@ -3717,6 +3855,22 @@ e_manhattan = {
 				}
 				b_post_ave_2 = {
 				}
+				b_461_0 = {
+				}
+				b_41_0 = {
+				}
+				b_193_0 = {
+				}
+				b_196_0 = {
+				}
+				b_bay_entrance = {
+				}
+				b_river_3 = {
+				}
+				b_ocean_4 = {
+				}
+				b_0_0_4 = {
+				}
 			}
 			c_inwood_hill = { # 458
 				color={ 5 36 117 }
@@ -3728,6 +3882,22 @@ e_manhattan = {
 				}
 				b_payson_ave = {
 				}
+				b_463_0 = {
+				}
+				b_26_0 = {
+				}
+				b_107_0_2 = {
+				}
+				b_186_0 = {
+				}
+				b_kill = {
+				}
+				b_river_5 = {
+				}
+				b_ocean_6 = {
+				}
+				b_0_0_6 = {
+				}
 			}
 			c_west_215th_st = { # 457
 				color={ 21 44 161 }
@@ -3738,6 +3908,22 @@ e_manhattan = {
 				b_park_terrace = {
 				}
 				b_10th_ave = {
+				}
+				b_462_0 = {
+				}
+				b_10_0 = {
+				}
+				b_176_0 = {
+				}
+				b_230_0 = {
+				}
+				b_jamaica_bay = {
+				}
+				b_river_4 = {
+				}
+				b_ocean_5 = {
+				}
+				b_0_0_5 = {
 				}
 			}
 		}

@@ -99,6 +99,8 @@ c_castleton_corners;Castleton Corners;Castleton Corners;Castleton Corners;;Castl
 c_castleton_corners_adj;Castleton Cornersian;;Castleton Cornerser;;;;;;;;;;;x
 c_catherine_slip;Catherine Slip;Catherine Slip;Catherine Slip;;Catherine Slip;;;;;;;;;x
 c_catherine_slip_adj;Catherine Slipian;;Catherine Sliper;;;;;;;;;;;x
+c_central_bowery;Central Bowery;Central Bowery;Central Bowery;;Central Bowery;;;;;;;;;x
+c_central_bowery_adj;Central Bowerian;;Central Bowerer;;;;;;;;;;;x
 c_central_bushwick;Central Bushwick;Central Bushwick;Central Bushwick;;Central Bushwick;;;;;;;;;x
 c_central_bushwick_adj;Central Bushwickian;;Central Bushwicker;;;;;;;;;;;x
 c_central_idlewild;Central Idlewild;Central Idlewild;Central Idlewild;;Central Idlewild;;;;;;;;;x
@@ -531,6 +533,8 @@ c_morris_park;Morris Park;Morris Park;Morris Park;;Morris Park;;;;;;;;;x
 c_morris_park_adj;Morris Parkian;;Morris Parker;;;;;;;;;;;x
 c_mott_haven;Mott Haven;Mott Haven;Mott Haven;;Mott Haven;;;;;;;;;x
 c_mott_haven_adj;Mott Havenian;;Mott Havener;;;;;;;;;;;x
+c_mott_st;Mott St;Mott St;Mott St;;Mott St;;;;;;;;;x
+c_mott_st_adj;Mott Stian;;Mott Ster;;;;;;;;;;;x
 c_mount_eden;Mount Eden;Mount Eden;Mount Eden;;Mount Eden;;;;;;;;;x
 c_mount_eden_adj;Mount Edenian;;Mount Edener;;;;;;;;;;;x
 c_mount_hope;Mount Hope;Mount Hope;Mount Hope;;Mount Hope;;;;;;;;;x
@@ -613,6 +617,8 @@ c_pelham_gardens;Pelham Gardens;Pelham Gardens;Pelham Gardens;;Pelham Gardens;;;
 c_pelham_gardens_adj;Pelham Gardensian;;Pelham Gardenser;;;;;;;;;;;x
 c_pelham_parkway;Pelham Parkway;Pelham Parkway;Pelham Parkway;;Pelham Parkway;;;;;;;;;x
 c_pelham_parkway_adj;Pelham Parkwaian;;Pelham Parkwaer;;;;;;;;;;;x
+c_pell_st;Pell St;Pell St;Pell St;;Pell St;;;;;;;;;x
+c_pell_st_adj;Pell Stian;;Pell Ster;;;;;;;;;;;x
 c_penn_ave;Penn Ave;Penn Ave;Penn Ave;;Penn Ave;;;;;;;;;x
 c_penn_ave_adj;Penn Avean;;Penn Aver;;;;;;;;;;;x
 c_pleasant_ave;Pleasant Ave;Pleasant Ave;Pleasant Ave;;Pleasant Ave;;;;;;;;;x
@@ -673,6 +679,8 @@ c_seagate;Seagate;Seagate;Seagate;;Seagate;;;;;;;;;x
 c_seagate_adj;Seagatean;;seagater;;;;;;;;;;;x
 c_seaside;Seaside;Seaside;Seaside;;Seaside;;;;;;;;;x
 c_seaside_adj;Seasidean;;seasider;;;;;;;;;;;x
+c_seward_park;Seward Park;Seward Park;Seward Park;;Seward Park;;;;;;;;;x
+c_seward_park_adj;Seward Parkian;;Seward Parker;;;;;;;;;;;x
 c_sheep_meadow;Sheep Meadow;Sheep Meadow;Sheep Meadow;;Sheep Meadow;;;;;;;;;x
 c_sheep_meadow_adj;Sheep Meadowian;;Sheep Meadower;;;;;;;;;;;x
 c_sheepshead_bay;Sheepshead Bay;Sheepshead Bay;Sheepshead Bay;;Sheepshead Bay;;;;;;;;;x
@@ -791,6 +799,8 @@ c_tudor_city;Tudor City;Tudor City;Tudor City;;Tudor City;;;;;;;;;x
 c_tudor_city_adj;Tudor Citian;;Tudor Citer;;;;;;;;;;;x
 c_turtle_bay_waterfront;Turtle Bay Waterfront;Turtle Bay Waterfront;Turtle Bay Waterfront;;Turtle Bay Waterfront;;;;;;;;;x
 c_turtle_bay_waterfront_adj;Turtle Bay Waterfrontian;;Turtle Bay Waterfronter;;;;;;;;;;;x
+c_two_bridges;Two Bridges;Two Bridges;Two Bridges;;Two Bridges;;;;;;;;;x
+c_two_bridges_adj;Two Bridgesian;;Two Bridgeser;;;;;;;;;;;x
 c_union_square;Union Square;Union Square;Union Square;;Union Square;;;;;;;;;x
 c_union_square_adj;Union Squarean;;Union Squarer;;;;;;;;;;;x
 c_unionport;Unionport;Unionport;Unionport;;Unionport;;;;;;;;;x

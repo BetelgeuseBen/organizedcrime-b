@@ -1,12 +1,24 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 b_0_0;0.0;0.0;0.0;;0.0;;;;;;;;;x
 b_0_0_adj;0.0ian;;0.0er;;;;;;;;;;;x
+b_0_0_2;0.0;0.0;0.0;;0.0;;;;;;;;;x
+b_0_0_2_adj;0.0ian;;0.0er;;;;;;;;;;;x
+b_0_0_3;0.0;0.0;0.0;;0.0;;;;;;;;;x
+b_0_0_3_adj;0.0ian;;0.0er;;;;;;;;;;;x
+b_0_0_4;0.0;0.0;0.0;;0.0;;;;;;;;;x
+b_0_0_4_adj;0.0ian;;0.0er;;;;;;;;;;;x
+b_0_0_5;0.0;0.0;0.0;;0.0;;;;;;;;;x
+b_0_0_5_adj;0.0ian;;0.0er;;;;;;;;;;;x
+b_0_0_6;0.0;0.0;0.0;;0.0;;;;;;;;;x
+b_0_0_6_adj;0.0ian;;0.0er;;;;;;;;;;;x
 b_101st_ave;101st Ave;101st Ave;101st Ave;;101st Ave;;;;;;;;;x
 b_101st_ave_adj;101st Avean;;101st Aver;;;;;;;;;;;x
 b_103rd_st;103rd St;103rd St;103rd St;;103rd St;;;;;;;;;x
 b_103rd_st_adj;103rd Stian;;103rd Ster;;;;;;;;;;;x
 b_107_0;107.0;107.0;107.0;;107.0;;;;;;;;;x
 b_107_0_adj;107.0ian;;107.0er;;;;;;;;;;;x
+b_107_0_2;107.0;107.0;107.0;;107.0;;;;;;;;;x
+b_107_0_2_adj;107.0ian;;107.0er;;;;;;;;;;;x
 b_108th_ave;108th Ave;108th Ave;108th Ave;;108th Ave;;;;;;;;;x
 b_108th_ave_adj;108th Avean;;108th Aver;;;;;;;;;;;x
 b_108th_st;108th St;108th St;108th St;;108th St;;;;;;;;;x
@@ -15,6 +27,8 @@ b_108th_st_2;108th St;108th St;108th St;;108th St;;;;;;;;;x
 b_108th_st_2_adj;108th Stian;;108th Ster;;;;;;;;;;;x
 b_108th_st_3;108th St;108th St;108th St;;108th St;;;;;;;;;x
 b_108th_st_3_adj;108th Stian;;108th Ster;;;;;;;;;;;x
+b_10_0;10.0;10.0;10.0;;10.0;;;;;;;;;x
+b_10_0_adj;10.0ian;;10.0er;;;;;;;;;;;x
 b_10th_ave;10th Ave;10th Ave;10th Ave;;10th Ave;;;;;;;;;x
 b_10th_ave_adj;10th Avean;;10th Aver;;;;;;;;;;;x
 b_114th_st;114th St;114th St;114th St;;114th St;;;;;;;;;x
@@ -101,16 +115,26 @@ b_172nd_st;172nd St;172nd St;172nd St;;172nd St;;;;;;;;;x
 b_172nd_st_adj;172nd Stian;;172nd Ster;;;;;;;;;;;x
 b_173rd_st;173rd St;173rd St;173rd St;;173rd St;;;;;;;;;x
 b_173rd_st_adj;173rd Stian;;173rd Ster;;;;;;;;;;;x
+b_176_0;176.0;176.0;176.0;;176.0;;;;;;;;;x
+b_176_0_adj;176.0ian;;176.0er;;;;;;;;;;;x
+b_179_0;179.0;179.0;179.0;;179.0;;;;;;;;;x
+b_179_0_adj;179.0ian;;179.0er;;;;;;;;;;;x
 b_180th_st;180th St;180th St;180th St;;180th St;;;;;;;;;x
 b_180th_st_adj;180th Stian;;180th Ster;;;;;;;;;;;x
 b_181st_st;181st St;181st St;181st St;;181st St;;;;;;;;;x
 b_181st_st_adj;181st Stian;;181st Ster;;;;;;;;;;;x
+b_186_0;186.0;186.0;186.0;;186.0;;;;;;;;;x
+b_186_0_adj;186.0ian;;186.0er;;;;;;;;;;;x
 b_188th_st;188th St;188th St;188th St;;188th St;;;;;;;;;x
 b_188th_st_adj;188th Stian;;188th Ster;;;;;;;;;;;x
 b_188th_st_2;188th St;188th St;188th St;;188th St;;;;;;;;;x
 b_188th_st_2_adj;188th Stian;;188th Ster;;;;;;;;;;;x
 b_18th_ave;18th Ave;18th Ave;18th Ave;;18th Ave;;;;;;;;;x
 b_18th_ave_adj;18th Avean;;18th Aver;;;;;;;;;;;x
+b_193_0;193.0;193.0;193.0;;193.0;;;;;;;;;x
+b_193_0_adj;193.0ian;;193.0er;;;;;;;;;;;x
+b_196_0;196.0;196.0;196.0;;196.0;;;;;;;;;x
+b_196_0_adj;196.0ian;;196.0er;;;;;;;;;;;x
 b_1st_ave;1st Ave;1st Ave;1st Ave;;1st Ave;;;;;;;;;x
 b_1st_ave_adj;1st Avean;;1st Aver;;;;;;;;;;;x
 b_1st_ave_2;1st Ave;1st Ave;1st Ave;;1st Ave;;;;;;;;;x
@@ -145,6 +169,8 @@ b_222nd_st_2;222nd St;222nd St;222nd St;;222nd St;;;;;;;;;x
 b_222nd_st_2_adj;222nd Stian;;222nd Ster;;;;;;;;;;;x
 b_229th_st;229th St;229th St;229th St;;229th St;;;;;;;;;x
 b_229th_st_adj;229th Stian;;229th Ster;;;;;;;;;;;x
+b_230_0;230.0;230.0;230.0;;230.0;;;;;;;;;x
+b_230_0_adj;230.0ian;;230.0er;;;;;;;;;;;x
 b_230th_st;230th St;230th St;230th St;;230th St;;;;;;;;;x
 b_230th_st_adj;230th Stian;;230th Ster;;;;;;;;;;;x
 b_233rd_st;233rd St;233rd St;233rd St;;233rd St;;;;;;;;;x
@@ -159,6 +185,8 @@ b_255_0;255.0;255.0;255.0;;255.0;;;;;;;;;x
 b_255_0_adj;255.0ian;;255.0er;;;;;;;;;;;x
 b_25th_ave;25th Ave;25th Ave;25th Ave;;25th Ave;;;;;;;;;x
 b_25th_ave_adj;25th Avean;;25th Aver;;;;;;;;;;;x
+b_26_0;26.0;26.0;26.0;;26.0;;;;;;;;;x
+b_26_0_adj;26.0ian;;26.0er;;;;;;;;;;;x
 b_27th_ave;27th Ave;27th Ave;27th Ave;;27th Ave;;;;;;;;;x
 b_27th_ave_adj;27th Avean;;27th Aver;;;;;;;;;;;x
 b_28th_ave;28th Ave;28th Ave;28th Ave;;28th Ave;;;;;;;;;x
@@ -237,6 +265,10 @@ b_3rd_ave_9;3rd Ave;3rd Ave;3rd Ave;;3rd Ave;;;;;;;;;x
 b_3rd_ave_9_adj;3rd Avean;;3rd Aver;;;;;;;;;;;x
 b_3rd_pl;3rd Pl;3rd Pl;3rd Pl;;3rd Pl;;;;;;;;;x
 b_3rd_pl_adj;3rd Plian;;3rd Pler;;;;;;;;;;;x
+b_41_0;41.0;41.0;41.0;;41.0;;;;;;;;;x
+b_41_0_adj;41.0ian;;41.0er;;;;;;;;;;;x
+b_43_0;43.0;43.0;43.0;;43.0;;;;;;;;;x
+b_43_0_adj;43.0ian;;43.0er;;;;;;;;;;;x
 b_43rd_ave;43rd Ave;43rd Ave;43rd Ave;;43rd Ave;;;;;;;;;x
 b_43rd_ave_adj;43rd Avean;;43rd Aver;;;;;;;;;;;x
 b_44th_dr;44th Dr;44th Dr;44th Dr;;44th Dr;;;;;;;;;x
@@ -247,6 +279,14 @@ b_45th_ave;45th Ave;45th Ave;45th Ave;;45th Ave;;;;;;;;;x
 b_45th_ave_adj;45th Avean;;45th Aver;;;;;;;;;;;x
 b_460_0;460.0;460.0;460.0;;460.0;;;;;;;;;x
 b_460_0_adj;460.0ian;;460.0er;;;;;;;;;;;x
+b_461_0;461.0;461.0;461.0;;461.0;;;;;;;;;x
+b_461_0_adj;461.0ian;;461.0er;;;;;;;;;;;x
+b_462_0;462.0;462.0;462.0;;462.0;;;;;;;;;x
+b_462_0_adj;462.0ian;;462.0er;;;;;;;;;;;x
+b_463_0;463.0;463.0;463.0;;463.0;;;;;;;;;x
+b_463_0_adj;463.0ian;;463.0er;;;;;;;;;;;x
+b_464_0;464.0;464.0;464.0;;464.0;;;;;;;;;x
+b_464_0_adj;464.0ian;;464.0er;;;;;;;;;;;x
 b_47th_ave;47th Ave;47th Ave;47th Ave;;47th Ave;;;;;;;;;x
 b_47th_ave_adj;47th Avean;;47th Aver;;;;;;;;;;;x
 b_48th_ave;48th Ave;48th Ave;48th Ave;;48th Ave;;;;;;;;;x
@@ -329,6 +369,8 @@ b_65th_st_2;65th St;65th St;65th St;;65th St;;;;;;;;;x
 b_65th_st_2_adj;65th Stian;;65th Ster;;;;;;;;;;;x
 b_65th_st_3;65th St;65th St;65th St;;65th St;;;;;;;;;x
 b_65th_st_3_adj;65th Stian;;65th Ster;;;;;;;;;;;x
+b_66_0;66.0;66.0;66.0;;66.0;;;;;;;;;x
+b_66_0_adj;66.0ian;;66.0er;;;;;;;;;;;x
 b_69th_ave;69th Ave;69th Ave;69th Ave;;69th Ave;;;;;;;;;x
 b_69th_ave_adj;69th Avean;;69th Aver;;;;;;;;;;;x
 b_69th_rd;69th Rd;69th Rd;69th Rd;;69th Rd;;;;;;;;;x
@@ -585,6 +627,10 @@ b_battery_pl;Battery Pl;Battery Pl;Battery Pl;;Battery Pl;;;;;;;;;x
 b_battery_pl_adj;Battery Plian;;Battery Pler;;;;;;;;;;;x
 b_battery_rd;Battery Rd;Battery Rd;Battery Rd;;Battery Rd;;;;;;;;;x
 b_battery_rd_adj;Battery Rdian;;Battery Rder;;;;;;;;;;;x
+b_baxter_st;Baxter St;Baxter St;Baxter St;;Baxter St;;;;;;;;;x
+b_baxter_st_adj;Baxter Stian;;Baxter Ster;;;;;;;;;;;x
+b_bay_entrance;Bay Entrance;Bay Entrance;Bay Entrance;;Bay Entrance;;;;;;;;;x
+b_bay_entrance_adj;Bay Entrancean;;Bay Entrancer;;;;;;;;;;;x
 b_bay_pkwy;Bay Pkwy;Bay Pkwy;Bay Pkwy;;Bay Pkwy;;;;;;;;;x
 b_bay_pkwy_adj;Bay Pkwian;;Bay Pkwer;;;;;;;;;;;x
 b_bay_ridge;Bay Ridge;Bay Ridge;Bay Ridge;;Bay Ridge;;;;;;;;;x
@@ -827,8 +873,6 @@ b_broome_st_3;Broome St;Broome St;Broome St;;Broome St;;;;;;;;;x
 b_broome_st_3_adj;Broome Stian;;Broome Ster;;;;;;;;;;;x
 b_broome_st_4;Broome St;Broome St;Broome St;;Broome St;;;;;;;;;x
 b_broome_st_4_adj;Broome Stian;;Broome Ster;;;;;;;;;;;x
-b_broome_st_5;Broome St;Broome St;Broome St;;Broome St;;;;;;;;;x
-b_broome_st_5_adj;Broome Stian;;Broome Ster;;;;;;;;;;;x
 b_brownsville;Brownsville;Brownsville;Brownsville;;Brownsville;;;;;;;;;x
 b_brownsville_adj;Brownsvillean;;brownsviller;;;;;;;;;;;x
 b_bruckner_blvd;Bruckner Blvd;Bruckner Blvd;Bruckner Blvd;;Bruckner Blvd;;;;;;;;;x
@@ -929,6 +973,8 @@ b_center_dr;Center Dr;Center Dr;Center Dr;;Center Dr;;;;;;;;;x
 b_center_dr_adj;Center Drian;;Center Drer;;;;;;;;;;;x
 b_central_ave;Central Ave;Central Ave;Central Ave;;Central Ave;;;;;;;;;x
 b_central_ave_adj;Central Avean;;Central Aver;;;;;;;;;;;x
+b_central_bowery;Central Bowery;Central Bowery;Central Bowery;;Central Bowery;;;;;;;;;x
+b_central_bowery_adj;Central Bowerian;;Central Bowerer;;;;;;;;;;;x
 b_central_bushwick;Central Bushwick;Central Bushwick;Central Bushwick;;Central Bushwick;;;;;;;;;x
 b_central_bushwick_adj;Central Bushwickian;;Central Bushwicker;;;;;;;;;;;x
 b_central_idlewild;Central Idlewild;Central Idlewild;Central Idlewild;;Central Idlewild;;;;;;;;;x
@@ -975,6 +1021,10 @@ b_cherry_st_2;Cherry St;Cherry St;Cherry St;;Cherry St;;;;;;;;;x
 b_cherry_st_2_adj;Cherry Stian;;Cherry Ster;;;;;;;;;;;x
 b_christopher_st;Christopher St;Christopher St;Christopher St;;Christopher St;;;;;;;;;x
 b_christopher_st_adj;Christopher Stian;;Christopher Ster;;;;;;;;;;;x
+b_chrystie_st;Chrystie St;Chrystie St;Chrystie St;;Chrystie St;;;;;;;;;x
+b_chrystie_st_adj;Chrystie Stian;;Chrystie Ster;;;;;;;;;;;x
+b_chrystie_st_2;Chrystie St;Chrystie St;Chrystie St;;Chrystie St;;;;;;;;;x
+b_chrystie_st_2_adj;Chrystie Stian;;Chrystie Ster;;;;;;;;;;;x
 b_church_ave;Church Ave;Church Ave;Church Ave;;Church Ave;;;;;;;;;x
 b_church_ave_adj;Church Avean;;Church Aver;;;;;;;;;;;x
 b_church_ave_2;Church Ave;Church Ave;Church Ave;;Church Ave;;;;;;;;;x
@@ -1191,6 +1241,10 @@ b_delafield_way;Delafield Way;Delafield Way;Delafield Way;;Delafield Way;;;;;;;;
 b_delafield_way_adj;Delafield Waian;;Delafield Waer;;;;;;;;;;;x
 b_delancey_st;Delancey St;Delancey St;Delancey St;;Delancey St;;;;;;;;;x
 b_delancey_st_adj;Delancey Stian;;Delancey Ster;;;;;;;;;;;x
+b_delancey_st_2;Delancey St;Delancey St;Delancey St;;Delancey St;;;;;;;;;x
+b_delancey_st_2_adj;Delancey Stian;;Delancey Ster;;;;;;;;;;;x
+b_delancey_st_3;Delancey St;Delancey St;Delancey St;;Delancey St;;;;;;;;;x
+b_delancey_st_3_adj;Delancey Stian;;Delancey Ster;;;;;;;;;;;x
 b_desbrosses_st;Desbrosses St;Desbrosses St;Desbrosses St;;Desbrosses St;;;;;;;;;x
 b_desbrosses_st_adj;Desbrosses Stian;;Desbrosses Ster;;;;;;;;;;;x
 b_dey_st;Dey St;Dey St;Dey St;;Dey St;;;;;;;;;x
@@ -1213,6 +1267,10 @@ b_division_ave;Division Ave;Division Ave;Division Ave;;Division Ave;;;;;;;;;x
 b_division_ave_adj;Division Avean;;Division Aver;;;;;;;;;;;x
 b_division_st;Division St;Division St;Division St;;Division St;;;;;;;;;x
 b_division_st_adj;Division Stian;;Division Ster;;;;;;;;;;;x
+b_division_st_2;Division St;Division St;Division St;;Division St;;;;;;;;;x
+b_division_st_2_adj;Division Stian;;Division Ster;;;;;;;;;;;x
+b_division_st_3;Division St;Division St;Division St;;Division St;;;;;;;;;x
+b_division_st_3_adj;Division Stian;;Division Ster;;;;;;;;;;;x
 b_dominick_st;Dominick St;Dominick St;Dominick St;;Dominick St;;;;;;;;;x
 b_dominick_st_adj;Dominick Stian;;Dominick Ster;;;;;;;;;;;x
 b_dongan_hills;Dongan Hills;Dongan Hills;Dongan Hills;;Dongan Hills;;;;;;;;;x
@@ -1233,6 +1291,8 @@ b_downing_st;Downing St;Downing St;Downing St;;Downing St;;;;;;;;;x
 b_downing_st_adj;Downing Stian;;Downing Ster;;;;;;;;;;;x
 b_downtown;Downtown;Downtown;Downtown;;Downtown;;;;;;;;;x
 b_downtown_adj;Downtownian;;downtowner;;;;;;;;;;;x
+b_doyers_st;Doyers St;Doyers St;Doyers St;;Doyers St;;;;;;;;;x
+b_doyers_st_adj;Doyers Stian;;Doyers Ster;;;;;;;;;;;x
 b_driggs_ave;Driggs Ave;Driggs Ave;Driggs Ave;;Driggs Ave;;;;;;;;;x
 b_driggs_ave_adj;Driggs Avean;;Driggs Aver;;;;;;;;;;;x
 b_dry_harbor_rd;Dry Harbor Rd;Dry Harbor Rd;Dry Harbor Rd;;Dry Harbor Rd;;;;;;;;;x
@@ -1927,10 +1987,18 @@ b_edson_ave;Edson Ave;Edson Ave;Edson Ave;;Edson Ave;;;;;;;;;x
 b_edson_ave_adj;Edson Avean;;Edson Aver;;;;;;;;;;;x
 b_eldert_lane;Eldert Lane;Eldert Lane;Eldert Lane;;Eldert Lane;;;;;;;;;x
 b_eldert_lane_adj;Eldert Lanean;;Eldert Laner;;;;;;;;;;;x
+b_eldridge_st;Eldridge St;Eldridge St;Eldridge St;;Eldridge St;;;;;;;;;x
+b_eldridge_st_adj;Eldridge Stian;;Eldridge Ster;;;;;;;;;;;x
+b_eldridge_st_2;Eldridge St;Eldridge St;Eldridge St;;Eldridge St;;;;;;;;;x
+b_eldridge_st_2_adj;Eldridge Stian;;Eldridge Ster;;;;;;;;;;;x
 b_eliot_ave;Eliot Ave;Eliot Ave;Eliot Ave;;Eliot Ave;;;;;;;;;x
 b_eliot_ave_adj;Eliot Avean;;Eliot Aver;;;;;;;;;;;x
 b_elizabeth_st;Elizabeth St;Elizabeth St;Elizabeth St;;Elizabeth St;;;;;;;;;x
 b_elizabeth_st_adj;Elizabeth Stian;;Elizabeth Ster;;;;;;;;;;;x
+b_elizabeth_st_2;Elizabeth St;Elizabeth St;Elizabeth St;;Elizabeth St;;;;;;;;;x
+b_elizabeth_st_2_adj;Elizabeth Stian;;Elizabeth Ster;;;;;;;;;;;x
+b_elizabeth_st_3;Elizabeth St;Elizabeth St;Elizabeth St;;Elizabeth St;;;;;;;;;x
+b_elizabeth_st_3_adj;Elizabeth Stian;;Elizabeth Ster;;;;;;;;;;;x
 b_elm_park;Elm Park;Elm Park;Elm Park;;Elm Park;;;;;;;;;x
 b_elm_park_adj;Elm Parkian;;Elm Parker;;;;;;;;;;;x
 b_elm_pl;Elm Pl;Elm Pl;Elm Pl;;Elm Pl;;;;;;;;;x
@@ -2053,6 +2121,12 @@ b_forest_houses;Forest Houses;Forest Houses;Forest Houses;;Forest Houses;;;;;;;;
 b_forest_houses_adj;Forest Housesian;;Forest Houseser;;;;;;;;;;;x
 b_forest_pkwy;Forest Pkwy;Forest Pkwy;Forest Pkwy;;Forest Pkwy;;;;;;;;;x
 b_forest_pkwy_adj;Forest Pkwian;;Forest Pkwer;;;;;;;;;;;x
+b_forsyth_st;Forsyth St;Forsyth St;Forsyth St;;Forsyth St;;;;;;;;;x
+b_forsyth_st_adj;Forsyth Stian;;Forsyth Ster;;;;;;;;;;;x
+b_forsyth_st_2;Forsyth St;Forsyth St;Forsyth St;;Forsyth St;;;;;;;;;x
+b_forsyth_st_2_adj;Forsyth Stian;;Forsyth Ster;;;;;;;;;;;x
+b_forsyth_st_3;Forsyth St;Forsyth St;Forsyth St;;Forsyth St;;;;;;;;;x
+b_forsyth_st_3_adj;Forsyth Stian;;Forsyth Ster;;;;;;;;;;;x
 b_fort_george;Fort George;Fort George;Fort George;;Fort George;;;;;;;;;x
 b_fort_george_adj;Fort Georgean;;Fort Georger;;;;;;;;;;;x
 b_fort_george_hill;Fort George Hill;Fort George Hill;Fort George Hill;;Fort George Hill;;;;;;;;;x
@@ -2113,8 +2187,6 @@ b_franklin_st_2;Franklin St;Franklin St;Franklin St;;Franklin St;;;;;;;;;x
 b_franklin_st_2_adj;Franklin Stian;;Franklin Ster;;;;;;;;;;;x
 b_franklin_st_3;Franklin St;Franklin St;Franklin St;;Franklin St;;;;;;;;;x
 b_franklin_st_3_adj;Franklin Stian;;Franklin Ster;;;;;;;;;;;x
-b_franklin_st_4;Franklin St;Franklin St;Franklin St;;Franklin St;;;;;;;;;x
-b_franklin_st_4_adj;Franklin Stian;;Franklin Ster;;;;;;;;;;;x
 b_fresh_kills;Fresh Kills;Fresh Kills;Fresh Kills;;Fresh Kills;;;;;;;;;x
 b_fresh_kills_adj;Fresh Killsian;;Fresh Killser;;;;;;;;;;;x
 b_fresh_meadows;Fresh Meadows;Fresh Meadows;Fresh Meadows;;Fresh Meadows;;;;;;;;;x
@@ -2221,6 +2293,8 @@ b_grand_st_4;Grand St;Grand St;Grand St;;Grand St;;;;;;;;;x
 b_grand_st_4_adj;Grand Stian;;Grand Ster;;;;;;;;;;;x
 b_grand_st_5;Grand St;Grand St;Grand St;;Grand St;;;;;;;;;x
 b_grand_st_5_adj;Grand Stian;;Grand Ster;;;;;;;;;;;x
+b_grand_st_6;Grand St;Grand St;Grand St;;Grand St;;;;;;;;;x
+b_grand_st_6_adj;Grand Stian;;Grand Ster;;;;;;;;;;;x
 b_graniteville;Graniteville;Graniteville;Graniteville;;Graniteville;;;;;;;;;x
 b_graniteville_adj;Granitevillean;;graniteviller;;;;;;;;;;;x
 b_grant_city;Grant City;Grant City;Grant City;;Grant City;;;;;;;;;x
@@ -2345,8 +2419,6 @@ b_hester_st;Hester St;Hester St;Hester St;;Hester St;;;;;;;;;x
 b_hester_st_adj;Hester Stian;;Hester Ster;;;;;;;;;;;x
 b_hester_st_2;Hester St;Hester St;Hester St;;Hester St;;;;;;;;;x
 b_hester_st_2_adj;Hester Stian;;Hester Ster;;;;;;;;;;;x
-b_hester_st_3;Hester St;Hester St;Hester St;;Hester St;;;;;;;;;x
-b_hester_st_3_adj;Hester Stian;;Hester Ster;;;;;;;;;;;x
 b_hewlett_st;Hewlett St;Hewlett St;Hewlett St;;Hewlett St;;;;;;;;;x
 b_hewlett_st_adj;Hewlett Stian;;Hewlett Ster;;;;;;;;;;;x
 b_hicks_st;Hicks St;Hicks St;Hicks St;;Hicks St;;;;;;;;;x
@@ -2367,6 +2439,8 @@ b_hillside_ave_2;Hillside Ave;Hillside Ave;Hillside Ave;;Hillside Ave;;;;;;;;;x
 b_hillside_ave_2_adj;Hillside Avean;;Hillside Aver;;;;;;;;;;;x
 b_hillside_ave_3;Hillside Ave;Hillside Ave;Hillside Ave;;Hillside Ave;;;;;;;;;x
 b_hillside_ave_3_adj;Hillside Avean;;Hillside Aver;;;;;;;;;;;x
+b_hogan_pl;Hogan Pl;Hogan Pl;Hogan Pl;;Hogan Pl;;;;;;;;;x
+b_hogan_pl_adj;Hogan Plian;;Hogan Pler;;;;;;;;;;;x
 b_holden_blvd;Holden Blvd;Holden Blvd;Holden Blvd;;Holden Blvd;;;;;;;;;x
 b_holden_blvd_adj;Holden Blvdian;;Holden Blvder;;;;;;;;;;;x
 b_holland_ave;Holland Ave;Holland Ave;Holland Ave;;Holland Ave;;;;;;;;;x
@@ -2397,6 +2471,10 @@ b_houston_st;Houston St;Houston St;Houston St;;Houston St;;;;;;;;;x
 b_houston_st_adj;Houston Stian;;Houston Ster;;;;;;;;;;;x
 b_houston_st_2;Houston St;Houston St;Houston St;;Houston St;;;;;;;;;x
 b_houston_st_2_adj;Houston Stian;;Houston Ster;;;;;;;;;;;x
+b_houston_st_3;Houston St;Houston St;Houston St;;Houston St;;;;;;;;;x
+b_houston_st_3_adj;Houston Stian;;Houston Ster;;;;;;;;;;;x
+b_houston_st_4;Houston St;Houston St;Houston St;;Houston St;;;;;;;;;x
+b_houston_st_4_adj;Houston Stian;;Houston Ster;;;;;;;;;;;x
 b_howard_beach;Howard Beach;Howard Beach;Howard Beach;;Howard Beach;;;;;;;;;x
 b_howard_beach_adj;Howard Beachian;;Howard Beacher;;;;;;;;;;;x
 b_howard_st;Howard St;Howard St;Howard St;;Howard St;;;;;;;;;x
@@ -2463,6 +2541,8 @@ b_jamaica_ave_3;Jamaica Ave;Jamaica Ave;Jamaica Ave;;Jamaica Ave;;;;;;;;;x
 b_jamaica_ave_3_adj;Jamaica Avean;;Jamaica Aver;;;;;;;;;;;x
 b_jamaica_ave_4;Jamaica Ave;Jamaica Ave;Jamaica Ave;;Jamaica Ave;;;;;;;;;x
 b_jamaica_ave_4_adj;Jamaica Avean;;Jamaica Aver;;;;;;;;;;;x
+b_jamaica_bay;Jamaica Bay;Jamaica Bay;Jamaica Bay;;Jamaica Bay;;;;;;;;;x
+b_jamaica_bay_adj;Jamaica Baian;;Jamaica Baer;;;;;;;;;;;x
 b_jamaica_hills;Jamaica Hills;Jamaica Hills;Jamaica Hills;;Jamaica Hills;;;;;;;;;x
 b_jamaica_hills_adj;Jamaica Hillsian;;Jamaica Hillser;;;;;;;;;;;x
 b_jane_st;Jane St;Jane St;Jane St;;Jane St;;;;;;;;;x
@@ -2539,6 +2619,8 @@ b_kew_gardens_hills;Kew Gardens Hills;Kew Gardens Hills;Kew Gardens Hills;;Kew G
 b_kew_gardens_hills_adj;Kew Gardens Hillsian;;Kew Gardens Hillser;;;;;;;;;;;x
 b_kew_gardens_rd;Kew Gardens Rd;Kew Gardens Rd;Kew Gardens Rd;;Kew Gardens Rd;;;;;;;;;x
 b_kew_gardens_rd_adj;Kew Gardens Rdian;;Kew Gardens Rder;;;;;;;;;;;x
+b_kill;Kill;Kill;Kill;;Kill;;;;;;;;;x
+b_kill_adj;Killian;;killer;;;;;;;;;;;x
 b_king_st;King St;King St;King St;;King St;;;;;;;;;x
 b_king_st_adj;King Stian;;King Ster;;;;;;;;;;;x
 b_kings_hwy;Kings Hwy;Kings Hwy;Kings Hwy;;Kings Hwy;;;;;;;;;x
@@ -2623,6 +2705,8 @@ b_leonard_st;Leonard St;Leonard St;Leonard St;;Leonard St;;;;;;;;;x
 b_leonard_st_adj;Leonard Stian;;Leonard Ster;;;;;;;;;;;x
 b_leonard_st_2;Leonard St;Leonard St;Leonard St;;Leonard St;;;;;;;;;x
 b_leonard_st_2_adj;Leonard Stian;;Leonard Ster;;;;;;;;;;;x
+b_leonard_st_3;Leonard St;Leonard St;Leonard St;;Leonard St;;;;;;;;;x
+b_leonard_st_3_adj;Leonard Stian;;Leonard Ster;;;;;;;;;;;x
 b_leroy_st;Leroy St;Leroy St;Leroy St;;Leroy St;;;;;;;;;x
 b_leroy_st_adj;Leroy Stian;;Leroy Ster;;;;;;;;;;;x
 b_lewis_ave;Lewis Ave;Lewis Ave;Lewis Ave;;Lewis Ave;;;;;;;;;x
@@ -2657,6 +2741,8 @@ b_linden_pl;Linden Pl;Linden Pl;Linden Pl;;Linden Pl;;;;;;;;;x
 b_linden_pl_adj;Linden Plian;;Linden Pler;;;;;;;;;;;x
 b_lindenwood;Lindenwood;Lindenwood;Lindenwood;;Lindenwood;;;;;;;;;x
 b_lindenwood_adj;Lindenwoodian;;lindenwooder;;;;;;;;;;;x
+b_lispenard_st;Lispenard St;Lispenard St;Lispenard St;;Lispenard St;;;;;;;;;x
+b_lispenard_st_adj;Lispenard Stian;;Lispenard Ster;;;;;;;;;;;x
 b_little_neck;Little Neck;Little Neck;Little Neck;;Little Neck;;;;;;;;;x
 b_little_neck_adj;Little Neckian;;Little Necker;;;;;;;;;;;x
 b_little_neck_pkwy;Little Neck Pkwy;Little Neck Pkwy;Little Neck Pkwy;;Little Neck Pkwy;;;;;;;;;x
@@ -2693,6 +2779,10 @@ b_louisiana_ave;Louisiana Ave;Louisiana Ave;Louisiana Ave;;Louisiana Ave;;;;;;;;
 b_louisiana_ave_adj;Louisiana Avean;;Louisiana Aver;;;;;;;;;;;x
 b_lower_murray_hill;Lower Murray Hill;Lower Murray Hill;Lower Murray Hill;;Lower Murray Hill;;;;;;;;;x
 b_lower_murray_hill_adj;Lower Murray Hillian;;Lower Murray Hiller;;;;;;;;;;;x
+b_ludlow_st;Ludlow St;Ludlow St;Ludlow St;;Ludlow St;;;;;;;;;x
+b_ludlow_st_adj;Ludlow Stian;;Ludlow Ster;;;;;;;;;;;x
+b_ludlow_st_2;Ludlow St;Ludlow St;Ludlow St;;Ludlow St;;;;;;;;;x
+b_ludlow_st_2_adj;Ludlow Stian;;Ludlow Ster;;;;;;;;;;;x
 b_luquer_st;Luquer St;Luquer St;Luquer St;;Luquer St;;;;;;;;;x
 b_luquer_st_adj;Luquer Stian;;Luquer Ster;;;;;;;;;;;x
 b_lutten_ave;Lutten Ave;Lutten Ave;Lutten Ave;;Lutten Ave;;;;;;;;;x
@@ -2715,6 +2805,8 @@ b_madison_st_2;Madison St;Madison St;Madison St;;Madison St;;;;;;;;;x
 b_madison_st_2_adj;Madison Stian;;Madison Ster;;;;;;;;;;;x
 b_madison_st_3;Madison St;Madison St;Madison St;;Madison St;;;;;;;;;x
 b_madison_st_3_adj;Madison Stian;;Madison Ster;;;;;;;;;;;x
+b_madison_st_4;Madison St;Madison St;Madison St;;Madison St;;;;;;;;;x
+b_madison_st_4_adj;Madison Stian;;Madison Ster;;;;;;;;;;;x
 b_main_st;Main St;Main St;Main St;;Main St;;;;;;;;;x
 b_main_st_adj;Main Stian;;Main Ster;;;;;;;;;;;x
 b_main_st_2;Main St;Main St;Main St;;Main St;;;;;;;;;x
@@ -2777,6 +2869,8 @@ b_market_st;Market St;Market St;Market St;;Market St;;;;;;;;;x
 b_market_st_adj;Market Stian;;Market Ster;;;;;;;;;;;x
 b_market_st_2;Market St;Market St;Market St;;Market St;;;;;;;;;x
 b_market_st_2_adj;Market Stian;;Market Ster;;;;;;;;;;;x
+b_market_st_3;Market St;Market St;Market St;;Market St;;;;;;;;;x
+b_market_st_3_adj;Market Stian;;Market Ster;;;;;;;;;;;x
 b_marsh_ave;Marsh Ave;Marsh Ave;Marsh Ave;;Marsh Ave;;;;;;;;;x
 b_marsh_ave_adj;Marsh Avean;;Marsh Aver;;;;;;;;;;;x
 b_mary_pinkett_ave;Mary Pinkett Ave;Mary Pinkett Ave;Mary Pinkett Ave;;Mary Pinkett Ave;;;;;;;;;x
@@ -2887,6 +2981,8 @@ b_morris_park_ave;Morris Park Ave;Morris Park Ave;Morris Park Ave;;Morris Park A
 b_morris_park_ave_adj;Morris Park Avean;;Morris Park Aver;;;;;;;;;;;x
 b_morton_st;Morton St;Morton St;Morton St;;Morton St;;;;;;;;;x
 b_morton_st_adj;Morton Stian;;Morton Ster;;;;;;;;;;;x
+b_mosco_st;Mosco St;Mosco St;Mosco St;;Mosco St;;;;;;;;;x
+b_mosco_st_adj;Mosco Stian;;Mosco Ster;;;;;;;;;;;x
 b_moshulu_pkwy;Moshulu Pkwy;Moshulu Pkwy;Moshulu Pkwy;;Moshulu Pkwy;;;;;;;;;x
 b_moshulu_pkwy_adj;Moshulu Pkwian;;Moshulu Pkwer;;;;;;;;;;;x
 b_mott_ave;Mott Ave;Mott Ave;Mott Ave;;Mott Ave;;;;;;;;;x
@@ -2897,6 +2993,8 @@ b_mott_st;Mott St;Mott St;Mott St;;Mott St;;;;;;;;;x
 b_mott_st_adj;Mott Stian;;Mott Ster;;;;;;;;;;;x
 b_mott_st_2;Mott St;Mott St;Mott St;;Mott St;;;;;;;;;x
 b_mott_st_2_adj;Mott Stian;;Mott Ster;;;;;;;;;;;x
+b_mott_st_3;Mott St;Mott St;Mott St;;Mott St;;;;;;;;;x
+b_mott_st_3_adj;Mott Stian;;Mott Ster;;;;;;;;;;;x
 b_mount_eden;Mount Eden;Mount Eden;Mount Eden;;Mount Eden;;;;;;;;;x
 b_mount_eden_adj;Mount Edenian;;Mount Edener;;;;;;;;;;;x
 b_mount_hope;Mount Hope;Mount Hope;Mount Hope;;Mount Hope;;;;;;;;;x
@@ -2911,6 +3009,8 @@ b_mulberry_st;Mulberry St;Mulberry St;Mulberry St;;Mulberry St;;;;;;;;;x
 b_mulberry_st_adj;Mulberry Stian;;Mulberry Ster;;;;;;;;;;;x
 b_mulberry_st_2;Mulberry St;Mulberry St;Mulberry St;;Mulberry St;;;;;;;;;x
 b_mulberry_st_2_adj;Mulberry Stian;;Mulberry Ster;;;;;;;;;;;x
+b_mulberry_st_3;Mulberry St;Mulberry St;Mulberry St;;Mulberry St;;;;;;;;;x
+b_mulberry_st_3_adj;Mulberry Stian;;Mulberry Ster;;;;;;;;;;;x
 b_muldoon_ave;Muldoon Ave;Muldoon Ave;Muldoon Ave;;Muldoon Ave;;;;;;;;;x
 b_muldoon_ave_adj;Muldoon Avean;;Muldoon Aver;;;;;;;;;;;x
 b_murdock_ave;Murdock Ave;Murdock Ave;Murdock Ave;;Murdock Ave;;;;;;;;;x
@@ -2983,6 +3083,8 @@ b_new_utrecht_ave_2;New Utrecht Ave;New Utrecht Ave;New Utrecht Ave;;New Utrecht
 b_new_utrecht_ave_2_adj;New Utrecht Avean;;New Utrecht Aver;;;;;;;;;;;x
 b_new_york_ave;New York Ave;New York Ave;New York Ave;;New York Ave;;;;;;;;;x
 b_new_york_ave_adj;New York Avean;;New York Aver;;;;;;;;;;;x
+b_newark_bay;Newark Bay;Newark Bay;Newark Bay;;Newark Bay;;;;;;;;;x
+b_newark_bay_adj;Newark Baian;;Newark Baer;;;;;;;;;;;x
 b_newkirk_ave;Newkirk Ave;Newkirk Ave;Newkirk Ave;;Newkirk Ave;;;;;;;;;x
 b_newkirk_ave_adj;Newkirk Avean;;Newkirk Aver;;;;;;;;;;;x
 b_newport_ave;Newport Ave;Newport Ave;Newport Ave;;Newport Ave;;;;;;;;;x
@@ -3055,6 +3157,16 @@ b_oakwood_heights;Oakwood Heights;Oakwood Heights;Oakwood Heights;;Oakwood Heigh
 b_oakwood_heights_adj;Oakwood Heightsian;;Oakwood Heightser;;;;;;;;;;;x
 b_ocean;Ocean;Ocean;Ocean;;Ocean;;;;;;;;;x
 b_ocean_adj;Oceanian;;oceaner;;;;;;;;;;;x
+b_ocean_2;Ocean;Ocean;Ocean;;Ocean;;;;;;;;;x
+b_ocean_2_adj;Oceanian;;oceaner;;;;;;;;;;;x
+b_ocean_3;Ocean;Ocean;Ocean;;Ocean;;;;;;;;;x
+b_ocean_3_adj;Oceanian;;oceaner;;;;;;;;;;;x
+b_ocean_4;Ocean;Ocean;Ocean;;Ocean;;;;;;;;;x
+b_ocean_4_adj;Oceanian;;oceaner;;;;;;;;;;;x
+b_ocean_5;Ocean;Ocean;Ocean;;Ocean;;;;;;;;;x
+b_ocean_5_adj;Oceanian;;oceaner;;;;;;;;;;;x
+b_ocean_6;Ocean;Ocean;Ocean;;Ocean;;;;;;;;;x
+b_ocean_6_adj;Oceanian;;oceaner;;;;;;;;;;;x
 b_ocean_ave;Ocean Ave;Ocean Ave;Ocean Ave;;Ocean Ave;;;;;;;;;x
 b_ocean_ave_adj;Ocean Avean;;Ocean Aver;;;;;;;;;;;x
 b_ocean_ave_2;Ocean Ave;Ocean Ave;Ocean Ave;;Ocean Ave;;;;;;;;;x
@@ -3087,6 +3199,10 @@ b_olympia_blvd;Olympia Blvd;Olympia Blvd;Olympia Blvd;;Olympia Blvd;;;;;;;;;x
 b_olympia_blvd_adj;Olympia Blvdian;;Olympia Blvder;;;;;;;;;;;x
 b_orchard_beach;Orchard Beach;Orchard Beach;Orchard Beach;;Orchard Beach;;;;;;;;;x
 b_orchard_beach_adj;Orchard Beachian;;Orchard Beacher;;;;;;;;;;;x
+b_orchard_st;Orchard St;Orchard St;Orchard St;;Orchard St;;;;;;;;;x
+b_orchard_st_adj;Orchard Stian;;Orchard Ster;;;;;;;;;;;x
+b_orchard_st_2;Orchard St;Orchard St;Orchard St;;Orchard St;;;;;;;;;x
+b_orchard_st_2_adj;Orchard Stian;;Orchard Ster;;;;;;;;;;;x
 b_oriental_blvd;Oriental Blvd;Oriental Blvd;Oriental Blvd;;Oriental Blvd;;;;;;;;;x
 b_oriental_blvd_adj;Oriental Blvdian;;Oriental Blvder;;;;;;;;;;;x
 b_oxford_st;Oxford St;Oxford St;Oxford St;;Oxford St;;;;;;;;;x
@@ -3167,6 +3283,8 @@ b_pelham_parkway;Pelham Parkway;Pelham Parkway;Pelham Parkway;;Pelham Parkway;;;
 b_pelham_parkway_adj;Pelham Parkwaian;;Pelham Parkwaer;;;;;;;;;;;x
 b_pelham_pkwy;Pelham Pkwy;Pelham Pkwy;Pelham Pkwy;;Pelham Pkwy;;;;;;;;;x
 b_pelham_pkwy_adj;Pelham Pkwian;;Pelham Pkwer;;;;;;;;;;;x
+b_pell_st;Pell St;Pell St;Pell St;;Pell St;;;;;;;;;x
+b_pell_st_adj;Pell Stian;;Pell Ster;;;;;;;;;;;x
 b_penn_ave;Penn Ave;Penn Ave;Penn Ave;;Penn Ave;;;;;;;;;x
 b_penn_ave_adj;Penn Avean;;Penn Aver;;;;;;;;;;;x
 b_pennsylcania_ave;Pennsylcania Ave;Pennsylcania Ave;Pennsylcania Ave;;Pennsylcania Ave;;;;;;;;;x
@@ -3341,6 +3459,14 @@ b_rikers_island;Rikers Island;Rikers Island;Rikers Island;;Rikers Island;;;;;;;;
 b_rikers_island_adj;Rikers Islandian;;Rikers Islander;;;;;;;;;;;x
 b_river;River;River;River;;River;;;;;;;;;x
 b_river_adj;Riverian;;riverer;;;;;;;;;;;x
+b_river_2;River;River;River;;River;;;;;;;;;x
+b_river_2_adj;Riverian;;riverer;;;;;;;;;;;x
+b_river_3;River;River;River;;River;;;;;;;;;x
+b_river_3_adj;Riverian;;riverer;;;;;;;;;;;x
+b_river_4;River;River;River;;River;;;;;;;;;x
+b_river_4_adj;Riverian;;riverer;;;;;;;;;;;x
+b_river_5;River;River;River;;River;;;;;;;;;x
+b_river_5_adj;Riverian;;riverer;;;;;;;;;;;x
 b_river_ave;River Ave;River Ave;River Ave;;River Ave;;;;;;;;;x
 b_river_ave_adj;River Avean;;River Aver;;;;;;;;;;;x
 b_river_pl;River Pl;River Pl;River Pl;;River Pl;;;;;;;;;x
@@ -3455,6 +3581,8 @@ b_seminole_ave;Seminole Ave;Seminole Ave;Seminole Ave;;Seminole Ave;;;;;;;;;x
 b_seminole_ave_adj;Seminole Avean;;Seminole Aver;;;;;;;;;;;x
 b_seward_ave;Seward Ave;Seward Ave;Seward Ave;;Seward Ave;;;;;;;;;x
 b_seward_ave_adj;Seward Avean;;Seward Aver;;;;;;;;;;;x
+b_seward_park;Seward Park;Seward Park;Seward Park;;Seward Park;;;;;;;;;x
+b_seward_park_adj;Seward Parkian;;Seward Parker;;;;;;;;;;;x
 b_sharrots_rd;Sharrots Rd;Sharrots Rd;Sharrots Rd;;Sharrots Rd;;;;;;;;;x
 b_sharrots_rd_adj;Sharrots Rdian;;Sharrots Rder;;;;;;;;;;;x
 b_shea_rd;Shea Rd;Shea Rd;Shea Rd;;Shea Rd;;;;;;;;;x
@@ -3571,6 +3699,8 @@ b_south_riverside_blvd;South Riverside Blvd;South Riverside Blvd;South Riverside
 b_south_riverside_blvd_adj;South Riverside Blvdian;;South Riverside Blvder;;;;;;;;;;;x
 b_south_side;South Side;South Side;South Side;;South Side;;;;;;;;;x
 b_south_side_adj;South Sidean;;South Sider;;;;;;;;;;;x
+b_south_st;South St;South St;South St;;South St;;;;;;;;;x
+b_south_st_adj;South Stian;;South Ster;;;;;;;;;;;x
 b_southern_blvd;Southern Blvd;Southern Blvd;Southern Blvd;;Southern Blvd;;;;;;;;;x
 b_southern_blvd_adj;Southern Blvdian;;Southern Blvder;;;;;;;;;;;x
 b_southern_blvd_2;Southern Blvd;Southern Blvd;Southern Blvd;;Southern Blvd;;;;;;;;;x
@@ -3787,6 +3917,8 @@ b_tudor_city;Tudor City;Tudor City;Tudor City;;Tudor City;;;;;;;;;x
 b_tudor_city_adj;Tudor Citian;;Tudor Citer;;;;;;;;;;;x
 b_turtle_bay_waterfront;Turtle Bay Waterfront;Turtle Bay Waterfront;Turtle Bay Waterfront;;Turtle Bay Waterfront;;;;;;;;;x
 b_turtle_bay_waterfront_adj;Turtle Bay Waterfrontian;;Turtle Bay Waterfronter;;;;;;;;;;;x
+b_two_bridges;Two Bridges;Two Bridges;Two Bridges;;Two Bridges;;;;;;;;;x
+b_two_bridges_adj;Two Bridgesian;;Two Bridgeser;;;;;;;;;;;x
 b_tyler_ave;Tyler Ave;Tyler Ave;Tyler Ave;;Tyler Ave;;;;;;;;;x
 b_tyler_ave_adj;Tyler Avean;;Tyler Aver;;;;;;;;;;;x
 b_union_square;Union Square;Union Square;Union Square;;Union Square;;;;;;;;;x
@@ -4369,6 +4501,8 @@ b_w_fingerboard_rd;W Fingerboard Rd;W Fingerboard Rd;W Fingerboard Rd;;W Fingerb
 b_w_fingerboard_rd_adj;W Fingerboard Rdian;;W Fingerboard Rder;;;;;;;;;;;x
 b_wadsworth_ave;Wadsworth Ave;Wadsworth Ave;Wadsworth Ave;;Wadsworth Ave;;;;;;;;;x
 b_wadsworth_ave_adj;Wadsworth Avean;;Wadsworth Aver;;;;;;;;;;;x
+b_wagner_pl;Wagner Pl;Wagner Pl;Wagner Pl;;Wagner Pl;;;;;;;;;x
+b_wagner_pl_adj;Wagner Plian;;Wagner Pler;;;;;;;;;;;x
 b_wakefield;Wakefield;Wakefield;Wakefield;;Wakefield;;;;;;;;;x
 b_wakefield_adj;Wakefieldian;;wakefielder;;;;;;;;;;;x
 b_waldo_ave;Waldo Ave;Waldo Ave;Waldo Ave;;Waldo Ave;;;;;;;;;x
