@@ -7,7 +7,7 @@
   
     1867.05.02 = { birth=yes }
     1889.01.01 = { add_spouse=12 }
-    1903.12.01 = { add_spouse=15 }
+    1903.12.01 = { add_spouse=22 }
     1930.08.15 = { death=yes }
 	
 	mother = 2
@@ -193,20 +193,20 @@
 	mother = 12
 }
 
-15 = {
-    name=Nicolina
-    dynasty=20
-  
-	female = yes
-    religion=criminal
-    culture=sicilian
-  
-    1884.01.01 = { birth=yes }
-    1967.01.01 = { death=yes }
-	
-	father = 1
-	mother = 12
-}
+#15 = {
+#    name=Nicolina
+#    dynasty=20
+#  
+#	female = yes
+#    religion=criminal
+#    culture=sicilian
+#  
+#    1884.01.01 = { birth=yes }
+#    1967.01.01 = { death=yes }
+#	
+#	father = 1
+#	mother = 12
+#}
 
 16 = {
     name=Ignazio
