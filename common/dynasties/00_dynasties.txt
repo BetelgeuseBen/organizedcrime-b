@@ -118,6 +118,41 @@
 	used_for_random = no
 }
 
+21 = {
+	name = "Cusimano"
+	culture = "sicilian"
+	used_for_random = no
+}
+
+22 = {
+	name = "Janazzo"
+	culture = "sicilian"
+	used_for_random = no
+}
+
+23 = {
+	name = "Reina"
+	culture = "sicilian"
+	used_for_random = no
+}
+
+24 = {
+	name = "Liam"
+	culture = "sicilian"
+	used_for_random = no
+}
+
+25 = {
+	name = "Green-Hill"
+	culture = "irish"
+	used_for_random = no
+}
+
+26 = {
+	name = "La Scala"
+	culture = "sicilian"
+	used_for_random = no
+}
 
 ###################################Sicilian 500...999###################################
 
