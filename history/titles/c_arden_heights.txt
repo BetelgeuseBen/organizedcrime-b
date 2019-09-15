@@ -6,6 +6,3 @@
 800.1.1={
 	liege=k_westfield
 }
-1066.1.1 = {
-	holder = 2
-}
