@@ -85,8 +85,12 @@ american = {
 		color = { 0.50 0.2 0 }
 	}
 	scandinavian = {
-	graphical_cultures = { englishgfx }
-	color = { 0.14 0.8 1 }
+		graphical_cultures = { englishgfx }
+		color = { 0.14 0.8 1 }
+	}
+	greek = {
+		graphical_cultures = { englishgfx }
+		color = { 1 0.4 1 }
 	}
 }
 
@@ -372,7 +376,19 @@ no_living_there = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.6 0.6 0.6 }
 	}
-	port= {
+	port = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.2 0.1 0.2 }
+	}
+	zoo = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.2 0.1 0.2 }
+	}
+	cemetery = {
+		graphical_cultures = { italiangfx southerngfx }
+		color = { 0.2 0.1 0.2 }
+	}
+	swamp = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.2 0.1 0.2 }
 	}
