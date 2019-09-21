@@ -26,6 +26,9 @@
     1860.01.01 = { add_spouse=3 }
     1873.01.01 = { add_spouse=4 }
     1941.06.20 = { death=yes }
+	
+	mother = 18
+	father = 17
 }
 
 3 = {
@@ -48,6 +51,9 @@
   
     1847.07.06 = { birth=yes }
     1909.07.10 = { death=yes }
+	
+	mother = 20
+	father = 19
 }
 
 5 = {
