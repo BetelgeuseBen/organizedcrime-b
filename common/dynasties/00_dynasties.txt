@@ -159,6 +159,19 @@
 	culture = "sicilian"
 	used_for_random = no
 }
+
+28 = {
+	name = "Fatta"
+	culture = "sicilian"
+	used_for_random = no
+}
+
+29 = {
+	name = "Boanno"
+	culture = "sicilian"
+	used_for_random = no
+}
+
 ###################################Sicilian 500...999###################################
 
 500 = {

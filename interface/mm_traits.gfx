@@ -17,3 +17,13 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
 }
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_mustache_peppe"
+		texturefile = "gfx/traits/mustache_peppe.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}
