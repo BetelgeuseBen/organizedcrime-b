@@ -25,6 +25,7 @@
     culture=sicilian
   
     1848.05.11 = { birth=yes }
+    1850.01.01 = { create_bloodline = { type = mother_of_the_morello-teranova_family } }
     1860.01.01 = { add_spouse=3 }
     1873.01.01 = { add_spouse=4 }
     1941.06.20 = { death=yes }

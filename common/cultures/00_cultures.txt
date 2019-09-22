@@ -336,15 +336,15 @@ irish = {
 	}
 }
 jewish = {
-	graphical_cultures = { westerngfx }
+	graphical_cultures = { byzantinegfx }
 	
 	galizianer = {
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { byzantinegfx }
 		color = { 0.95 0.95 0.95 }
 	}
 	litvak = {
 		color = { 1 0.85 0 }
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { byzantinegfx }
 	}
 }
 slavic = {
