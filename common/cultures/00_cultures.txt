@@ -73,15 +73,15 @@ american = {
 		}
 	}
 	german = {
-		graphical_cultures = { englishgfx }
+		graphical_cultures = { germangfx }
 		color = { 0.5 0.5 0.5 }
 	}
 	french = {
-		graphical_cultures = { englishgfx }
+		graphical_cultures = { frankishgfx }
 		color = { 0 0.16 1 }
 	}
 	afro_american = {
-		graphical_cultures = { englishgfx }
+		graphical_cultures = { westafricangfx }
 		color = { 0.50 0.2 0 }
 	}
 	scandinavian = {
@@ -89,7 +89,7 @@ american = {
 		color = { 0.14 0.8 1 }
 	}
 	greek = {
-		graphical_cultures = { englishgfx }
+		graphical_cultures = { easterngfx }
 		color = { 1 0.4 1 }
 	}
 }
@@ -332,7 +332,7 @@ irish = {
 	
 	irish = {
 		color = { 0.29 1 0 }
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { celticgfx }
 	}
 }
 jewish = {
@@ -350,46 +350,62 @@ jewish = {
 slavic = {
 	czech = {
 		color = { 0.28 0 1 }
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { westernslavicgfx }
 	}
 }
+
+chinese = {
+	han = {
+		color = { 211 44 44 }
+		graphical_cultures = { chinesegfx }
+	}
+}
+
+native_american = {
+	nativ = {
+		color = { 200 44 44 }
+		graphical_cultures = { mesoamericangfx }
+	}
+}
+
+#Needs reworke, this is why I put in Duckgfx
 no_living_there = {
-	graphical_cultures = { westerngfx }
+	graphical_cultures = { duckgfx }
 	
 	central_park = {
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { duckgfx }
 		color = { 0.5 0.1 0 }
 	}
 	naval_base = {
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { duckgfx }
 		color = { 0 1 1 }
 	}
 	iron_mine = {
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { duckgfx }
 		color = { 0.8 0.2 0.8 }
 	}
 	resort = {
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { duckgfx }
 		color = { 0.2 0.65 1 }
 	}
 	fort = {
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { duckgfx }
 		color = { 0.6 0.6 0.6 }
 	}
 	port = {
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { duckgfx }
 		color = { 0.2 0.1 0.2 }
 	}
 	zoo = {
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { duckgfx }
 		color = { 0.2 0.1 0.2 }
 	}
 	cemetery = {
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { duckgfx }
 		color = { 0.2 0.1 0.2 }
 	}
 	swamp = {
-		graphical_cultures = { italiangfx southerngfx }
+		graphical_cultures = { duckgfx }
 		color = { 0.2 0.1 0.2 }
 	}
 }
