@@ -729,8 +729,48 @@
 
     1870.01.01 = { birth=yes }
     1901.01.01 = { death=yes }
+
+	father = 53
 }
 
+53 = {
+    name=Belky
+    dynasty=29
+  	
+    religion=criminal
+    culture=sicilian
+  
+    1850.01.01 = { birth=yes }
+    1890.01.01 = { death=yes }
+}
+
+54 = {
+    name=Salvatore
+    dynasty=29
+  	
+    religion=criminal
+    culture=sicilian
+  
+	add_trait="mustache_peppe"
+
+    1878.01.01 = { birth=yes }
+    1915.01.01 = { death=yes }
+	
+	father = 53
+}
+
+55 = {
+    name=Nicola
+    dynasty=30
+  	
+    religion=criminal
+    culture=sicilian
+  
+	add_trait="mustache_peppe"
+
+    1872.01.01 = { birth=yes }
+    1957.01.01 = { death=yes }
+}
 
 #Irish Mobsters
 1000 = {

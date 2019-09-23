@@ -172,6 +172,12 @@
 	used_for_random = no
 }
 
+30 = {
+	name = "Schiro"
+	culture = "sicilian"
+	used_for_random = no
+}
+
 ###################################Sicilian 500...999###################################
 
 500 = {
