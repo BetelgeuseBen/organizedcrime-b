@@ -355,7 +355,7 @@ slavic = {
 }
 
 chinese = {
-	han = {
+	chinese = {
 		color = { 211 44 44 }
 		graphical_cultures = { chinesegfx }
 	}
