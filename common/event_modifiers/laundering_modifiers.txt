@@ -1,4 +1,0 @@
-holding_laundering_money = {
-	tax_income = 60
-	icon = 6
-}
