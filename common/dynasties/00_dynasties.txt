@@ -154,6 +154,11 @@
 	used_for_random = no
 }
 
+27 = {
+	name = "Masseria"
+	culture = "sicilian"
+	used_for_random = no
+}
 ###################################Sicilian 500...999###################################
 
 500 = {
