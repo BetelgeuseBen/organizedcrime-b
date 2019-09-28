@@ -40,3 +40,16 @@ EPIDEMICS_TOOLTIP_DELAYED_OTHERS;Other investigations in the world:;;;;;;;;;;;;;
 EPIDEMICS_TOOLTIP_DELAYED_OTHERS_NOPLAYER;New York's ongoing major investigations:;;;;;;;;;;;;;x
 MAPMODE_EPIDEMICS;§YInvestigations§!;;;;;;;;;;;;;x
 MAPMODE_EPIDEMICS_DESC;This map mode shows all neighborhoods affected by investigations.;;;;;;;;;;;;;x
+
+disease_defence;Resistance to investigations;;;;;;;;;;;;;x
+notorious_1;Somewhat Notorious;;;;;;;;;;;;;x
+notorious_1_desc;This neighborhood is locally known to harbour a raised prevalence of thugs and petty crime.;;;;;;;;;;;;;x
+notorious_2;Notorious;;;;;;;;;;;;;x
+notorious_2_desc;This neighborhood is notorious for the amount of crime and violence happening in its streets.;;;;;;;;;;;;;x
+notorious_3;Highly Notorious;;;;;;;;;;;;;x
+notorious_3_desc;This neighborhood is out of control. You don't want to walk these streets at night. In fact, you never want to walk them.;;;;;;;;;;;;;x
+
+EVTDESCMMI.2;The reputation of [Root.GetName] has gotten worse.;;;;;;;;;;;;;x
+EVTOPTAMMI.2;A worrying development.;;;;;;;;;;;;;x
+EVTDESCMMI.3;Due to the recent developments, [Root.GetName] has lost some of its notoriety.;;;;;;;;;;;;;x
+EVTOPTAMMI.3;Interesting...;;;;;;;;;;;;;x

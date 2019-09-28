@@ -20,20 +20,29 @@ character_event = {
 	}
 }
 
-character_event = {
+#Notoriety level increases notification
+province_event = {
 	id = MMI.2
+	desc = EVTDESCMMI.2
 	is_triggered_only = yes
-	hide_window = yes
-	immediate = {
-	change_diplomacy = 100
-	change_intrigue = 100
-	change_variable = { which = successful_murders value = 1 }
+	option = {
+		name = EVTOPTAMMI.2
+	}
+}
+
+#Notoriety level decreases notification
+province_event = {
+	id = MMI.3
+	desc = EVTDESCMMI.3
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTAMMI.3
 	}
 }
 
 #On_death: check for murders.
 character_event = {
-	id = MMI.3
+	id = MMI.4
 	hide_window = yes
 	trigger = { 
 		OR = { 

@@ -15,9 +15,23 @@ murder_investigation = { # Murder Investigation
 	timeperiod = { # Normal Outbreak
 	}
 	yearly_province_pulse = {
+		change_variable = {
+			which = notoriety_value
+			value = 10
+		}
+#		random_list = {		
+#			92 = {
+#			}
+#			8 = {
+#			}
+#		}
 	}
 	character_infection_chances = {
 		months = 1
+		modifier = {
+			factor = 10
+			NOT = { decadence = 10 }
+		}
 	}
 	on_character_infection = {
 		add_trait = murder_suspect

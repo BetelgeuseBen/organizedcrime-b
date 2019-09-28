@@ -1,0 +1,40 @@
+holding_laundering_money = {
+	tax_income = 30
+	icon = 6
+}
+
+notorious_1 = {
+	major = yes
+	disease_defence = -0.2
+	assassinate_chance_modifier = 0.05
+	local_tax_modifier = -0.10
+	add_piety_modifier = 0.10
+	levy_size = 0.05
+	fort_level = 0.10
+	#icons in major_modifiers_strip
+	icon = 1
+}
+
+notorious_2 = {
+	major = yes
+	disease_defence = -0.4
+	assassinate_chance_modifier = 0.10
+	local_tax_modifier = -0.25
+	add_piety_modifier = 0.25
+	levy_size = 0.10
+	fort_level = 0.25
+	#icons in major_modifiers_strip
+	icon = 2
+}
+
+notorious_3 = {
+	major = yes
+	disease_defence = -0.1
+	assassinate_chance_modifier = 0.15
+	local_tax_modifier = -0.50
+	add_piety_modifier = 0.50
+	levy_size = 0.15
+	fort_level = 0.50
+	#icons in major_modifiers_strip
+	icon = 3
+}
