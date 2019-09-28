@@ -49,7 +49,7 @@ notorious_2_desc;This neighborhood is notorious for the amount of crime and viol
 notorious_3;Highly Notorious;;;;;;;;;;;;;x
 notorious_3_desc;This neighborhood is out of control. You don't want to walk these streets at night. In fact, you never want to walk them.;;;;;;;;;;;;;x
 
-EVTDESCMMI.2;The reputation of [Root.GetName] has gotten worse.;;;;;;;;;;;;;x
-EVTOPTAMMI.2;A worrying development.;;;;;;;;;;;;;x
-EVTDESCMMI.3;Due to the recent developments, [Root.GetName] has lost some of its notoriety.;;;;;;;;;;;;;x
-EVTOPTAMMI.3;Interesting...;;;;;;;;;;;;;x
+EVTDESCRIP.11712;The reputation of [Root.GetName] has gotten worse.;;;;;;;;;;;;;x
+EVTOPTARIP.11712;A worrying development.;;;;;;;;;;;;;x
+EVTDESCRIP.11719;Due to the recent developments, [Root.GetName] has lost some of its notoriety.;;;;;;;;;;;;;x
+EVTOPTARIP.11719;Interesting...;;;;;;;;;;;;;x

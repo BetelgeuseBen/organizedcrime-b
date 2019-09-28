@@ -2,7 +2,7 @@
 
 namespace = RIP
 
-character_event = {
+character_event = {#yearly character event
 	id = RIP.11700
 
 	hide_window = yes
@@ -23,7 +23,7 @@ character_event = {
 	}
 }
 
-province_event = {
+province_event = {#province event determining natural notoriety gain
 	id = RIP.11701
 
 	hide_window = yes
@@ -219,3 +219,56 @@ province_event = { #when epidemic appears prosperity progress is reduced based o
 		}
 	}
 }
+
+
+##########################################################################
+##########################################################################
+##########################################################################
+
+
+#Notoriety level increases notification
+province_event = {
+	id = RIP.11712
+	desc = EVTDESCRIP.11712
+	picture = "GFX_evt_prospering_province"
+	border = GFX_event_normal_frame_economy
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTARIP.11712
+	}
+}
+
+#Notoriety level decreases notification
+province_event = {
+	id = RIP.11719
+	desc = EVTDESCRIP.11719
+	picture = "GFX_evt_prospering_province"
+	border = GFX_event_normal_frame_economy
+	is_triggered_only = yes
+	option = {
+		name = EVTOPTARIP.11719
+	}
+}
+
+character_event = { #removes flag on new holder
+	id = RIP.11715
+
+	hide_window = yes
+	
+	is_triggered_only = yes	
+	
+	option = {
+		FROM = {
+			if = {
+				limit = {
+					tier = count
+				}
+				location = {
+					clr_province_flag = crown_focus_province
+				}
+			}
+		}
+	}
+}
+
+##Events for Focus provinces go here

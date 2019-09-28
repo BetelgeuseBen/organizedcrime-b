@@ -71,7 +71,7 @@ check_notoriety_level_effect = {
 				add_province_modifier = { name = notorious_3 duration = -1 }
 				remove_province_modifier = notorious_2
 			}
-			province_event = { id = MMI.2 }
+			province_event = { id = RIP.11712 }
 		}
 		
 		else_if = { #If notorious_* level is higher than expected
@@ -133,7 +133,7 @@ check_notoriety_level_effect = {
 				}
 				remove_province_modifier = notorious_1
 			}
-			province_event = { id = MMI.3 }
+			province_event = { id = RIP.11719 }
 		}
 	}
 }

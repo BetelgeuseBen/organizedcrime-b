@@ -37,6 +37,10 @@ murder_investigation = { # Murder Investigation
 		add_trait = murder_suspect
 	}
 	on_province_infection = {
+		change_variable = {
+			which = notoriety_value
+			value = 10
+		}
 	}
 
 	disease_gfx = disease_gfx_typhus
