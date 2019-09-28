@@ -1,5 +1,5 @@
-name = "000b0.3"
-path = "mod/000b0.3"
+name = "Mafia Kings"
+path = "mod/mafia_kings"
 user_dir = "001_NYC_Crimemod_SavesnStuff"
 replace_path = "history/characters"
 replace_path = "history/provinces"

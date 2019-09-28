@@ -771,6 +771,17 @@
     1872.01.01 = { birth=yes }
     1957.01.01 = { death=yes }
 }
+56 = {
+    name=Grindor
+  	
+    religion=criminal
+    culture=central_park
+
+	add_trait="immortal"
+
+    1800.01.01 = { birth=yes effect={dynasty=none} }
+    2100.01.01 = { death=yes }
+}
 
 #Irish Mobsters
 1000 = {
