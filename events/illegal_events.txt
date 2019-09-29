@@ -128,3 +128,47 @@ character_event = {
 		}
 	}
 }
+
+# Add decadent trait
+character_event = {
+	id = MMIE.4
+	hide_window = yes
+	
+	trigger = {
+		religion_group = illegal_group
+		NOT = { trait = decadent }
+		top_liege = {
+			has_law = infamy_policy_1
+		}
+		is_ruler = yes
+		age = 16
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		add_trait = decadent
+	}
+	
+}
+# Remove decadent trait
+character_event = {
+	id = MMIE.5
+	hide_window = yes
+	
+	trigger = {
+		religion_group = illegal_group
+		trait = decadent
+		top_liege = {
+			has_law = infamy_policy_0
+		}
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+	immediate = {
+		remove_trait = decadent
+	}
+}
+

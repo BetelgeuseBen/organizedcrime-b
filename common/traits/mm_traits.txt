@@ -55,3 +55,12 @@ police_captain = {
 		trait = police_officer
 	}
 }
+# Controls Illegal dynasty infamy gain
+decadent = {
+	potential = {
+		religion_group = illegal_group
+	}
+	
+	customizer = no
+	random = no
+}
