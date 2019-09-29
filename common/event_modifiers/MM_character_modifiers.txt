@@ -1,0 +1,5 @@
+complicated_management = {
+	stewardship_penalty = -4
+	years = 1
+	icon = 22
+}

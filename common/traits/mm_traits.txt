@@ -3,7 +3,55 @@ rat = {
 	
 	diplomacy_penalty = -2
 	intrigue_penalty = -2
-	stewardship_penalty = -2
 	
 	illegal_group_opinion = -100
+}
+businessman = {
+	random = no
+	
+	stewardship = 2
+	diplomacy = 1
+	opposites = {
+		trait = lawyer
+		trait = police_officer
+		trait = police_captain
+	}
+}
+lawyer = {
+	random = no
+	
+	diplomacy = 3
+	learning = 1
+	opposites = {
+		trait = businessman
+		trait = police_officer
+		trait = police_captain
+	}
+}
+police_officer = {
+	potential = {
+		age = 16
+		religion_group = legal_group
+		is_female = no
+	}
+	personality = yes
+	
+	martial = 2
+	diplomacy = 1
+	opposites = {
+		trait = businessman
+		trait = lawyer
+		trait = police_captain
+	}
+}
+police_captain = {
+	random = no
+	
+	martial = 3
+	diplomacy = 2
+	opposites = {
+		trait = businessman
+		trait = lawyer
+		trait = police_officer
+	}
 }
