@@ -6,7 +6,6 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
-
 	spriteType = {
 		name = "GFX_trait_rat"
 		texturefile = "gfx/traits/rat.dds"
