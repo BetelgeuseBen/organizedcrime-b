@@ -359,7 +359,6 @@ plot_kill_character = {
 			NOT = { their_opinion = { who = FROM value = -75 } }
 		}
 		modifier = {
-			# Subtle balance against nepotism: Kill off members of powerful dynasties
 			factor = 2.0
 			top_liege = {
 				higher_tier_than = COUNT
@@ -368,7 +367,6 @@ plot_kill_character = {
 			}
 		}
 		modifier = {
-			# Subtle balance against nepotism: Kill off members of powerful dynasties
 			factor = 2.0
 			top_liege = {
 				higher_tier_than = COUNT
@@ -377,7 +375,6 @@ plot_kill_character = {
 			}
 		}
 		modifier = {
-			# Subtle balance against nepotism: Kill off members of powerful dynasties
 			factor = 2.0
 			top_liege = {
 				higher_tier_than = COUNT
@@ -413,7 +410,7 @@ plot_kill_character = {
 		}
 		modifier = {
 			factor = 2.0
-			any_owned_bloodline = { #Backstabbing family.
+			any_owned_bloodline = {
 				has_bloodline_flag = bloodline_murderous 
 			}
 		}
@@ -438,8 +435,103 @@ plot_kill_character = {
 			hidden_tooltip = {
 				clr_character_flag = murder_in_motion
 				set_character_flag = fsakljkeojd
-#				change_variable = { which = murder_count value = 1 }
 			}
 		}
 	}
 }
+
+plot_frame_character = {
+	type = realm_characters_plus
+	intrigue_plot = yes
+	murder_plot = yes
+	
+	potential = {
+		#ai = no		# temporary
+		religion_group = illegal_group
+		prisoner = no
+		age = 16
+		NOT = { trait = incapable }
+		NOT = {
+			AND = {
+				ai = yes
+				trait = honest
+			}
+		}
+		NOT = {
+			AND = {
+				ai = yes
+				trait = kind
+			}
+		}
+		NOT = {
+			AND = {
+				ai = yes
+				trait = just
+			}
+		}
+	}
+	target_potential = {
+		prisoner = no
+		age = 16
+		NOT = {
+			any_spouse = { character = FROM } 
+			trait = murder_suspect # already suspect
+		}
+	}
+	allow = {
+		#FROM = {
+	}
+	allow_join = {
+		ROOT = {
+			religion_group = illegal_group
+			NOT = { is_child_of = FROM } # Not my own children
+		}
+	}
+	chance = {
+		factor = 2
+
+		modifier = {
+			factor = 2.0
+			FROM = {
+				trait = envious
+				OR = {
+					any_pretender_title = {
+						current_heir = { character = ROOT }
+					}
+					any_heir_title = {
+						holder = ROOT
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 0.01
+			FROM = {
+				trait = content
+				NOT = { trait = lunatic } 
+				NOT = { trait = possessed }
+			}
+		}
+
+	}
+
+	success = {
+		trait = murder_suspect
+		hidden_tooltip = {
+			FROM = { has_character_flag = framing_in_motion }
+		}
+	}
+	abort = {
+		OR = {
+			is_alive = no
+			prisoner = yes
+			trait = murder_suspect
+		}
+	}
+	abort_effect = {
+		FROM = { clr_character_flag = framing_in_motion }
+	}
+	effect = {
+		FROM = { clr_character_flag = framing_in_motion }
+	}
+}	

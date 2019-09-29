@@ -12,7 +12,6 @@ castle = {
 
        tax_income = -2
        monthly_character_prestige = 0.1
-       garrison_size = 5
    }
    # legal_restaurant_main_2
    legal_restaurant_main_2 = {
@@ -28,7 +27,6 @@ castle = {
 
        tax_income = -2
        monthly_character_prestige = 0.1
-       garrison_size = 5
    }
    # legal_restaurant_main_3
    legal_restaurant_main_3 = {
@@ -44,7 +42,6 @@ castle = {
 
        tax_income = -2
        monthly_character_prestige = 0.1
-       garrison_size = 5
    }
    # legal_restaurant_main_4
    legal_restaurant_main_4 = {
@@ -60,7 +57,6 @@ castle = {
 
        tax_income = -2
        monthly_character_prestige = 0.1
-       garrison_size = 5
    }
    # legal_restaurant_main_5
    legal_restaurant_main_5 = {
@@ -76,7 +72,6 @@ castle = {
 
        tax_income = -2
        monthly_character_prestige = 0.1
-       garrison_size = 5
    }
    # legal_restaurant_main_6
    legal_restaurant_main_6 = {
@@ -92,7 +87,6 @@ castle = {
 
        tax_income = -2
        monthly_character_prestige = 0.1
-       garrison_size = 5
    }
    # legal_restaurant_dining_1
    legal_restaurant_dining_1 = {
@@ -108,7 +102,6 @@ castle = {
        prerequisites = { legal_restaurant_main_1 }
 
        tax_income = 4
-       garrison_size = 5
    }
    # legal_restaurant_dining_2
    legal_restaurant_dining_2 = {
@@ -125,7 +118,6 @@ castle = {
        prerequisites = { legal_restaurant_main_2 }
 
        tax_income = 4
-       garrison_size = 5
    }
    # legal_restaurant_dining_3
    legal_restaurant_dining_3 = {
@@ -142,7 +134,6 @@ castle = {
        prerequisites = { legal_restaurant_main_3 }
 
        tax_income = 4
-       garrison_size = 5
    }
    # legal_restaurant_dining_4
    legal_restaurant_dining_4 = {
@@ -159,7 +150,6 @@ castle = {
        prerequisites = { legal_restaurant_main_4 }
 
        tax_income = 4
-       garrison_size = 5
    }
    # legal_restaurant_dining_5
    legal_restaurant_dining_5 = {
@@ -176,7 +166,6 @@ castle = {
        prerequisites = { legal_restaurant_main_5 }
 
        tax_income = 4
-       garrison_size = 5
    }
    # legal_restaurant_dining_6
    legal_restaurant_dining_6 = {
@@ -193,7 +182,6 @@ castle = {
        prerequisites = { legal_restaurant_main_6 }
 
        tax_income = 4
-       garrison_size = 5
    }
    # legal_restaurant_wine_cellar_1
    legal_restaurant_wine_cellar_1 = {
@@ -210,7 +198,6 @@ castle = {
 
        tax_income = 2
        monthly_character_prestige = 0.2
-       garrison_size = 5
    }
    # legal_restaurant_wine_cellar_2
    legal_restaurant_wine_cellar_2 = {
@@ -228,7 +215,6 @@ castle = {
 
        tax_income = 2
        monthly_character_prestige = 0.2
-       garrison_size = 5
    }
    # legal_restaurant_wine_cellar_3
    legal_restaurant_wine_cellar_3 = {
@@ -246,7 +232,6 @@ castle = {
 
        tax_income = 2
        monthly_character_prestige = 0.2
-       garrison_size = 5
    }
    # legal_restaurant_food_1
    legal_restaurant_food_1 = {
@@ -262,7 +247,6 @@ castle = {
        prerequisites = { legal_restaurant_main_1 }
 
        tax_income = 2
-       garrison_size = 5
    }
    # legal_restaurant_food_2
    legal_restaurant_food_2 = {
@@ -279,7 +263,6 @@ castle = {
        prerequisites = { legal_restaurant_main_3 }
 
        tax_income = 2
-       garrison_size = 5
    }
    # legal_restaurant_food_3
    legal_restaurant_food_3 = {
@@ -296,6 +279,5 @@ castle = {
        prerequisites = { legal_restaurant_main_6 }
 
        tax_income = 2
-       garrison_size = 5
    }
 }

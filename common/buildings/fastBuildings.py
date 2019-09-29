@@ -2,7 +2,7 @@
 
     
 class Building:
-    def __init__(self, name, gold_cost, build_time, tax_income, prestige_income, hide_if_not, upgrades_from, prerequisites, fertility=0, garrison=5):
+    def __init__(self, name, gold_cost, build_time, tax_income, prestige_income, hide_if_not, upgrades_from, prerequisites, fertility=0):
         self.str = "" \
         + "\n   # " + str(name) \
         + "\n   " + str(name) + " = {" \
@@ -29,8 +29,6 @@ class Building:
         + "\n       monthly_character_prestige = " + str(prestige_income) if (prestige_income != 0) else ""
         self.str += "" \
         + "\n       fertility = " + str(fertility) if (fertility != 0) else ""
-        self.str += "" \
-        + "\n       garrison_size = " + str(garrison) if (garrison != 0) else ""
         self.str += "" \
         + "\n   }"
 
