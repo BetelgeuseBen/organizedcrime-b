@@ -50,3 +50,14 @@ baron_criminal;Soldier;;;;;;;;;;;;;x
 city_count;Caporegime;;;;;;;;;;;;;x
 tribal_count;Caporegime;;;;;;;;;;;;;x
 PETTY; ;;;;;;;;;;;;x
+
+DECADENCE_MOD;Infamy;;;;;;;;;;;;;x
+CURRENT_DECADENCE;Current;Actuel;Aktuell;;Actual;;;;;;;;;x
+EFFECTS;Effects;Effets;Effekte;;Efectos;;;;;;;;;x
+DEMESNE_INCOME;Demesne Income;Revenus du domaine;Grundbesitzeinkommen;;Ingresos del dominio;;;;;;;;;x
+DYNASTIC_DECADENCE;§YDynastic Decadence§!;§YDécadence dynastique§!;§YDynastische Dekadenz§!\n;;§YDecadencia dinástica§!\n;;;;;;;;;x
+HAS_LOWER_DECADENCE_THAN;Has a lower Infamy than ;A une décadence inférieure à ;Hat eine niedrigere Dekadenz als ;;Tiene una decadencia menor de;;;;;;;;;x
+HAS_HIGHER_DECADENCE_THAN;Has a Infamy of at least ;A une décadence d'au moins ;Hat eine Dekadenz von mindestens ;;Tiene una decadencia de al menos;;;;;;;;;x
+DECADENCE_EFFECT;$DIRECTION$ $VALUE$ Infamy.\n;Décadence $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ Dekadenz.\n;;$DIRECTION$ $VALUE$ de decadencia.\n;;;;;;;;;x
+DECADENCE_TITLE;Dynastic infamy;Décadence dynastique;Dynastische Dekadenz;;Decadencia dinástica;;;;;;;;;x
+
