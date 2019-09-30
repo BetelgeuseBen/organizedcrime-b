@@ -12,7 +12,7 @@ mustache_peppe = {
 	random = no
 	
 	illegal_group_opinion = 100
-	{
+	}
 businessman = {
 	random = no
 	
