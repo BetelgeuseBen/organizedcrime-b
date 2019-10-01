@@ -43,6 +43,8 @@
   
     religion=upright
     culture=sicilian
+
+	add_trait="immigrant"
   
     1839.11.07 = { birth=yes }
     1872.05.26 = { death=yes }
