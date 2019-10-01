@@ -73,5 +73,14 @@ bm_family_tree_test = {
 #	custom_start = yes
 #	picture = GFX_pick_era_image_3
 #	
-#	era = yes
+#	era = no
+#}
+#bm_after_the_end = {
+#	name = "BM_AFTER_THE_END"
+#	desc = "BM_AFTER_THE_END"
+#	date = 2666.6.4
+#	custom_start = yes
+#	picture = GFX_pick_era_image_3
+#	
+#	era = no
 #}
