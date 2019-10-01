@@ -71,3 +71,9 @@ decadent = {
 	customizer = no
 	random = no
 }
+#represents everyone who isn´t born in the US
+immigrant = {
+	random = no
+	
+	same_opinion = 10
+}

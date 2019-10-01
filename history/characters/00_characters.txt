@@ -6,6 +6,7 @@
     culture=sicilian
   
 	add_trait="mustache_peppe"
+	add_trait="immigrant"
 
     1867.05.02 = { birth=yes }
     1889.01.01 = { add_spouse=12 }
@@ -23,6 +24,8 @@
 	female = yes
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1848.05.11 = { birth=yes }
     1848.05.11 = { create_bloodline = { type = mother_of_the_morello-teranova_family } }
@@ -50,6 +53,7 @@
     dynasty=12
   
 	add_trait="mustache_peppe"
+	add_trait="immigrant"
 
     religion=criminal
     culture=sicilian
@@ -222,6 +226,8 @@
   
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1877.03.21 = { birth=yes }
     1903.12.23 = { add_spouse=10 }
@@ -789,6 +795,7 @@
     dynasty=31  
 	
     add_trait="mustache_peppe"
+	add_trait="immigrant"
 
     religion=criminal
     culture=sicilian
@@ -802,6 +809,7 @@
     dynasty=32  
 	
     add_trait="mustache_peppe"
+	add_trait="immigrant"
 
     religion=criminal
     culture=sicilian
