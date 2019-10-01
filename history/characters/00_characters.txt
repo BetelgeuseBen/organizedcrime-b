@@ -25,7 +25,7 @@
     culture=sicilian
   
     1848.05.11 = { birth=yes }
-    1850.01.01 = { create_bloodline = { type = mother_of_the_morello-teranova_family } }
+    1848.05.11 = { create_bloodline = { type = mother_of_the_morello-teranova_family } }
     1860.01.01 = { add_spouse=3 }
     1873.01.01 = { add_spouse=4 }
     1941.06.20 = { death=yes }
@@ -771,6 +771,7 @@
     1872.01.01 = { birth=yes }
     1957.01.01 = { death=yes }
 }
+
 56 = {
     name=Grindor
   	
@@ -781,6 +782,32 @@
 
     1800.01.01 = { birth=yes effect={dynasty=none} }
     2100.01.01 = { death=yes }
+}
+
+57 = {
+    name=Pellegrino
+    dynasty=31  
+	
+    add_trait="mustache_peppe"
+
+    religion=criminal
+    culture=sicilian
+
+    1877.01.01 = { birth=yes }
+    1920.01.01 = { death=yes }
+}
+
+58 = {
+    name=Salvatore
+    dynasty=32  
+	
+    add_trait="mustache_peppe"
+
+    religion=criminal
+    culture=sicilian
+
+    1878.10.10 = { birth=yes }
+    1928.10.28 = { death=yes }
 }
 
 #Irish Mobsters
