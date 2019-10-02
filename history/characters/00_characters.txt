@@ -73,6 +73,8 @@
   
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1874.01.01 = { birth=yes }
     1876.01.01 = { death=yes }
@@ -87,6 +89,8 @@
   
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1886.05.01 = { birth=yes }
     1922.05.08 = { death=yes }
@@ -101,6 +105,8 @@
   
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1888.07.20 = { birth=yes }
     1909.04.25 = { add_spouse=15}
@@ -116,6 +122,8 @@
   
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1890.01.06 = { birth=yes }
     1916.09.07 = { death=yes }
@@ -131,6 +139,8 @@
 	female = yes
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1876.01.18 = { birth=yes }
     1946.01.01 = { death=yes }
@@ -146,6 +156,8 @@
 	female = yes
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1880.07.30 = { birth=yes }
     1946.01.01 = { death=yes }
@@ -161,6 +173,8 @@
 	female = yes
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1892.08.19 = { birth=yes }
     1915.10.14 = { death=yes }
@@ -176,6 +190,8 @@
 	female = yes
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1867.01.01 = { birth=yes }
     1898.01.01 = { death=yes }
@@ -189,6 +205,8 @@
 	female = yes
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1891.01.01 = { birth=yes }
     1892.01.01 = { death=yes }
@@ -203,6 +221,8 @@
   
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1892.11.01 = { birth=yes }
     1912.01.01 = { death=yes }
@@ -217,6 +237,8 @@
 	female = yes
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1891.04.25 = { birth=yes effect={dynasty=none} }
     1978.03.01 = { death=yes }
@@ -242,6 +264,8 @@
   
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1829.01.01 = { birth=yes }
     1845.01.01 = { add_spouse=18 }
@@ -255,6 +279,8 @@
       female = yes  
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1829.01.01 = { birth=yes }
     1900.01.01 = { death=yes }
@@ -267,6 +293,8 @@
     religion=criminal
     culture=sicilian
   
+	add_trait="immigrant"
+
     1829.01.01 = { birth=yes }
     1845.01.01 = { add_spouse=20 }
     1900.01.01 = { death=yes }
@@ -276,6 +304,8 @@
     name=Salvatrice
     dynasty=22
   
+	add_trait="immigrant"
+
      female = yes
     religion=criminal
     culture=sicilian
@@ -287,6 +317,8 @@
 21 = {
     name=Bernarda
     dynasty=23
+
+	add_trait="immigrant"
   
       female = yes
     religion=criminal
@@ -299,6 +331,8 @@
 22 = {
     name=Nicolina
     dynasty=20
+
+	add_trait="immigrant"
   
       female = yes
     religion=criminal
@@ -326,6 +360,8 @@
 24 = {
     name=Vincenzo
     dynasty=20
+
+	add_trait="immigrant"
   
     religion=criminal
     culture=sicilian
@@ -340,9 +376,10 @@
 25 = {
     name=Maria
     dynasty=8
+
+	add_trait="immigrant"
   
 	female = yes
-
     religion=criminal
     culture=sicilian
   
@@ -390,6 +427,8 @@
 
     religion=upright
     culture=sicilian
+
+	add_trait="immigrant"
   
     1870.03.20 = { birth=yes }
     1898.01.01 = { add_spouse=25}
@@ -403,6 +442,8 @@
     name=Robbie
     dynasty=25
 
+	add_trait="immigrant"
+
     religion=upright
     culture=irish
   
@@ -415,6 +456,8 @@
 30 = {
     name=Margaret
     dynasty=24
+
+	add_trait="immigrant"
 	
 	female = yes
     religion=upright
@@ -431,6 +474,8 @@
     name=Vincent
     dynasty=24
 
+	add_trait="immigrant"
+
     religion=upright
     culture=sicilian
   
@@ -444,6 +489,7 @@
 32 = {
     name=Angela
     dynasty=24
+
 
 	female = yes
     religion=upright
@@ -608,6 +654,8 @@
   
     religion=criminal
     culture=sicilian
+
+	add_trait="immigrant"
   
     1886.01.17 = { birth=yes }
     1931.04.15 = { death=yes }
@@ -732,7 +780,8 @@
   	
     religion=criminal
     culture=sicilian
-  
+
+	add_trait="immigrant"  
 	add_trait="mustache_peppe"
 
     1870.01.01 = { birth=yes }
@@ -744,6 +793,8 @@
 53 = {
     name=Belky
     dynasty=29
+
+	add_trait="immigrant"
   	
     religion=criminal
     culture=sicilian
@@ -758,7 +809,8 @@
   	
     religion=criminal
     culture=sicilian
-  
+
+	add_trait="immigrant"  
 	add_trait="mustache_peppe"
 
     1878.01.01 = { birth=yes }
@@ -773,7 +825,8 @@
   	
     religion=criminal
     culture=sicilian
-  
+
+	add_trait="immigrant"  
 	add_trait="mustache_peppe"
 
     1872.01.01 = { birth=yes }
@@ -797,7 +850,7 @@
     dynasty=31  
 	
     add_trait="mustache_peppe"
-	add_trait="immigrant"
+    add_trait="immigrant"
 
     religion=criminal
     culture=sicilian
