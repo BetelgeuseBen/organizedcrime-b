@@ -15,9 +15,7 @@
 1916.1.1={
 	holder=6
 }
-1920.1.1={
-	holder=1
-}
-1922.1.1={
-	holder=43
+1919.1.1={
+	holder=59
+	liege=d_east_harlem
 }

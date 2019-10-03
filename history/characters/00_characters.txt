@@ -873,6 +873,20 @@
     1928.10.28 = { death=yes }
 }
 
+59 = {
+    name=Gaetano
+    dynasty=33  
+	
+    add_trait="mustache_peppe"
+    add_trait="immigrant"
+
+    religion=criminal
+    culture=sicilian
+
+    1889.01.01 = { birth=yes }
+    1930.02.26 = { death=yes }
+}
+
 #Irish Mobsters
 1000 = {
     name=Owney
