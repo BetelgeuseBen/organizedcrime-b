@@ -100,196 +100,7 @@ italian = {
 	unknown_italian = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.80 0.50 0.40 }
-	}
-	sicilian = {
-		graphical_cultures = { italiangfx southerngfx }
-		
-		color = { 0.90 0.50 0.15 }
-		
-		dynasty_title_names = yes
-		dukes_called_kings = yes
-		
-		male_names = {
-			Achille Adamo Adelmo Adriano Agnolo Agostino Alberico Alberto Alderano Aldo Alessandro Alfio Alfredo Alphons Amadeo 
-			Amedeo Amico Amleto Angelo Annibale Antonio Armando Arnaldo Arsenio Arturo Augusto Azeglio Baccio Baldassare Bartolomeo 
-			Benedetto Benito Benvenuto Beppe Bernardo Bruno Calcedonio Calogero Camillo Carlo Carmelo Carmine Cesare Cipriano Cirillo 
-			Ciro Claudio Coluccio Constantino Coriolano Corrado Cosimo Costantino Costanzo Danilo Damiano Daniele Dante Dario Davide 
-			Delfino Dino Dionigi Domenico Donatello Donato Durante Edoardo Elladio Elmo Emilio Ennio Enrico Enzio Enzo Eraldo Ermanno 
-			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
-			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
-			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
-			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
-			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
-			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
-			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
-			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
-			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
-			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
-			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
-			Saverio Sebastiano Sergius Severino Silvestro Silvio Simone Stefano Tazio Telemaco Temistocle Tiziano Toni Tonino Torquato Tullio 
-			Ubaldo Uberto Ugo Ugolino Umberto Valerio Venancio Vincentio Vincenzo Virgilio Vito Vittorio Zanobi
-		}
-		
-		female_names = {
-			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
-			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
-			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
-			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
-			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
-			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
-			Imelda Iolanda Iris Irma Isa Isabella Jolanda Julia Lara Laura Lauretta Letizia Liana Licia Lidia Liliana 
-			Lilla Lina Lisa Livia Lolita Loredana Loretta Lucia Luciana Lucrezia Ludovica Luigina Luisa Marcella Margherita 
-			Maria Mariana Mariella Marina Marisa Marissa Marta Martina Matilda Maura Melania Melina Melissa Mercedes Michela 
-			Milena Monica Morena Nadia Natalia Nicoletta Nina Olga Ornella Paloma Paola Paoletta Patrizia Paulina Piera Pina 
-			Priscilla Rachel Raffaella Ramona Renata Rita Roberta Romana Romina Rosa Rosalia Rosaria Rosina Rossana Sandra 
-			Serafina Serena Silvia Sonia Sophia Stefani Stefania Stella Susanna Sylvia Tatiana Teresa Tina Tiziana Tonia Tosca 
-			Valentina Valeria Vanessa Vanna Veronica Victoria Virginia Viridiana Vittoria Xenia Zaira Zita
-		}
-	}
-	campanian = {
-		graphical_cultures = { italiangfx southerngfx }
-		
-		color = { 0.85 0.60 0.10 }
-		
-		dynasty_title_names = yes
-		dukes_called_kings = yes
-		
-		male_names = {
-			Achille Adamo Adelmo Adriano Agnolo Agostino Alberico Alberto Alderano Aldo Alessandro Alfio Alfredo Alphons Amadeo 
-			Amedeo Amico Amleto Angelo Annibale Antonio Armando Arnaldo Arsenio Arturo Augusto Azeglio Baccio Baldassare Bartolomeo 
-			Benedetto Benito Benvenuto Beppe Bernardo Bruno Calcedonio Calogero Camillo Carlo Carmelo Carmine Cesare Cipriano Cirillo 
-			Ciro Claudio Coluccio Constantino Coriolano Corrado Cosimo Costantino Costanzo Danilo Damiano Daniele Dante Dario Davide 
-			Delfino Dino Dionigi Domenico Donatello Donato Durante Edoardo Elladio Elmo Emilio Ennio Enrico Enzio Enzo Eraldo Ermanno 
-			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
-			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
-			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
-			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
-			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
-			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
-			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
-			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
-			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
-			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
-			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
-			Saverio Sebastiano Sergius Severino Silvestro Silvio Simone Stefano Tazio Telemaco Temistocle Tiziano Toni Tonino Torquato Tullio 
-			Ubaldo Uberto Ugo Ugolino Umberto Valerio Venancio Vincentio Vincenzo Virgilio Vito Vittorio Zanobi
-		}
-		
-		female_names = {
-			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
-			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
-			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
-			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
-			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
-			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
-			Imelda Iolanda Iris Irma Isa Isabella Jolanda Julia Lara Laura Lauretta Letizia Liana Licia Lidia Liliana 
-			Lilla Lina Lisa Livia Lolita Loredana Loretta Lucia Luciana Lucrezia Ludovica Luigina Luisa Marcella Margherita 
-			Maria Mariana Mariella Marina Marisa Marissa Marta Martina Matilda Maura Melania Melina Melissa Mercedes Michela 
-			Milena Monica Morena Nadia Natalia Nicoletta Nina Olga Ornella Paloma Paola Paoletta Patrizia Paulina Piera Pina 
-			Priscilla Rachel Raffaella Ramona Renata Rita Roberta Romana Romina Rosa Rosalia Rosaria Rosina Rossana Sandra 
-			Serafina Serena Silvia Sonia Sophia Stefani Stefania Stella Susanna Sylvia Tatiana Teresa Tina Tiziana Tonia Tosca 
-			Valentina Valeria Vanessa Vanna Veronica Victoria Virginia Viridiana Vittoria Xenia Zaira Zita
-		}
-	}
-	calabrian = {
-		graphical_cultures = { italiangfx southerngfx }
-		
-		color = { 0.70 0.25 0.10 }
-		
-		dynasty_title_names = yes
-		dukes_called_kings = yes
-		
-		male_names = {
-			Achille Adamo Adelmo Adriano Agnolo Agostino Alberico Alberto Alderano Aldo Alessandro Alfio Alfredo Alphons Amadeo 
-			Amedeo Amico Amleto Angelo Annibale Antonio Armando Arnaldo Arsenio Arturo Augusto Azeglio Baccio Baldassare Bartolomeo 
-			Benedetto Benito Benvenuto Beppe Bernardo Bruno Calcedonio Calogero Camillo Carlo Carmelo Carmine Cesare Cipriano Cirillo 
-			Ciro Claudio Coluccio Constantino Coriolano Corrado Cosimo Costantino Costanzo Danilo Damiano Daniele Dante Dario Davide 
-			Delfino Dino Dionigi Domenico Donatello Donato Durante Edoardo Elladio Elmo Emilio Ennio Enrico Enzio Enzo Eraldo Ermanno 
-			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
-			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
-			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
-			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
-			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
-			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
-			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
-			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
-			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
-			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
-			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
-			Saverio Sebastiano Sergius Severino Silvestro Silvio Simone Stefano Tazio Telemaco Temistocle Tiziano Toni Tonino Torquato Tullio 
-			Ubaldo Uberto Ugo Ugolino Umberto Valerio Venancio Vincentio Vincenzo Virgilio Vito Vittorio Zanobi
-		}
-		
-		female_names = {
-			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
-			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
-			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
-			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
-			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
-			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
-			Imelda Iolanda Iris Irma Isa Isabella Jolanda Julia Lara Laura Lauretta Letizia Liana Licia Lidia Liliana 
-			Lilla Lina Lisa Livia Lolita Loredana Loretta Lucia Luciana Lucrezia Ludovica Luigina Luisa Marcella Margherita 
-			Maria Mariana Mariella Marina Marisa Marissa Marta Martina Matilda Maura Melania Melina Melissa Mercedes Michela 
-			Milena Monica Morena Nadia Natalia Nicoletta Nina Olga Ornella Paloma Paola Paoletta Patrizia Paulina Piera Pina 
-			Priscilla Rachel Raffaella Ramona Renata Rita Roberta Romana Romina Rosa Rosalia Rosaria Rosina Rossana Sandra 
-			Serafina Serena Silvia Sonia Sophia Stefani Stefania Stella Susanna Sylvia Tatiana Teresa Tina Tiziana Tonia Tosca 
-			Valentina Valeria Vanessa Vanna Veronica Victoria Virginia Viridiana Vittoria Xenia Zaira Zita
-		}
-	}
-	apulian = {
-		graphical_cultures = { italiangfx southerngfx }
-		
-		color = { 0.80 0.20 0.05 }
-		
-		dynasty_title_names = yes
-		dukes_called_kings = yes
-		
-		male_names = {
-			Achille Adamo Adelmo Adriano Agnolo Agostino Alberico Alberto Alderano Aldo Alessandro Alfio Alfredo Alphons Amadeo 
-			Amedeo Amico Amleto Angelo Annibale Antonio Armando Arnaldo Arsenio Arturo Augusto Azeglio Baccio Baldassare Bartolomeo 
-			Benedetto Benito Benvenuto Beppe Bernardo Bruno Calcedonio Calogero Camillo Carlo Carmelo Carmine Cesare Cipriano Cirillo 
-			Ciro Claudio Coluccio Constantino Coriolano Corrado Cosimo Costantino Costanzo Danilo Damiano Daniele Dante Dario Davide 
-			Delfino Dino Dionigi Domenico Donatello Donato Durante Edoardo Elladio Elmo Emilio Ennio Enrico Enzio Enzo Eraldo Ermanno 
-			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
-			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
-			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
-			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
-			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
-			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
-			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
-			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
-			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
-			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
-			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
-			Saverio Sebastiano Sergius Severino Silvestro Silvio Simone Stefano Tazio Telemaco Temistocle Tiziano Toni Tonino Torquato Tullio 
-			Ubaldo Uberto Ugo Ugolino Umberto Valerio Venancio Vincentio Vincenzo Virgilio Vito Vittorio Zanobi
-		}
-		
-		female_names = {
-			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
-			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
-			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
-			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
-			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
-			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
-			Imelda Iolanda Iris Irma Isa Isabella Jolanda Julia Lara Laura Lauretta Letizia Liana Licia Lidia Liliana 
-			Lilla Lina Lisa Livia Lolita Loredana Loretta Lucia Luciana Lucrezia Ludovica Luigina Luisa Marcella Margherita 
-			Maria Mariana Mariella Marina Marisa Marissa Marta Martina Matilda Maura Melania Melina Melissa Mercedes Michela 
-			Milena Monica Morena Nadia Natalia Nicoletta Nina Olga Ornella Paloma Paola Paoletta Patrizia Paulina Piera Pina 
-			Priscilla Rachel Raffaella Ramona Renata Rita Roberta Romana Romina Rosa Rosalia Rosaria Rosina Rossana Sandra 
-			Serafina Serena Silvia Sonia Sophia Stefani Stefania Stella Susanna Sylvia Tatiana Teresa Tina Tiziana Tonia Tosca 
-			Valentina Valeria Vanessa Vanna Veronica Victoria Virginia Viridiana Vittoria Xenia Zaira Zita
-		}
-	}
-	polentonese = {
-		graphical_cultures = { italiangfx southerngfx }
-		
-		color = { 0.60 0.30 0.20 }
-		
-		dynasty_title_names = yes
-		dukes_called_kings = yes
-		
-		male_names = {
+	male_names = {
 			Achille Adamo Adelmo Adriano Agnolo Agostino Alberico Alberto Alderano Aldo Alessandro Alfio Alfredo Alphons Amadeo 
 			Amedeo Amico Amleto Angelo Annibale Antonio Armando Arnaldo Arsenio Arturo Augusto Azeglio Baccio Baldassare Bartolomeo 
 			Benedetto Benito Benvenuto Beppe Bernardo Bruno Calcedonio Calogero Camillo Carlo Carmelo Carmine Cesare Cipriano Cirillo 
@@ -358,6 +169,13 @@ chinese = {
 	chinese = {
 		color = { 211 44 44 }
 		graphical_cultures = { chinesegfx }
+		male_names = {
+		Li
+			}
+		
+		female_names = {
+		Li
+			}
 	}
 }
 

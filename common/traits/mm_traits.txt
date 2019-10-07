@@ -77,3 +77,8 @@ immigrant = {
 	
 	same_opinion = 10
 }
+#create maintance event to remove it from non-italiens
+sicilian = {
+	random = no
+	same_opinion = 10
+}

@@ -56,4 +56,11 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
+	spriteType = {
+		name = "GFX_trait_sicilian"
+		texturefile = "gfx/traits/sicilian.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
 }
