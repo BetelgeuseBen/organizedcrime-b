@@ -1,7 +1,7 @@
 # Only for Test Characters and Placeholders
 
 23 = {
-    name=Kaiser #Me!
+    name=Kaiser #Police Captain Kaiser the German; Researcher
     dynasty=20
   
     religion=criminal
@@ -14,7 +14,7 @@
 }
 
 29 = {
-    name=Robbie
+    name=Robbie #Robbie Green-Hill; Researcher
     dynasty=25
 
 	add_trait="immigrant"
@@ -28,7 +28,7 @@
 }
 
 56 = {
-    name=Grindor
+    name=Grindor #Grindor; Developer
   	
     religion=criminal
     culture=central_park

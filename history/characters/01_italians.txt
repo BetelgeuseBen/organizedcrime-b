@@ -3,7 +3,7 @@
 ##################
 
 1 = {
-    name=Giuseppe
+    name=Giuseppe #Giusepe 'the Clutch Hand' Morello
     dynasty=8
   
     religion=criminal
@@ -58,7 +58,7 @@
 }
 
 4 = {
-    name=Bernardo
+    name=Bernardo # Bernardo Terranova
     dynasty=12
   
 	add_trait="mustache_peppe"
@@ -79,7 +79,7 @@
     name=Vincenzo
     dynasty=12
   
-    religion=criminal
+    religion=upright
     culture=unknown_italian
 
 	add_trait="immigrant"
@@ -93,7 +93,7 @@
 }
 
 6 = {
-    name=Vincenzo
+    name=Vincenzo #Boss; Morello CF
     dynasty=12
   
     religion=criminal
@@ -110,7 +110,7 @@
 }
 
 7 = {
-    name=Ciro
+    name=Ciro #Boss; Morello CF
     dynasty=12
   
     religion=criminal
