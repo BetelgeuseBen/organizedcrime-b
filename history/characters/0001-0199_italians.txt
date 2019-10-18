@@ -16,7 +16,7 @@
     1867.05.02 = { birth=yes }
     1889.01.01 = { add_spouse=12 }
     1903.12.01 = { add_spouse=22 }
-    1930.08.15 = { death=yes }
+    1930.08.15 = { death=yes } #Killed by Salvatore Maranzano
 	
 	mother = 2
 	father = 3
@@ -27,7 +27,7 @@
 	dynasty=18
   
 	female = yes
-    religion=criminal
+    religion=upright
     culture=unknown_italian
 
 	add_trait="immigrant"
@@ -93,7 +93,7 @@
 }
 
 6 = {
-    name=Vincenzo #Boss; Morello CF
+    name=Vincenzo #Boss; Morello CF; Became 1920 Underboss
     dynasty=12
   
     religion=criminal
@@ -103,14 +103,14 @@
 	add_trait="sicilian"
   
     1886.05.01 = { birth=yes }
-    1922.05.08 = { death=yes }
+    1922.05.08 = { death=yes } #Killed
 	
 	mother = 2
 	father = 4
 }
 
 7 = {
-    name=Ciro #Boss; Morello CF
+    name=Ciro #Morello CF
     dynasty=12
   
     religion=criminal
@@ -128,7 +128,7 @@
 }
 
 8 = {
-    name=Nicolo
+    name=Nicholas #Boss; Nicholas 'Nick Morello' Terranova; became Underboss 1930 
     dynasty=12
   
     religion=criminal
@@ -138,7 +138,7 @@
 	add_trait="sicilian"
   
     1890.01.06 = { birth=yes }
-    1916.09.07 = { death=yes }
+    1916.09.07 = { death=yes } #Killed
 	
 	mother = 2
 	father = 4
@@ -264,7 +264,7 @@
 }
 
 16 = {
-    name=Ignazio
+    name=Ignazio #Ignazio 'the Wolf' Lupo
     dynasty=17
   
     religion=criminal
@@ -887,7 +887,7 @@
 }
 
 55 = {
-    name=Nicola
+    name=Nicola #Nicola 'Cola' Schiro; Boss; Bonanno-Family
     dynasty=30
   	
     religion=criminal
@@ -914,11 +914,11 @@
 #}
 
 57 = {
-    name=Pellegrino
+    name=Pellegrino #Pellegrino 'Don Grino' Morano; Boss; Gambino-Family
     dynasty=31  
 	
-    add_trait="mustache_peppe"
-    add_trait="immigrant"
+    	add_trait="mustache_peppe"
+   	add_trait="immigrant"
 	add_trait="sicilian"
 
     religion=criminal
@@ -929,10 +929,10 @@
 }
 
 58 = {
-    name=Salvatore
+    name=Salvatore #Salvatore 'Toto D'Aquila' d'Aquila; Boss; Gambino-Family
     dynasty=32  
 	
-    add_trait="mustache_peppe"
+    	add_trait="mustache_peppe"
 	add_trait="immigrant"
 	add_trait="sicilian"
 
@@ -940,20 +940,21 @@
     culture=unknown_italian
 
     1878.10.10 = { birth=yes }
-    1928.10.28 = { death=yes }
+    1928.10.28 = { death=yes } #Shoot by Joe Masseria
 }
 
 59 = {
-    name=Gaetano
+    name=Gaetano #Gaetano 'Tommy' Reina; Boss; Lucchese-Family
     dynasty=33  
 	
-    add_trait="mustache_peppe"
-    add_trait="immigrant"
+   	add_trait="mustache_peppe"
+    	add_trait="immigrant"
 	add_trait="sicilian"
 
     religion=criminal
     culture=unknown_italian
 
     1889.01.01 = { birth=yes }
-    1930.02.26 = { death=yes }
+    1930.02.26 = { death=yes } #Shoot by Vito Genovese
 }
+
