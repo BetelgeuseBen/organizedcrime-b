@@ -719,7 +719,7 @@
     name=Onofria
     dynasty=17
   	
-	femal = yes
+	female = yes
     religion=upright
     culture=unknown_italian
 
@@ -764,7 +764,7 @@
     name=Angelina
     dynasty=17
   	
-	femal = yes
+	female = yes
     religion=upright
     culture=unknown_italian
 
