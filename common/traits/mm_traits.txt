@@ -19,9 +19,9 @@ businessman = {
 	stewardship = 2
 	diplomacy = 1
 	opposites = {
-		trait = lawyer
-		trait = police_officer
-		trait = police_captain
+		lawyer
+		police_officer
+		police_captain
 	}
 }
 lawyer = {
@@ -30,9 +30,9 @@ lawyer = {
 	diplomacy = 3
 	learning = 1
 	opposites = {
-		trait = businessman
-		trait = police_officer
-		trait = police_captain
+		businessman
+		police_officer
+		police_captain
 	}
 }
 police_officer = {
@@ -46,9 +46,9 @@ police_officer = {
 	martial = 2
 	diplomacy = 1
 	opposites = {
-		trait = businessman
-		trait = lawyer
-		trait = police_captain
+		businessman
+		lawyer
+		police_captain
 	}
 }
 police_captain = {
@@ -57,9 +57,9 @@ police_captain = {
 	martial = 3
 	diplomacy = 2
 	opposites = {
-		trait = businessman
-		trait = lawyer
-		trait = police_officer
+		businessman
+		lawyer
+		police_officer
 	}
 }
 # Controls Illegal dynasty infamy gain
