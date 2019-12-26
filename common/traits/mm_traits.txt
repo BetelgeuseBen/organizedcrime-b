@@ -7,12 +7,22 @@ rat = {
 	illegal_group_opinion = -100
 }
 
-
+made_man = {
+	random = no
+	same_opinion = 10
+	intrigue = 1
+	opposites = {
+		rat
+		lawyer
+		police_officer
+		police_captain
+	}
+}
 mustache_peppe = {
 	random = no
 	
 	illegal_group_opinion = 100
-	}
+}
 businessman = {
 	random = no
 	
@@ -22,6 +32,7 @@ businessman = {
 		lawyer
 		police_officer
 		police_captain
+		made_man
 	}
 }
 lawyer = {
@@ -33,6 +44,7 @@ lawyer = {
 		businessman
 		police_officer
 		police_captain
+		made_man
 	}
 }
 police_officer = {
@@ -49,6 +61,7 @@ police_officer = {
 		businessman
 		lawyer
 		police_captain
+		made_man
 	}
 }
 police_captain = {
@@ -60,6 +73,7 @@ police_captain = {
 		businessman
 		lawyer
 		police_officer
+		made_man
 	}
 }
 # Controls Illegal dynasty infamy gain
