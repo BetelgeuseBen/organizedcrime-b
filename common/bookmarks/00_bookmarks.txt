@@ -32,7 +32,6 @@ bm_prohibition = {
 #	custom_start = yes
 #	picture = GFX_pick_era_image_3
 #	
-#	era = yes
 #}
 
 #bm_after_the_war = {
@@ -42,7 +41,6 @@ bm_prohibition = {
 #	custom_start = yes
 #	picture = GFX_pick_era_image_3
 #	
-#	era = yes
 #}
 
 #bm_after_the_coldwar = {
@@ -64,23 +62,3 @@ bm_family_tree_test = {
 	
 	era = yes
 }
-
-#A secret start
-#bm_new_amsterdam = {
-#	name = "BM_NEW_AMSTERDAM"
-#	desc = "BM_NEW_AMSTERDAM"
-#	date = 1610.1.1
-#	custom_start = yes
-#	picture = GFX_pick_era_image_3
-#	
-#	era = no
-#}
-#bm_after_the_end = {
-#	name = "BM_AFTER_THE_END"
-#	desc = "BM_AFTER_THE_END"
-#	date = 2666.6.4
-#	custom_start = yes
-#	picture = GFX_pick_era_image_3
-#	
-#	era = no
-#}

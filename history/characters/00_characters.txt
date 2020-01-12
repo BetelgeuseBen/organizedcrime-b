@@ -17,7 +17,7 @@
     name=Robbie #Robbie Green-Hill; Researcher
     dynasty=25
 
-	add_trait="immigrant"
+    add_trait="immigrant"
 
     religion=upright
     culture=irish
@@ -33,7 +33,7 @@
     religion=criminal
     culture=central_park
 
-	add_trait="immortal"
+    add_trait="immortal"
 
     1800.01.01 = { birth=yes effect={dynasty=none} }
     2100.01.01 = { death=yes }

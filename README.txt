@@ -1,3 +1,6 @@
+!Warning: We do NOT garantie that the GitHub version works!
+!Bugs are expectet!
+
 In order to install:
 1. Extract the download
 2. Move the extracted folder to your Documents/Paradox Interactive/Crusader Kings II/mod directory
