@@ -958,3 +958,20 @@
     1930.02.26 = { death=yes } #Shoot by Vito Genovese
 }
 
+60 = {
+    name=Charles #Charles Luciano; Boss; Monrello/Luciano/Genovese-Family
+    dynasty=34  
+	
+   	add_trait="young_turk"
+    	add_trait="immigrant"
+	add_trait="sicilian"
+
+    religion=criminal
+    culture=unknown_italian
+
+    1897.11.24 = { birth=yes }
+    1962.01.26 = { death=yes } #Stroke
+}
+
+
+

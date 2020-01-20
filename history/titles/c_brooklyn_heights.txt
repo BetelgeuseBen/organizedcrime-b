@@ -6,10 +6,8 @@
 800.1.1={
 	liege=k_brooklyn
 }
-1907.1.1={
-	holder=57
-}
-1916.1.1={
-	holder=58
+1920.01.01 = {
+	holder = 60
+	liege=d_east_harlem
 }
 

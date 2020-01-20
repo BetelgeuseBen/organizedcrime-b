@@ -15,6 +15,7 @@ RESEARCH
 -research importend political figures
 -research importend non-criminal and non-political figures
 -research filler figures
+-If areas have still no characters invent some
 
 MODDING
 
@@ -25,7 +26,29 @@ GRAPHIC DESIGN
 -Create more modern clothing for characters
 
 NOTES
+  Possible Update Names:
+	La Familia
+	Lucchese
+        Genovese
+	Gambino
+	Bonanno
+	Lucky Luciano
+	Salvatore Maranzano
+	Giuseppe Morello
 
+-Tukish Invasion could be reused as invasion of new gangs?
+-Mongole Invasion could maybe be reused for a truely united mafia?
 -Find a good alt-history scenario to replace Atztec Invasion
 	~Find a name for the new scenario
 -Give the other researchers things to research
+
+IDEA CORNER
+-"Monarchiest" Movement
+	A movment that dreams of creating a monarchy in NYC.
+	They use titles like Duke, Count and Baron instead of the normal titles,
+	their highest title is King for the head of the religion,
+	Emperor Tier ruler use Grandduke
+	King Tier ruler use Duke
+	Duke Tier ruler use Count
+	Count Tier ruler use Baron
+	and Baron Tier ruler use a knight title

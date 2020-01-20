@@ -202,3 +202,9 @@
 	used_for_random = no
 }
 
+34 = {
+	name = "Luciano"
+	culture = "unknown_italian"
+	used_for_random = no
+}
+
