@@ -6,12 +6,9 @@
 800.1.1={
 	liege=k_long_island_city
 }
-1890.1.1={
-	holder=52
+1907.1.1={
+	holder=57
 }
-1908.1.1={
-	holder=54
-}
-1912.1.1={
-	holder=55
+1916.1.1={
+	holder=58
 }

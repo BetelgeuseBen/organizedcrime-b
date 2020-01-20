@@ -1,6 +1,6 @@
 TO FINISH
 
--Finish the 4 other mafia family bosses
+-Finish the 1 other mafia family bosses
 -Finish the 5 mafia family underbosses
 
 RESEARCH
@@ -29,7 +29,7 @@ NOTES
   Possible Update Names:
 	La Familia
 	Lucchese
-        Genovese
+	Genovese
 	Gambino
 	Bonanno
 	Lucky Luciano
@@ -52,3 +52,5 @@ IDEA CORNER
 	Duke Tier ruler use Count
 	Count Tier ruler use Baron
 	and Baron Tier ruler use a knight title
+
+-Militant Communists

@@ -25,34 +25,6 @@ bm_prohibition = {
 	}
 }
 
-#bm_castellammarese_war = {
-#	name = "BM_CASTELLAMMARESE_WAR"
-#	desc = "BM_CASTELLAMMARESE_WAR"
-#	date = 1931.4.15
-#	custom_start = yes
-#	picture = GFX_pick_era_image_3
-#	
-#}
-
-#bm_after_the_war = {
-#	name = "BM_AFTER_THE_WAR"
-#	desc = "BM_AFTER_THE_WAR"
-#	date = 1945.9.2
-#	custom_start = yes
-#	picture = GFX_pick_era_image_3
-#	
-#}
-
-#bm_after_the_coldwar = {
-#	name = "BM_AFTER_THE_COLDWAR"
-#	desc = "BM_AFTER_THE_COLDWAR"
-#	date = 1990.1.1
-#	custom_start = yes
-#	picture = GFX_pick_era_image_3
-#	
-#	era = yes
-#}
-
 bm_family_tree_test = {
 	name = "BM_FAMILY_TREE_TEST"
 	desc = "BM_FAMILY_TREE_TEST"

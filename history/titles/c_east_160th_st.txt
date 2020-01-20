@@ -6,3 +6,12 @@
 800.1.1={
 	liege=k_manhattan_heights
 }
+1890.1.1={
+	holder=52
+}
+1908.1.1={
+	holder=54
+}
+1912.1.1={
+	holder=55
+}

@@ -6,3 +6,8 @@
 800.1.1={
 	liege=k_southfield
 }
+1918.1.1={
+	#This title is given to him to represent his activity in Staten Isle
+	holder=61
+	liege=d_east_harlem
+}

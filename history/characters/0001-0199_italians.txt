@@ -941,6 +941,8 @@
 
     1878.10.10 = { birth=yes }
     1928.10.28 = { death=yes } #Shoot by Joe Masseria
+	#Character Notes
+	#Breaks off from the Morello family in 1922 and form the Lucchese Family
 }
 
 59 = {
@@ -959,7 +961,7 @@
 }
 
 60 = {
-    name=Charles #Charles Luciano; Boss; Monrello/Luciano/Genovese-Family
+    name=Charles #Charles 'Lucky' Luciano; Boss; Monrello/Luciano/Genovese-Family
     dynasty=34  
 	
    	add_trait="young_turk"
@@ -972,6 +974,24 @@
     1897.11.24 = { birth=yes }
     1962.01.26 = { death=yes } #Stroke
 }
+61 = {
+    name=Charles #Giuseppe 'Joe/Don Peppino' Profaci; Boss; Founder; Colombo-Family
+    dynasty=14
+	
+   	add_trait="mustache_peppe"
+    	add_trait="immigrant"
+	add_trait="sicilian"
 
+    religion=criminal
+    culture=unknown_italian
+
+    1897.10.02 = { birth=yes }
+    1962.06.07 = { death=yes } #Died of Cancer
+
+	#Character notes
+	#Before founding his own family he was active in Staten Isle
+	#He gave himself as a devout Christian, 
+	#he killed to thiefs who stole from a church in his area
+}
 
 
