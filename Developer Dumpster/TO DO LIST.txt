@@ -54,3 +54,7 @@ IDEA CORNER
 	and Baron Tier ruler use a knight title
 
 -Militant Communists
+	Miltant Communists fight with the other organizations for power in NYC
+
+-Non-Player Placeholder Goverment
+	A Goverment Type that represents regions that have no "owner" and need to be either conquered or boughted
