@@ -75,22 +75,60 @@ american = {
 	german = {
 		graphical_cultures = { germangfx }
 		color = { 0.5 0.5 0.5 }
+		
+		male_names = {
+		Heinrich Friedrich Wilhelm Manfred Günther Albert Otto Laurenz Maximilian Hans Werner
+		}
+
+		female_names = {
+		Anna Hanna Nina Elisabeth_Elizabeth Uta Helga
+		}
 	}
 	french = {
 		graphical_cultures = { frankishgfx }
 		color = { 0 0.16 1 }
+
+		male_names = {
+		Guy Jacques Louise Géraud Geoffroy
+		}
+
+		female_names = {
+		Alice Charlotte Constance Agathe
+		}
 	}
 	afro_american = {
 		graphical_cultures = { westafricangfx }
 		color = { 0.50 0.2 0 }
+
+		male_names = {
+		}
+
+		female_names = {
+		}
 	}
 	scandinavian = {
 		graphical_cultures = { englishgfx }
 		color = { 0.14 0.8 1 }
+
+		male_names = {
+		Sven
+		}
+
+		female_names = {
+		Greta
+		}
 	}
 	greek = {
 		graphical_cultures = { easterngfx }
 		color = { 1 0.4 1 }
+
+		male_names = {
+		Adrianos Alexandros_Alexander Alexios Georgios Eugenius_Eugen Ioseph_Joseph
+		}
+
+		female_names = {
+		Adriane_Adriana Agathe_Agathe Ionna_Joan Ioulia_Julia
+		}
 	}
 }
 
@@ -144,6 +182,46 @@ irish = {
 	irish = {
 		color = { 0.29 1 0 }
 		graphical_cultures = { celticgfx }
+
+		male_names = {
+			Aaron_Aaron Abbán Abner_Abner Abél_Abel Adomnán Áed_Hugh Áedgen Áeducán Áedán_Hugh Áengus_Angus Affiath Ailbe Ailbrend Ailbrenn Ailchú Aildobur Ailgel Áilgenán Ailgus
+			Ailill Ailpín_Alwin Ainbchellach Áindle Ainftech_Enfidaig Ainmere Airechtach Airfhindán Airfhinnán Airleid Airmedach Amalgaid Amlaíb_Olaf Anfudán Anlón Anmchaid Ánrothán Ardgal
+			Ardgar Art_Arthur Artbran Artgal Artgus Artucán Artúr_Arthur Assiucc Augaire Augustín_Augustine Aurthuile Báethgalach Báethíne Báetán Béoáed Barrfhind Beccán Berrach Bhátair_Walter
+			Blathmacc Bran_Bran Brandub Brangen Bressal Brian_Brian Briccéne Briccíne Broccán Bruatur Bruide_Bride Brénaind Brénainn Bróen Búaidbéo Caicher Cailech Cailte Cairbre_Carbrey
+			Cairell Caisséne Caissín Caissíne Canann Canannán Carlus_Charles Cathal Cathalán Cathassach Cathbad Cathmáel Cathmál Cathnio Cathub Causantín_Constantine Caílte Caínchomrac
+			Caíndelbán Ceithernach Cellach Cellachán Cennétig_Kentigern Cenn-Fáelad Cennlachán Cerball Cernach Cernachán Cian Ciarán Cilléne Cillíne Cináed_Kenneth Clemens_Clement Cobthach
+			Coirpre Colcu Colmán_Nicholas Columb_Nicholas Comgán Conaing Conall_Conall Conallán Conamail Conán_Conan Conchenn Conchobar Condla Congal Congalach Congus Conlang Conmac Conmacc
+			Conmáel Conmál Conn_Conn Connla Conrí Constans_Constantius Constantín_Constantine Corbb Corbán Corccán Corcrán Cormac Coscrach Coílboth Crimthann Crundmáel_Crundmáel Cruinnmáel_Crundmáel
+			Críchán Crónán Cuilén Cuindles Cuircthe Cummascach Cáemán Cóelbad Cóelub Cóemán Cú-Allaid Cú-Bretan Cú-Caech Cú-Cen Cú-Cen-Máthair Cú-Cúaráin Cú-Gamna Cú-Roí Cúanu Cúldub Cúán
+			Cúánán Dabíd_David Daigre Dalbach Dallán Daniél_Daniel Dathal Dathgus Demmán Diarmait_Dermid Doedgus Domangart Domnall_Donald Donn Donnchad_Duncan Donncuan_Duncan Donndubán Donngal
+			Donnucán_Duncan Doélgus Drost Drust Dub-dá-Lethe Dubcenn Dubgenn Dubh_Duff Dubhghall_Dugald Dubhglais_Douglas Dubthach Dubáed Dubán Duiblesc Duibne Dunáed Dálach Dícuill Díglach Dímmae
+			Dímmasach Dímmán Dínertach Dúnacán Dúnadach Dúnchad_Duncan Dúngal Dúngalach Dúnlang Éamonn_Edmund Echmarcach Échtgal Échtgus Echthigern Echuid Éicnech Éicnechán Eláir Énna Énri_Henry Éochad
+			Eochaid_Eochaid Eochu Eochucán Éogan_Eugene Erc_Eric Ercaid Ercáed Ercán Éremón Érennach Ernán Eterscél Eógan_Eugene Eóganán_Eugene Fachtna Fairchellach Fallaman Farannán Faílbe Fearghus_Fergus
+			Fechtnach Fedach Fearchar_Farquhar Fedelmid Feirgil Felic Fer-Fugaill Feradach_Feradach Ferdomnach Fergal Fergus_Fergus Fiachnae Fianchú Findbarr Fingen Finguine Finn_Finn Finnacán Finnbarr
+			Finnchú Finnlagh_Findlay Finnsnechtae Fintan Flaithbertach Flaithem Flaithemán Flaithgus Flaithrí Flann Flannacán Flannchad Flannán Fogartach Folachtach Forannán Forbassach Fothad Fothud
+			Fuacarta Fubthad Fuirechtach Fursu Fáelcar Fáelchad Fáelchú Fáeldobur Fáelgus Fáelán Fáelbe Fíachnae Fíadchú Fíngin Fínsnechta Fócarta Gabrán Garalt Garbith Gilla-Íosa Gilla-Brígte_Gilbert
+			Gilla-Coluim Gilla-Comgáin Gilla-Críst_Gilchrist Gilla-na-Náem Gilla-Pátraic_Gilpatrick Gilla-Ruad_Gilroy Glaisiuc Glaschu Glún-Iairn Gofraid_Godfrey Gormacán Gormgus Gormán Guaire Gáethán
+			Gáethíne Gósacht Iacob_Jacob Iarlaithe Imchad Indrechtach Ioseph_Joseph Íomhar_Ivar Labraid Lachtnae Lachtnán Lachtnéne Laidcenn Laidgenn Laidíne Laisrén Lennán_Lennon Lethlobur Liam_William
+			Liber Lochlann Loingsech Lonán Lorcán Lugh_Leon Lugaid Lugáed Láegaire Lóchéne Lóchíne Lóeguire Mac-Laisre Mainchíne Maine Manchán Martan Mathgamain Matudán Minchán Mo-Chonna Mo-Lua Móenach
+			Morand Morann Mugrón Muirchertach Muirecán Muiredach_Murdoch Muirgius Murchad Murchú Máel-Anfaid Máel-Bresail Máel-Brígte Máel-Cein Máel-Cianáin Máel-Ciaráin Máel-Coluim_Malcolm Máel-Corgis
+			Máel-Dubh_Maldoven Máel-Dúin Máel-Fothartaig Máel-Fábaill Máel-Íosa_Malise Máel-Máedóc Máel-Martain Máel-Mórda Máel-Muire_Malmure Máel-Míchíl Máel-Petair Máel-Pátraic Máel-Ruanaid Máel-Sechnaill
+			Máel-Tólai Máelán Máenach Máthair Múadán Nadarchu Nannid Natfraech Natfraich Natsluaig Nechtan_Nathan Niall_Nigel Niallgus Niallán Nuadu Odrán Óengus_Angus Óenucán Oisséne Oissíne Olcán Ólchobar
+			Onchú Orthanach Oscar_Oscar Pátraic_Patrick Petair_Peter Pilib_Philip Pól_Paul Proinsias_Francis Rechtabra Riacán Riaguil Robartach Rogallach Rogellach Ruah_Roy Ruaidrí_Roderick Ruarcc Rumann
+			Ráthach Rígán Ríán Ródán Rónchú Rónán_Ronan Rúadacán Rúadán Scandal Scandlán Scellán Scolaige Séaghdha_Shaw Séafra_Godfrey Séamas_Jacob Seán_John Sechnassach Selbach Senchán Seoán_John Sinach
+			Siothrún_Godfrey Slébíne Snedgus Sogan Somhairle_Somerled Suibne_Sweeny Sáerbrethach Sárán Séigíne Sétna Sétnae Tadg_Tadg Taithlech Talorc_Talore Talorcán_Talorcán Temnén Tigernach Tigernán
+			Tipraite Tomaltach Tomás_Thomas Torccán Trenchad Trengus Tressach Tuathalán Tuireann_Taran Tálán Tóla Túathal_Tuathal Ualgarg Ualan_Valentin Ualtar_Walter Úamnachán Uargal Uargalach Uargus
+			Uilliam_William Ultán
+		}
+
+		female_names = {
+			Ablach Áedammair Affraic_Euphemia Aíbinn Aibilín_Eva Aileann Áine_Agnes Anlaith Aróc Barrdub Ben-Laigen Ben-Míde Ben-Muman Ben-Ulad Brigit_Brigit  Bé-Fáil Bébinn Cacht Caillech-Fhinnéin
+			Cainnech Caisséne Caitilín_Catherine Caíntigern Caírech Cathán Catríona_Catherine Cellach Ciar Cnes Coblaith_Cobflaith Cobflaith_Cobflaith Conchenn Condál Crínóch Crístina_Christina Cumman
+			Deirdre Der-bForgaill_Devorguilla Derbáil Derborgaill_Devorguilla Der-Ilei_Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla Dúinsech Dúnlaith Echrad Éibhleann
+			Eilionora_Eleanor Eithne_Eithne Ellbríg Emer_Emer Étaín Éua_Eva Euginia_Eugenia Faílenn Fedelm Finneacht Finnguala_Finnguala Flann Forbflaith Fíne Garb Gelgéis Gerróc Gnathnad Gormflaith_Gormflaith
+			Gormlaith_Gormflaith Gráinne Imag Íte Lann Lasairfíona Lathir Lerben Lerthan Lígach Lucia_Lucia Martha_Martha Mauda_Matilda Muadhnait_Mona Muirenn_Murron Muirgel_Muriel Muirne_Morna Máel-Mide
+			Máel-Muire_Malmure Máire_Maria Máiread Máirgred_Margaret Mór_Mor Mór-Muman Nárbflaith Nuala_Finnguala Órlaith Órnat Róis_Ros Sadb Samthann Scáthach Sébdann Selblaith Seonaid_Joan Sinech Siobán_Joan
+			Sisuile Sláíne_Slaine Sorcha_Sorcha Suaibsech Sáerlaith Sétach Síthmaith Tailefhlaith Tailltiu Temair Tuathflaith Tómnat Uallach Uasal Úna_Una
+		}
 	}
 }
 jewish = {
@@ -152,16 +230,36 @@ jewish = {
 	galizianer = {
 		graphical_cultures = { byzantinegfx }
 		color = { 0.95 0.95 0.95 }
+
+		male_names = {
+		}
+
+		female_names = {
+		}
 	}
 	litvak = {
 		color = { 1 0.85 0 }
 		graphical_cultures = { byzantinegfx }
+
+		male_names = {
+		}
+
+		female_names = {
+		}
 	}
 }
 slavic = {
 	czech = {
 		color = { 0.28 0 1 }
 		graphical_cultures = { westernslavicgfx }
+
+		male_names = {
+		Ivan
+		}
+
+		female_names = {
+		Yelizaveta_Elizabeth
+		}
 	}
 }
 
@@ -169,13 +267,14 @@ chinese = {
 	chinese = {
 		color = { 211 44 44 }
 		graphical_cultures = { chinesegfx }
+
 		male_names = {
-		Li
-			}
+			Ji Yu Deyi Wuji Xuanling Ruhui Jing Yanbo Shilian Shiji Xingcheng Zhining Suiliang Rengui Zhide Liangsi Daijia Chengsi Changliang Qinwang Jishan Xiujing Yuanzhong Chengqi Shi Ziyi Maozhen Wei Gongren Shidao Wenben Zhou Jifu Shi Dunli Yifu Zhenglun Jingzong Xiangdao Dunxin Liben Chujun Jingxuan Yuanchao Zhiwen Yan Weidao Judao Wenwei Zhaode Sansi Renjie Qiao Zaisi Xuanwei Shuji Anshi Chuke Zhizhong Shaojing Sili Chong Shuo Jiazhen Song Jiuling Linfu Guozhong Yuan Fuguo Huaiguang Sheng Jian Hong Minzhong Zhaodu Wenjing Kang Shuda Yuanji Gui Zheng Wenjie Yuan Maojiang Yushi Dexuan Luo Wenguan Chujun Jingxian Dezhen Siqian Xuantong Guangfu Youning Wuzi Qinke Tong Shou Hui Yanfan Huai Juyuan Chuna Zhizhong Rizhi Youqiu Huaizhen Xi Zhigu Huaishen Qianyao Guangting Yaoqin Xianke Shizhi Xilie Jiansu Jinqin Jin Sui Duo Mei Congdang Yanruo Yin Yan Zhou Junji Yaxiang Chengqing Yi Yanwei Chuyue Hongwu Anqi Renben Heng Yiyan Zhizhou Da'an Daiju Hongmin Weizhi Benli Xiaojie Jiongxiu Dan Jianzhi Huaiyuan Qinming Renyuan Zhigu Xiangxian Na Lin Zhengyi Jingchen Junliang Cha Fangzhi Lübing Youyi Sihui Fuyuan Zhigu Xingben Zhirou Youdao Zhihong Shenji Yuanzong Yuansu Rui Juyuan Yuanfang Shifang Jingquan Yunyuan Yuanheng Fangqing Daoguang Yuanchong Xu Jingze Rong Weiqian Yanzhao Jiafu Yuanhong Xilie Guan Mian Ting Qi Kui Hua Zunqing Zai Hongjian Gun Zhongchen Youfu Lin Yi Bo Congyi Gongfu Yanshang Zao Huang Hun Bi Can Zhi Dan Mai Sun Zongru Yuqing Ying Xunyu Zhiyi Huangshang Yuanheng Di Pan Deyu Jiang Hongjin Guanzhi Fengji Qun Yong Yijian Fu Wenchang Yuanying Sengru Chen Yizhi Chuhou Zongmin Shenxi Guyan Yuanyu Xun Tan Yixing Sifu Shen Rangyi Su Shang Minzhong Yuanshi Guicong Tao Mo Lang Shenyou Zhuan Shenquan Xian Shou Que Shang Zhan Ye Wei Che Gou Changtu Zhaodu Rangneng Yanchang Xisheng Chuan Pu Wo She Riyong Renshi Guangqi Zhirou Yanjing Dewei Shouyi Longji Jie Shouli Yuanzhen Xinfu Yun
+		}
 		
 		female_names = {
-		Li
-			}
+			Anzong Wenshou Aiqin Que Daoan Maoying Qigui Rongji Huinan Yuying Yingwu Xianyuan Lingyuan Wanying Yingmei Zhenfeng Miaodeng Farong Yuzhu Jiangui Fanjing Daozheng Zhirong Huizhao Shuyi Shuyuan Jieyu Ronghua Zhaoyi Lanying Baoming Jingying Shaoming Huiduan Lingqu Yu'er Nizi Jinghui Shunhua Shangrou Hui Lingguang Lingying Lingbing Zhaopei Yao'er Miaorong Shaoji Jingyan Lihua Wuhua Xianji Shouji Zhaorong Ying Xianzi Puxian Lian Mingxiang Yuanhua Tong'e Mingyue Zhaojun "Zu'e" Yuguang Zuqi Zhonghua Yuyi Changyi Huanghua Xiaolian "E'zi" Manyue Yueyi Yueshang Qieluo Lingji Zhou Shuzhen Gui Hui Huitong "Wan'er" Shun Fangmei Zhenyi Caiping Yuhuan Qiniang Qiu Qiuniang Jianrong Chongyan Zhenniang Yuniang Fujin Shiguang "E'huang" "Nüying" Xinyue Hanyue Feishan Shunxuan Taihua Dexiu Jinfeng Chunyan Qiongxian E Taotao Bingyi Yunu Zuimei Chunluo Fengniang Daoqing Zhuozhen Yan Yanyan "Shi'er" "Xian'e" Nanxian Shanxiang Ai Shanli Jinluan "Xi'er" "Zhen'er" Wanyi Mantang Xijie Baozhu Xiuying Zhongyang Ruoxian Ruozhao Ruoxin Ruoxun Ruolun Miaozhen Mao'er Daoyi Niangzi Saihua Guiying Shengqiong Chaochao Fu Zhaoyun Rouniang Rounu Yuniang Biniang Rui Jinhua Guilan Shanwei Suyue Yunxian Nenniang Xiang Zhenli Cuiqiao Zhihui Lingxuan Jicong Shuzhu Yujing Yuanyuan Xiaowan Hengbo Mei Xiangjun Rushi Xianglan Ruying Yuhua Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen "Xiao'e" Xiaoying Xiaoyuan Xiaoji Xiuui "Nüjie" Qingyu Zhichong "Yi'an" Youwu Yupan Jinnu Jinluo Fujin "Hu'er" Jinxian Qiaoyun Sanjin Xiangyun Zhuzhu "Jin'er" Chuanzhu Jinzhu Xiaojin Huimei Miaoyu Quyi Siniang Sanniang "A'wu" Lizhi Jing Shu Lingyue Xianhui Jijiang "Guo'er" Huawan Huazhuang Chang Dehua Panpan Caichun Wenxiu Hong Honghong "A'man" Huimei Shuozhen Youwei Huilan Lize Mingda Sujie Yiyang Hua Yuhuan Shi Diaochan Zheng Liu Kangyi Feiyan Hou Jiangnu Na Shengtong Zhi
+		}
 	}
 }
 
@@ -183,10 +282,17 @@ native_american = {
 	nativ = {
 		color = { 200 44 44 }
 		graphical_cultures = { mesoamericangfx }
+
+		male_names = {
+		}
+
+		female_names = {
+		}
 	}
 }
 
 #Needs reworke, this is why I put in Duckgfx
+#Maybe replace them with Wasteland? 
 no_living_there = {
 	graphical_cultures = { duckgfx }
 	

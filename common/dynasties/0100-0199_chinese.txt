@@ -1,0 +1,88 @@
+####################
+#ID RANGE 100 - 199#
+####################
+
+100= {
+	name = "Li"
+	culture = "chinese"
+}
+101={
+	name = "Zhao"
+	culture = chinese
+}
+102={
+	name = "Wu"
+	culture = chinese
+}
+103={
+	name = "Feng"
+	culture = chinese
+}
+104={
+	name = "Guo"
+	culture = chinese
+}
+105={
+	name = "Gao"
+	culture = chinese
+}
+106={
+	name = "Ye"
+	culture = chinese
+}
+107={
+	name = "Ren"
+	culture = chinese
+}
+108={
+	name = "Wang"
+	culture = chinese
+}
+109={
+	name = "Zchineseg"
+	culture = chinese
+}
+110={
+	name = "Zhao"
+	culture = chinese
+}
+111={
+	name = "Miao"
+	culture = chinese
+}
+112={
+	name = "Liu"
+	culture = chinese
+}
+113={
+	name = "Fan"
+	culture = chinese
+}
+114={
+	name = "Jiang"
+	culture = chinese
+}
+115={
+	name = "Wang"
+	culture = chinese
+}
+116={
+	name = "Zhong"
+	culture = chinese
+}
+117={
+	name = "Zchineseg"
+	culture = chinese
+}
+118={
+	name = "Sun"
+	culture = chinese
+}
+119={
+	name = "Li"
+	culture = chinese
+}
+120={
+	name = "Yao"
+	culture = chinese
+}

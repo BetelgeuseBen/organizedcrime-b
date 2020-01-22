@@ -1,0 +1,14 @@
+####################
+#ID RANGE 200 - 299#
+####################
+
+200={
+	name = "Madden"
+	culture = irish
+	used_for_random = no
+}
+201={
+	name = "Dywer"
+	culture = irish
+	used_for_random = no
+}
