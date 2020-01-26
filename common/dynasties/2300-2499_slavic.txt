@@ -1,3 +1,68 @@
 ######################
 #ID RANGE 2300 - 2499#
 ######################
+
+2300 = {
+	name = "Adamík"
+	culture = czech
+}
+2301 = {
+	name = "Bárta"
+	culture = czech
+}
+2302 = {
+	name = "Kovář"
+	culture = czech
+}
+2303 = {
+	name = "Kolář"
+	culture = czech
+}
+2304 = {
+	name = "Sedlák"
+	culture = czech
+}
+2305 = {
+	name = "Kočí"
+	culture = czech
+}
+2306 = {
+	name = "Čermák"
+	culture = czech
+}
+2307 = {
+	name = "Chalupa"
+	culture = czech
+}
+2308 = {
+	name = "Chalpuník"
+	culture = czech
+}
+2309 = {
+	name = "Doubek"
+	culture = czech
+}
+2310 = {
+	name = "Fiala"
+	culture = czech
+}
+2311 = {
+	name = "Holub"
+	culture = czech
+}
+2312 = {
+	name = "Horník"
+	culture = czech
+}
+2313 = {
+	name = "Jelen"
+	culture = czech
+}
+2314 = {
+	name = "Jelínek"
+	culture = czech
+}
+2315 = {
+	name = "Kafka"
+	culture = czech
+}

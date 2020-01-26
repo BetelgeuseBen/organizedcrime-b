@@ -1,3 +1,40 @@
 ######################
 #ID RANGE 1700 - 1899#
 ######################
+
+1700 = {
+    name = "Svensson"
+    culture = "scandinavian"
+}
+1701 = {
+    name = "Ulfriksson"
+    culture = "scandinavian"
+}
+1702 = {
+    name = "Karlsson"
+    culture = "scandinavian"
+}
+1703 = {
+    name = "Johansson"
+    culture = "scandinavian"
+}
+1704 = {
+    name = "Hansson"
+    culture = "scandinavian"
+}
+1705 = {
+    name = "Lindström"
+    culture = "scandinavian"
+}
+1706 = {
+    name = "Lindgren"
+    culture = "scandinavian"
+}
+1707 = {
+    name = "Sandberg"
+    culture = "scandinavian"
+}
+1708 = {
+    name = "Frostberg"
+    culture = "scandinavian"
+}

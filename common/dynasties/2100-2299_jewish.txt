@@ -1,3 +1,140 @@
 ######################
 #ID RANGE 2100 - 2299#
 ######################
+
+##Galizianer Lastnames ID RANGE 2100 - 2199
+
+2100 = {
+	name = "Babad"
+	culture = galizianer
+}
+2101 = {
+	name = "Bloch"
+	culture = galizianer
+}
+2102 = {
+	name = "Adler"
+	culture = galizianer
+}
+2103 = {
+	name = "Chajes"
+	culture = galizianer
+}
+2103 = {
+	name = "Lizhensk"
+	culture = galizianer
+}
+2104 = {
+	name = "Frank"
+	culture = galizianer
+}
+2105 = {
+	name = "Halberstam"
+	culture = galizianer
+}
+2106 = {
+	name = "Hertzberg"
+	culture = galizianer
+}
+2107 = {
+	name = "Zidichov"
+	culture = galizianer
+}
+2108 = {
+	name = "Krochmal"
+	culture = galizianer
+}
+2109 = {
+	name = "Levin"
+	culture = galizianer
+}
+2110 = {
+	name = "Rokeach"
+	culture = galizianer
+}
+2111 = {
+	name = "Schwadron"
+	culture = galizianer
+}
+2112 = {
+	name = "Shapiro"
+	culture = galizianer
+}
+2113 = {
+	name = "Weidenfeld"
+	culture = galizianer
+}
+2114 = {
+	name = "Weinbach"
+	culture = galizianer
+}
+2115 = {
+	name = "Zolli"
+	culture = galizianer
+}
+##Litvak Lastnames ID RANGE 2200 - 2299
+
+2200 = {
+	name = "Alapin"
+	culture = litvak
+}
+2202 = {
+	name = "Antokolsky"
+	culture = litvak
+}
+2203 = {
+	name = "Arens"
+	culture = litvak
+}
+2204 = {
+	name = "Barak"
+	culture = litvak
+}
+2205 = {
+	name = "Bellow"
+	culture = litvak
+}
+2206 = {
+	name = "Ben-Yehuda
+	culture = litvak
+}
+2207 = {
+	name = "Berenson"
+	culture = litvak
+}
+2208 = {
+	name = "Broad"
+	culture = litvak
+}
+2209 = {
+	name = "Cohen"
+	culture = litvak
+}
+2210 = {
+	name = "Cronenberg"
+	culture = litvak
+}
+2211 = {
+	name = "Ehrenburg"
+	culture = litvak
+}
+2212 = {
+	name = "Glass"
+	culture = litvak
+}
+2213 = {
+	name = "Grade"
+	culture = litvak
+}
+2214 = {
+	name = "Hillman"
+	culture = litvak
+}
+2215 = {
+	name = "Lown"
+	culture = litvak
+}
+2216 = {
+	name = "Howard"
+	culture = litvak
+}

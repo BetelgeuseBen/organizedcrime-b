@@ -1,3 +1,68 @@
 ######################
 #ID RANGE 1900 - 2099#
 ######################
+
+1900 = {
+	name ="Adamos"
+	culture = greek
+}
+1901 = {
+	name ="Andino"
+	culture = greek
+}
+1902 = {
+	name ="Angelos"
+	culture = greek
+}
+1903 = {
+	name ="Chloros"
+	culture = greek
+}
+1904 = {
+	name ="Artino"
+	culture = greek
+}
+1905 = {
+	name ="Ariti"
+	culture = greek
+}
+1906 = {
+	name ="Chronis"
+	culture = greek
+}
+1907 = {
+	name ="Diakos"
+	culture = greek
+}
+1908 = {
+	name ="Ganas"
+	culture = greek
+}
+1909 = {
+	name ="Doukas"
+	culture = greek
+}
+1910 = {
+	name ="Hatzi"
+	culture = greek
+}
+1911 = {
+	name ="Hatzis"
+	culture = greek
+}
+1912 = {
+	name ="Katopodis"
+	culture = greek
+}
+1913 = {
+	name ="Kazan"
+	culture = greek
+}
+1914 = {
+	name ="Kouris"
+	culture = greek
+}
+1915 = {
+	name ="Loukanis"
+	culture = greek
+}

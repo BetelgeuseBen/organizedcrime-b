@@ -1,3 +1,24 @@
 ####################
 #ID RANGE 300 - 499#
 ####################
+
+300 = {
+	name = "Smith"
+	culture = yankee
+}
+301 = {
+	name = "Newman"
+	culture = yankee
+}
+302 = {
+	name = "Fisher"
+	culture = yankee
+}
+303 = {
+	name = "Miller"
+	culture = yankee
+}
+304 = {
+	name = "Hunter"
+	culture = yankee
+}

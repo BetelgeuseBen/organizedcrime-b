@@ -1,3 +1,64 @@
 ######################
 #ID RANGE 1100 - 1299#
 ######################
+
+1100 = {
+    name = "Witt"
+    culture = "german"
+}
+1101 = {
+    name = "Fels"
+    culture = "german"
+}
+1102 = {
+    name = "Schmid"
+    culture = "german"
+}
+1103 = {
+    name = "Neumann"
+    culture = "german"
+}
+1104 = {
+    name = "Fischer"
+    culture = "german"
+}
+1105 = {
+    name = "Peterson"
+    culture = "german"
+}
+1106 = {
+    name = "Bauer"
+    culture = "german"
+}
+1107 = {
+    name = "Müller"
+    culture = "german"
+}
+1108 = {
+    name = "Bäcker"
+    culture = "german"
+}
+1109 = {
+    name = "Wolf"
+    culture = "german"
+}
+1110 = {
+    name = "Jäger"
+    culture = "german"
+}
+1111 = {
+    name = "Köhler"
+    culture = "german"
+}
+1112 = {
+    name = "Vogt"
+    culture = "german"
+}
+1113 = {
+    name = "Wächter"
+    culture = "german"
+}
+1114 = {
+    name = "Rohrmann"
+    culture = "german"
+}
