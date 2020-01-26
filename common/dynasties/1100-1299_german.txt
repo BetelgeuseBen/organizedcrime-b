@@ -62,3 +62,39 @@
     name = "Rohrmann"
     culture = "german"
 }
+1115 = {
+    name = "Bergmann"
+    culture = "german"
+}
+1116 = {
+    name = "Marschall"
+    culture = "german"
+}
+1117 = {
+    name = "König"
+    culture = "german"
+}
+1118 = {
+    name = "Wolf"
+    culture = "german"
+}
+1119 = {
+    name = "Wolfgang"
+    culture = "german"
+}
+1120 = {
+    name = "Schwarz"
+    culture = "german"
+}
+1121 = {
+    name = "Weiß"
+    culture = "german"
+}
+1122 = {
+    name = "Zöllner"
+    culture = "german"
+}
+1123 = {
+    name = "Zoller"
+    culture = "german"
+}

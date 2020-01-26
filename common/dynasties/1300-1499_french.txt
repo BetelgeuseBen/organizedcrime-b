@@ -1,3 +1,43 @@
 ######################
 #ID RANGE 1300 - 1499#
 ######################
+1300 = {
+    name = "Augustin"
+    culture = "french"
+}
+1301 = {
+    name = "Beaufort"
+    culture = "french"
+}
+1302 = {
+    name = "Beaumont"
+    culture = "french"
+}
+1303 = {
+    name = "Babel"
+    culture = "french"
+}
+1304 = {
+    name = "Babineaux"
+    culture = "french"
+}
+1305 = {
+    name = "Badie"
+    culture = "french"
+}
+1306 = {
+    name = "Cart"
+    culture = "french"
+}
+1307 = {
+    name = "Champoux"
+    culture = "french"
+}
+1308 = {
+    name = "Dax"
+    culture = "french"
+}
+1309 = {
+    name = "Bosier"
+    culture = "french"
+}

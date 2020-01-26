@@ -38,3 +38,75 @@
     name = "Frostberg"
     culture = "scandinavian"
 }
+1709 = {
+    name = "Aaberg"
+    culture = "scandinavian"
+}
+1710 = {
+    name = "Alfsson"
+    culture = "scandinavian"
+}
+1711 = {
+    name = "Beck"
+    culture = "scandinavian"
+}
+1712 = {
+    name = "Bengtsson"
+    culture = "scandinavian"
+}
+1713 = {
+    name = "Bjerke"
+    culture = "scandinavian"
+}
+1714 = {
+    name = "Blom"
+    culture = "scandinavian"
+}
+1715 = {
+    name = "Borg"
+    culture = "scandinavian"
+}
+1716 = {
+    name = "Karlsson"
+    culture = "scandinavian"
+}
+1717 = {
+    name = "Dahl"
+    culture = "scandinavian"
+}
+1718 = {
+    name = "Engberg"
+    culture = "scandinavian"
+}
+1719 = {
+    name = "Erling"
+    culture = "scandinavian"
+}
+1720 = {
+    name = "Fagerberg"
+    culture = "scandinavian"
+}
+1721 = {
+    name = "Falk"
+    culture = "scandinavian"
+}
+1722 = {
+    name = "Falkenberg"
+    culture = "scandinavian"
+}
+1723 = {
+    name = "Friberg"
+    culture = "scandinavian"
+}
+1724 = {
+    name = "Fredriksson"
+    culture = "scandinavian"
+}
+1725 = {
+    name = "Gulbrandsen"
+    culture = "scandinavian"
+}
+1726 = {
+    name = "Gustafsson"
+    culture = "scandinavian"
+}

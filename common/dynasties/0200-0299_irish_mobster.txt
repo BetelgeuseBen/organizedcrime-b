@@ -12,3 +12,35 @@
 	culture = irish
 	used_for_random = no
 }
+202={
+	name="Mac Carthaigh"
+	culture="irish"
+}
+203={
+	name="Ua Braenain"
+	culture="irish"
+}
+204={
+	name="Ua Murchada"
+	culture="irish"
+}
+205={
+	name="Ua Conchobair"
+	culture="irish"
+}
+206={
+	name="Sithrigi"
+	culture="irish"
+}
+207={
+	name="Mac Murchada"
+	culture="irish"
+}
+208={
+	name="Lorc"
+	culture="irish"
+}
+209={
+	name="Boru"
+	culture="irish"
+}

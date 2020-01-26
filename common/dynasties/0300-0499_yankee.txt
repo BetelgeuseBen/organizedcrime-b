@@ -22,3 +22,151 @@
 	name = "Hunter"
 	culture = yankee
 }
+305 = {
+	name = "Johnson"
+	culture = yankee
+}
+306 = {
+	name = "Williams"
+	culture = yankee
+}
+307 = {
+	name = "Brown"
+	culture = yankee
+}
+308 = {
+	name = "Davis"
+	culture = yankee
+}
+309 = {
+	name = "Moore"
+	culture = yankee
+}
+310 = {
+	name = "Taylor"
+	culture = yankee
+}
+311 = {
+	name = "Anderson"
+	culture = yankee
+}
+312 = {
+	name = "Thomas"
+	culture = yankee
+}
+313 = {
+	name = "White"
+	culture = yankee
+}
+314 = {
+	name = "Harris"
+	culture = yankee
+}
+315 = {
+	name = "Martin"
+	culture = yankee
+}
+316 = {
+	name = "Thompson"
+	culture = yankee
+}
+317 = {
+	name = "Garcia"
+	culture = yankee
+}
+318 = {
+	name = "Robinson"
+	culture = yankee
+}
+319 = {
+	name = "Clark"
+	culture = yankee
+}
+320 = {
+	name = "Lewis"
+	culture = yankee
+}
+321 = {
+	name = "Lee"
+	culture = yankee
+}
+322 = {
+	name = "Walker"
+	culture = yankee
+}
+323 = {
+	name = "Hall"
+	culture = yankee
+}
+324 = {
+	name = "Hunter"
+	culture = yankee
+}
+325 = {
+	name = "Allen"
+	culture = yankee
+}
+326 = {
+	name = "Young"
+	culture = yankee
+}
+327 = {
+	name = "King"
+	culture = yankee
+}
+328 = {
+	name = "Wright"
+	culture = yankee
+}
+329 = {
+	name = "Hill"
+	culture = yankee
+}
+330 = {
+	name = "Baker"
+	culture = yankee
+}
+331 = {
+	name = "Scott"
+	culture = yankee
+}
+332 = {
+	name = "Roberts"
+	culture = yankee
+}
+333 = {
+	name = "Turner"
+	culture = yankee
+}
+334 = {
+	name = "Parker"
+	culture = yankee
+}
+335 = {
+	name = "Edwards"
+	culture = yankee
+}
+336 = {
+	name = "Stewart"
+	culture = yankee
+}
+337 = {
+	name = "Morris"
+	culture = yankee
+}
+338 = {
+	name = "Murphy"
+	culture = yankee
+}
+339 = {
+	name = "Cooper"
+	culture = yankee
+}
+340 = {
+	name = "Howard"
+	culture = yankee
+}
+341 = {
+	name = "Gray"
+	culture = yankee
+}

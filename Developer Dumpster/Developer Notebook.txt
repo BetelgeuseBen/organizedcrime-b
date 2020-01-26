@@ -58,3 +58,5 @@ IDEA CORNER
 
 -Non-Player Placeholder Goverment
 	A Goverment Type that represents regions that have no "owner" and need to be either conquered or boughted
+-Option to buy Land
+	Give the player and maybe the AI to buy provinces that have no "Owner"
