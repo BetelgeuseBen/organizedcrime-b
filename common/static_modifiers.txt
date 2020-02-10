@@ -466,27 +466,27 @@ pretender_modifier = {
 ##########################################################################
 
 castle = {
-	tax_income = 4
-	fort_level = 3
+	tax_income = -0.10
+	fort_level = 1.00
 	build_cost_modifier = 500
 	build_time_modifier = 730
 	light_infantry = 5
-	levy_reinforce_rate = 1.25
+	levy_reinforce_rate = 0.50
 	land_organisation = 0.2
 }
 
 city = {
-	tax_income = 12
-	fort_level = 1
-	light_infantry = 2
+	tax_income = -0.10
+	fort_level = 0.50
+	light_infantry = 5
 	build_cost_modifier = 500
 	build_time_modifier = 730
 	land_organisation = 0.2
 }
 
 temple = {
-	tax_income = 8
-	light_infantry = 5
+	tax_income = -0.10
+	fort_level = 0.50
 	build_cost_modifier = 500
 	build_time_modifier = 730
 	levy_reinforce_rate = 0.25
@@ -515,8 +515,8 @@ family_palace = {
 }
 
 tribal = {
-	tax_income = 0.5
-	fort_level = 1
+	tax_income = 0.1
+	fort_level = 2
 	light_infantry = 10
 	levy_reinforce_rate = 1.5
 	land_organisation = 0.2

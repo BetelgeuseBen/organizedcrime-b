@@ -1,9 +1,9 @@
 BATTLE_OF;$PROVINCE$ Shootings;;;;;;;;;;;;;x
 VICTORY;Victory!;;;;;;;;;;;;;x
 DEFEAT;Defeat...;;;;;;;;;;;;;x
-STAT_PIETY_DIRTY_MONEY;Dirty Money;;;;;;;;;;;;;x
-STAT_PIETY_MENU_DIRTY_MONEY;§YDirty Money§!;;;;;;;;;;;;;x
-STAT_PIETY_DESC_DIRTY_MONEY;Dirty Money is money earned by illegitimate means. It can be converted to wealth by laundering. Dirty Money is lost and added to your score on succession.;;;;;;;;;;;;;x
+STAT_PIETY_INFLUENCE;Influence;;;;;;;;;;;;;x
+STAT_PIETY_MENU_INFLUENCE;Influence;;;;;;;;;;;;;x
+STAT_PIETY_DESC_INFLUENCE;Influence can be invested in favors with politicians. Influence is lost and added to your score on succession.;;;;;;;;;;;;;x
 barony_of;Service Business on;;;;;;;;;;;;;x
 city_barony_of;Industrial Complex on;;;;;;;;;;;;;x
 temple_barony_of;Community Center on;;;;;;;;;;;;;x

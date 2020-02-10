@@ -1,0 +1,18 @@
+Changelog Vb0.3.1:
+
+- Buildings
+	-> Added Store, Restaurant, Bar and Butcher Shop buildings to castle holdings
+	-> Added Speakeasy (during prohibition) and Gambling Hall for illegal religions
+	-> Added upper/lower class restaurant and cooling chamber building upgrades
+	-> Added Landfill and Construction Company buildings to city holdings
+	-> Added Social Club and Community Hall buildings to temple holdings
+	-> Added secret shooting range and secret boxing club upgrades
+- Added decisions disregard_industry_regulations and abide_by_industry_regulations
+	-> Added disregarding_industry_regulations holding modifier
+- Changed Dirty Money to Influence and removed Dirty Money mechanics
+	-> Piety now represents influence within the community
+- Renamed Tech Groups and economic and culture techs
+- Adjusted murder investigation intensity and added first event for investigation event chain
+- Added TaterTot's portrait graphics (credit to TaterTot, missing properties)
+- Added a federal government offmap power stub
+- Fixed a few bugs and oddities

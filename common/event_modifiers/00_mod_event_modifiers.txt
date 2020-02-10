@@ -1,8 +1,3 @@
-holding_laundering_money = {
-	tax_income = 30
-	icon = 6
-}
-
 notorious_1 = {
 	major = yes
 	disease_defence = -0.2
@@ -37,4 +32,9 @@ notorious_3 = {
 	fort_level = 0.50
 	#icons in major_modifiers_strip
 	icon = 3
+}
+
+disregarding_industry_regulations = {
+	local_tax_modifier = 1.00
+	icon = 1
 }

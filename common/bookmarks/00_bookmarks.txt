@@ -24,13 +24,3 @@ bm_prohibition = {
 		}
 	}
 }
-
-bm_family_tree_test = {
-	name = "BM_FAMILY_TREE_TEST"
-	desc = "BM_FAMILY_TREE_TEST"
-	date = 2100.1.1
-	custom_start = yes
-	picture = GFX_pick_era_image_3
-	
-	era = yes
-}

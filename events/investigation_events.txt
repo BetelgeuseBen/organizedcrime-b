@@ -16,6 +16,7 @@ character_event = {
 		name = EVTOPTBMMI.1
 		effect = {
 			wealth = -10
+			piety = -100
 		}
 	}
 }
@@ -37,6 +38,27 @@ character_event = {
 	immediate = { 
 		killer = { 
 			successful_murder_effect = yes
+		}
+	}
+}
+
+character_event = {
+	id = MMI.3
+	
+	is_triggered_only = yes
+
+	desc = EVTDESCMMI.3
+	option = {
+		name = EVTOPTAMMI.3
+		effect = {
+			add_trait = murder_suspect
+		}
+	}
+	option = {
+		name = EVTOPTBMMI.3
+		effect = {
+			wealth = -10
+			piety = -100
 		}
 	}
 }

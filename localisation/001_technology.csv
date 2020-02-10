@@ -1,0 +1,46 @@
+TECHNOLOGY_NAME_LABEL;Technology Name:;;;;;;;;;;;;;x
+TECHNOLOGY_LEVEL_LABEL;Highest Level: (dem/rel/wld);;;;;;;;;;;;;x
+TECH_GROUP_COMBAT;Combat Advances;;;;;;;;;;;;;x
+TECH_GROUP_INFRASTRUCTURE;Infrastructure Advances;;;;;;;;;;;;;x
+TECH_GROUP_SOCIAL;Social Advances;;;;;;;;;;;;;x
+TECH_GROUP_MILITARY;Combat Advances;;;;;;;;;;;;;x
+TECH_GROUP_ECONOMY;Infrastructure Advances;;;;;;;;;;;;;x
+TECH_GROUP_CULTURE;Social Advances;;;;;;;;;;;;;x
+TECH_INC_FOCUS;And an additional §Y$CHANCE$§W% increase for §Y$FOCUS$§W as it is set as the focus for this group;Plus §Y$CHANCE$§W% de chance d'amélioration pour §Y$FOCUS$§W, s'agissant de la priorité de ce groupe;Und eine zusätzliche §Y$CHANCE$§W%-Erhöhung auf §Y$FOCUS$§W, da es als Fokus für diese Gruppe eingestellt ist;;Y un §Y$CHANCE$§W% de probabilidad adicional para §Y$FOCUS$§W, ya que es el área en que se centra este grupo.;;;;;;;;;x
+TECH_STREETS;Streets;;;;;;;;;;;;;x
+TECH_STREETS_DESC;Improved bows and Crossbows.;;;;;;;;;;;;;x
+TECH_BOULEVARD;Boulevard;;;;;;;;;;;;;x
+TECH_BOULEVARD_DESC;Improved Armour for skirmish troops.;;;;;;;;;;;;;x
+TECH_BUS_LINES;Bus Lines;;;;;;;;;;;;;x
+TECH_BUS_LINES_DESC;Improved bows and Crossbows.;;;;;;;;;;;;;x
+TECH_SUBWAY_LINE;Subway Line;;;;;;;;;;;;;x
+TECH_SUBWAY_LINE_DESC;Improved Armour for skirmish troops.;;;;;;;;;;;;;x
+TECH_ELECTRIC_GRID;Electric Grid;;;;;;;;;;;;;x
+TECH_ELECTRIC_GRID_DESC;Improved bows and Crossbows.;;;;;;;;;;;;;x
+TECH_NATURAL_GAS;Natural Gas;;;;;;;;;;;;;x
+TECH_NATURAL_GAS_DESC;Improved Armour for skirmish troops.;;;;;;;;;;;;;x
+TECH_SOLIDARITY;Solidarity;;;;;;;;;;;;;x
+TECH_SOLIDARITY_DESC;Improved bows and Crossbows.;;;;;;;;;;;;;x
+TECH_POLICE_CONDUCT;Police Conduct;;;;;;;;;;;;;x
+TECH_POLICE_CONDUCT_DESC;Improved Armour for skirmish troops.;;;;;;;;;;;;;x
+TECH_EMPLOYMENT;Employment;;;;;;;;;;;;;x
+TECH_EMPLOYMENT_DESC;Improved bows and Crossbows.;;;;;;;;;;;;;x
+TECH_RACIAL_EMANCIPATION;Racial Emancipation;;;;;;;;;;;;;x
+TECH_RACIAL_EMANCIPATION_DESC;Improved Armour for skirmish troops.;;;;;;;;;;;;;x
+TECH_GENDER_EMANCIPATION;Gender Emancipation;;;;;;;;;;;;;x
+TECH_GENDER_EMANCIPATION_DESC;Improved bows and Crossbows.;;;;;;;;;;;;;x
+TECH_TRADE_UNIONS;Trade Unions;;;;;;;;;;;;;x
+TECH_TRADE_UNIONS_DESC;Improved Armour for skirmish troops.;;;;;;;;;;;;;x
+BUILDING_UNLOCKS;Buildings unlocked: ;Bâtiments déverrouillés :;Freigeschaltete Gebäude: ;;Construcciones desbloqueadas:;;;;;;;;;x
+TECH_FOCUS;Tech Focus;Intérêt technologique;Tech-Fokus;;Enfoque tecnológico;;;;;;;;;x
+TECH_FOCUS_DESC;We are focusing our efforts on §Y$TECH_NAME$§!, increasing the chance of new discoveries by §Y$CHANCE$%§!.;Nous concentrons nos efforts sur §Y$TECH_NAME$§!, pour augmenter nos chances de faire de nouvelles découvertes de §Y$CHANCE$%§!.;Wir konzentrieren unsere Anstrengungen auf §Y$TECH_NAME$§! und erhöhen damit die Chance auf neue Entdeckungen durch §Y$CHANCE$%§!.;;Estamos centrándonos en §Y$TECH_NAME$§!, lo que aumenta las probabilidades de descubrir algo nuevo en un §Y$CHANCE$%§!.;;;;;;;;;x
+TECH_SET_FOCUS;Set Focus;Intérêt défini;Fokus einstellen;;Establecer enfoque;;;;;;;;;x
+TECH_SET_FOCUS_DESC;Sets the $GROUP$ focus on this advance, increasing the chance of new discoveries by §Y$CHANCE$%§!;Définit l'intérêt $GROUP$ sur ces progrès, pour augmenter nos chances de faire de nouvelles découvertes de §Y$CHANCE$%§!;Stellt den $GROUP$-Fokus auf diesen Fortschritt, was die Chance auf neue Entdeckungen durch §Y$CHANCE$%§! erhöht;;Establece el enfoque de $GROUP$ en este avance, lo que aumenta las probabilidades de descubrir algo nuevo en un §Y$CHANCE$%§!.;;;;;;;;;x
+TECH_DESC_DEFAULT;§YAverage§! and §BHighest§! advancements in your:;Affichage des progrès §Ymoyens§! et des §Bplus élevés§! de votre :;§YDurchschnittliche§! und §Bhöchste§! Fortschritte in Eurem/r:;;Mostrando los avances §Ymedios§! y §Bmás altos§! en tu:;;;;;;;;;x
+TECH_DESC_PROV;Advancements in $PROV$;Les progrès en $PROV$;Fortschritte in $PROV$;;Mostrando los avances en $PROV$;;;;;;;;;x
+TECH_PROV_TT_DESC;Name: §YLevel§W ( % chance of increase / 10 years );Nom : §YLevel§W ( % chances d'augmenter / 10 ans);Name: §YLevel§W ( % Chance auf Zuwachs / 10 Jahre );;Nombre: §YLevel§W ( % de probabilidad de aumento/10 años);;;;;;;;;x
+TECH_PROGRESS;Progress to next level: §G$PROGRESS$%§!;Progression vers le niveau suivant : §G$PROGRESS$%§!;Fortschritt zur nächsten Stufe: §G$PROGRESS$%§!;;Progreso hasta nivel siguiente: §G$PROGRESS$%§!;;;;;;;;;x
+TECH_HIGHEST_AND_AVERAGE;Highest level: §G$HIGHEST$§! ( §G$AVRG$§! average );Plus haut niveau : §G$HIGHEST$§! ( §G$AVRG$§! moyen);Höchste Stufe: §G$HIGHEST$§! ( §G$AVRG$§! Durchschnitt );;Nivel superior: §G$HIGHEST$§! (medio: §G$AVRG$§!);;;;;;;;;x
+TECH_AVRG_INC_CHANCE;Average chance of increase: §G$CHANCE$%§!;Chances d'amélioration moyennes : §G$CHANCE$%§!;Durchschnittliche Chance auf Zuwachs: §G$CHANCE$%§!;;Probabilidad media de aumento: §G$CHANCE$%§!;;;;;;;;;x
+TECH_DEMESNE;Demesne;Domaine;Domäne;;Heredad;;;;;;;;;x
+TECH_REALM;Realm;Pays;Reich;;Reino;;;;;;;;;x

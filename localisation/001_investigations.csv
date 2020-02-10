@@ -2,8 +2,11 @@ murder_investigation;Murder;;;;;;;;;;;x
 murder_suspect;Murder Suspect;;;;;;;;;;;x
 murder_suspect_desc;This character is under police investigation for charges of first degree murder.;;;;;;;;;;;x
 EVTDESCMMI.1;After the murder of [plot_target.GetFullName] police are now investigating in your neighborhood.;;;;;;;;;;;x
-EVTOPTAMMI.1;Damn!;;;;;;;;;;;x
+EVTOPTAMMI.1;How did they know?;;;;;;;;;;;x
 EVTOPTBMMI.1;Make it stop!;;;;;;;;;;;x
+EVTDESCMMI.3;It seems you are a prime suspect in a recent murder case.;;;;;;;;;;;x
+EVTOPTAMMI.3;Unfortunate.;;;;;;;;;;;x
+EVTOPTBMMI.3;Maybe I can solve this problem with a small gift.;;;;;;;;;;;x
 EVTDESCMMP.1;Kill?;;;;;;;;;;;x
 EVTOPTAMMP.1;KILL!;;;;;;;;;;;x
 MURDER_INVESTIGATION_INFO;Police lead investigations for first degree murder in this neighborhood.;;;;;;;;;;;x
