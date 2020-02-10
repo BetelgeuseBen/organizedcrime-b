@@ -2,8 +2,11 @@ murder_investigation;Murder;;;;;;;;;;;x
 murder_suspect;Murder Suspect;;;;;;;;;;;x
 murder_suspect_desc;This character is under police investigation for charges of first degree murder.;;;;;;;;;;;x
 EVTDESCMMI.1;After the murder of [plot_target.GetFullName] police are now investigating in your neighborhood.;;;;;;;;;;;x
-EVTOPTAMMI.1;Damn!;;;;;;;;;;;x
+EVTOPTAMMI.1;How did they know?;;;;;;;;;;;x
 EVTOPTBMMI.1;Make it stop!;;;;;;;;;;;x
+EVTDESCMMI.3;It seems you are a prime suspect in a recent murder case.;;;;;;;;;;;x
+EVTOPTAMMI.3;Unfortunate.;;;;;;;;;;;x
+EVTOPTBMMI.3;Maybe I can solve this problem with a small gift.;;;;;;;;;;;x
 EVTDESCMMP.1;Kill?;;;;;;;;;;;x
 EVTOPTAMMP.1;KILL!;;;;;;;;;;;x
 MURDER_INVESTIGATION_INFO;Police lead investigations for first degree murder in this neighborhood.;;;;;;;;;;;x
@@ -40,3 +43,16 @@ EPIDEMICS_TOOLTIP_DELAYED_OTHERS;Other investigations in the world:;;;;;;;;;;;;;
 EPIDEMICS_TOOLTIP_DELAYED_OTHERS_NOPLAYER;New York's ongoing major investigations:;;;;;;;;;;;;;x
 MAPMODE_EPIDEMICS;§YInvestigations§!;;;;;;;;;;;;;x
 MAPMODE_EPIDEMICS_DESC;This map mode shows all neighborhoods affected by investigations.;;;;;;;;;;;;;x
+
+disease_defence;Resistance to investigations;;;;;;;;;;;;;x
+notorious_1;Somewhat Notorious;;;;;;;;;;;;;x
+notorious_1_desc;This neighborhood is locally known to harbour a raised prevalence of thugs and petty crime.;;;;;;;;;;;;;x
+notorious_2;Notorious;;;;;;;;;;;;;x
+notorious_2_desc;This neighborhood is notorious for the amount of crime and violence happening in its streets.;;;;;;;;;;;;;x
+notorious_3;Highly Notorious;;;;;;;;;;;;;x
+notorious_3_desc;This neighborhood is out of control. You don't want to walk these streets at night. In fact, you never want to walk them.;;;;;;;;;;;;;x
+
+EVTDESCRIP.11712;The reputation of [Root.GetName] has gotten worse.;;;;;;;;;;;;;x
+EVTOPTARIP.11712;A worrying development.;;;;;;;;;;;;;x
+EVTDESCRIP.11719;Due to the recent developments, [Root.GetName] has lost some of its notoriety.;;;;;;;;;;;;;x
+EVTOPTARIP.11719;Interesting...;;;;;;;;;;;;;x

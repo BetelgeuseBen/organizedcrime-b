@@ -15,9 +15,13 @@ feudal_governments = {
 		preferred_holdings = { CASTLE }
 		allowed_holdings = { 
 			CASTLE 
+			CITY
+			TEMPLE
 			FORT
 			HOSPITAL
 		}
+		
+		can_build_tribal = no
 		
 		can_demand_religious_conversion = no
 	}
@@ -39,10 +43,14 @@ feudal_governments = {
 		
 		preferred_holdings = { CASTLE }
 		allowed_holdings = { 
-			CASTLE 
+			CASTLE
+			CITY
+			TEMPLE
 			FORT
 			HOSPITAL
 		}
+		
+		can_build_tribal = no
 		
 		can_demand_religious_conversion = no
 	}
@@ -65,9 +73,13 @@ feudal_governments = {
 		preferred_holdings = { CASTLE }
 		allowed_holdings = { 
 			CASTLE 
+			CITY
+			TEMPLE
 			FORT
 			HOSPITAL
 		}
+		
+		can_build_tribal = no
 		
 		can_demand_religious_conversion = no
 	}

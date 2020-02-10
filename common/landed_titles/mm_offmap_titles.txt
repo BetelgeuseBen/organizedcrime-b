@@ -1,0 +1,15 @@
+e_national_guard = {
+	landless = yes
+	primary = yes
+
+	culture = yankee
+	religion = upright
+	
+	title = CHIEF
+	title_female = CHIEF
+	
+	short_name = yes
+
+	color={ 0 0 0 }
+	color2={ 0 0 0 }
+}
