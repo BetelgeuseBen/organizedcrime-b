@@ -1,5 +1,6 @@
 TO FINISH
 
+-Finish the 1 other mafia family bosses
 -Finish the 5 mafia family underbosses
 
 RESEARCH
@@ -19,7 +20,6 @@ RESEARCH
 MODDING
 
 -Add more Mafia traits
--Add mechanics for the Criminal Underworld
 
 GRAPHIC DESIGN
 
@@ -36,8 +36,11 @@ NOTES
 	Salvatore Maranzano
 	Giuseppe Morello
 
--Tukish Invasion could be reused as invasion of new gangs
--Mongole Invasion could maybe be reused for a majore change in politics of the NYC gangs
+-Tukish Invasion could be reused as invasion of new gangs?
+-Mongole Invasion could maybe be reused for a truely united mafia?
+-Find a good alt-history scenario to replace Atztec Invasion
+	~Find a name for the new scenario
+-Give the other researchers things to research
 
 IDEA CORNER
 -"Monarchiest" Movement
@@ -55,9 +58,5 @@ IDEA CORNER
 
 -Non-Player Placeholder Goverment
 	A Goverment Type that represents regions that have no "owner" and need to be either conquered or boughted
-
 -Option to buy Land
-	Give the player and maybe the AI to buy provinces that have either no proper owner or are owned by a real 		estate company
-
--Code Red, an alternive timeline
-	An Alt-History Scenario for Mafia Kings, the main feature of this event would be the Nuclear Apocalypse 		that whipes out most of human civilisation. The Player, and the AI, would have a few different options to 		survive the event and after that to restart society, by either trying to restore the old order or to create 	a new one.
+	Give the player and maybe the AI to buy provinces that have no "Owner"
