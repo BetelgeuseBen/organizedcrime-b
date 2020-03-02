@@ -1,28 +1,36 @@
-offmap_federal_government = {
-	name = fed_gov_fed_gov
-	window_name = domestic_offmaps_window				#tbd
-	button_name = icon_offmaps_entry					#tbd
-	currency_name = TXT_FEDERAL_INFLUENCE
-	currency_gain = monthly_federal_influence
-	currency_reset_on_dynasty_change = no
-	holder_title = title_us_president
-	governor_title = e_national_guard
+offmap_china = {
+	name = china_china
+	window_name = domestic_offmaps_window
+	button_name = icon_offmaps_entry
+	currency_name = TXT_GRACE
+	currency_gain = monthly_grace
+	currency_reset_on_dynasty_change = yes
+	holder_title = title_china_emperor			# minor title used to identify a character as holder of this offmap power
+	governor_title = e_china_west_governor
 	tier = emperor
-	non_aggression_modifier = peace_deal_with_china		#tbd
-	coa_religion = upright
-	government = presidential_republic
-	beginning_of_history = 1776.7.4
-	sound = china_interaction_interface					#tbd?
+	non_aggression_modifier = peace_deal_with_china
+	coa_religion = taoist
+	government = confucian_bureaucracy
+	beginning_of_history = 618.6.18
+	sound = china_interaction_interface
 	display_trigger = {
-		always = yes
+		always = no
+		has_dlc = "Jade Dragon"
 	}
 	policies = {
-		federal_prohibition
-		#...
+		china_open
+		china_isolationist
+		china_expansionist
 	}
 	statuses = {
-		federal_booming
-		#...
+		china_stable
+		china_unrest
+		china_civil_war
+		china_mongol_invasion
+		china_jurchen_invasion
+		china_famine
+		china_plague
+		china_golden_age
 	}
 	buttons = {
 		offmap_gifts = {
@@ -130,66 +138,141 @@ offmap_federal_government = {
 	}
 	
 	monthly_currency_gain = {
-		#currency is mostly to be gained by investing piety
+		offmap_same_dynasty = {
+			value = 10
+			offmap_china = { offmap_ruler = { dynasty = FROM } }
+		}
+		offmap_war_with_me = {
+			value = -10
+			war_with = FROM
+		}
+		offmap_likes_me = {
+			value = 1
+			FROM = { is_liked_by_China_trigger = yes }
+			is_within_diplo_range = FROM
+		}
+		offmap_likes_tributaries = {
+			value = 2
+			offmap_china = {			
+				offmap_has_like = likes_tributaries
+			}
+			FROM = {
+				is_tributary = {
+					type = offmap
+				}
+			}
+		}
+		vassal_of_WP = {
+			value = 2
+			FROM = {
+				liege = {
+					has_landed_title = e_china_west_governor
+				}
+			}
+		}
+		offmap_same_culture_and_religion = {
+			value = 2
+			offmap_ruler = {
+				culture = FROM
+				religion = FROM
+			}
+			is_within_diplo_range = FROM
+		}
 	}
 	
 	temple_names = {
 		{ # Founder names
-			George
+			Gaozu
+			Taizu
+			Shizu
+			Zhaozu
+			Jingzu
+			Xianzu
+			Liezu
+			Chengzu
 		}
 		{ # Successor names
-			Benjamin
-			John
-			Thomas
-			James
-			Andrew
-			Martin
-			William
-			Zachary
-			Millard
-			Franklin
-			Abraham
-			Ulysses
-			Rutherford
-			Chester
-			Grover
-			Theodore
-			Woodrow
-			Warren
-			Calvin
-			Herbert
-			Harry
-			Dwight
-			Lyndon
-			Richard
-			Gerald
-			Jimmy
-			Ronald
+			Zhenzong
+			Renzong
+			Zhongzong
+			Yingzong
+			Shenzong
+			Zhezhong
+			Huizong
+			Qinzong
+			Xiaozong
+			Guangzong
+			Ningzong
+			Lizong
+			Duzong
+			Duanzong
+			Xuanzong
+			Suzong
+			Daizong
+			Muzong
+			Jingzong
+			Wenzong
+			Wuzong
+			Zhaozong
+			Xizong
+			Xuanzong
+			Shizong
+			Zhangzong
+			Ruizong
+			Dingzong
+			Xianzong
+			Chengzong
+			Mingzong
+			Jinzong
+			Yizong
+			Xiangzong
+			Huanzong
+			Chongzong
+			Daozong
+			Liezong
+			Aizong
+			Zhangzong
+			Dezong
+			Shengzong
+			Xingzong
+			Kangzong
+			Zhuangzong
+			Pingzong
+			Sizong
+			Anzong
+			Yangzong
+			Shangzong
+			Shunzong
+			Zhizong
+			Chuangzong
+			Shaozong
+			Gongzong
+			Yingzong
 		}
 	}
 	holder_succession = {
-		is_female = {
-			value = 0
+		is_female = {					# chances of getting a female holder, as a percentage: if the total is >= 100, the new holder will always be female. If the total is <= 0, the new holder will always be male
+			value = 5
 			additive_modifier = {
-				value = 2
-				year = 1960
-			}
-			additive_modifier = {
-				value = 3
-				year = 1970
-			}
-			additive_modifier = {
-				value = 5
-				year = 2000
-			}
-			additive_modifier = {
-				value = 10
-				year = 2020
+				value = 45
+				has_game_rule = {
+					name = gender
+					value = all
+				}
 			}
 		}
 		culture = {
-			yankee = { # default culture for new president
+			han = { # default culture for new emperor
 				value = 99 # if any other value reaches 100, it will be picked instead
+			}
+			FROM = { # default culture for new emperor
+								# the left side here (and for culture, religion, graphical_culture and dynasty) can be a right hand side value (FROM, ROOT, a culture name, etc). and the right hand side / inside the brackets is a standard MTTH evaluation. Only the one with the highest weight will be used. If there's a tie, one of the tied values is picked at random
+				value = 0
+				additive_modifier = { #the new emperor will keep current culture if things are great
+					value = 100
+					#china_is_fine_trigger = yes
+					FROM = { culture_scope = { always = yes } } # Essentially a check that the previous emperor actually exists
+				}
 			}
 		}
 
@@ -200,13 +283,21 @@ offmap_federal_government = {
 		}
 
 		religion = {
-			upright = { # default religion for new president
+			taoist = { # default religion for new emperor
 				value = 99 # if any other value reaches 100, it will be picked instead (unless equal, then it will randomize)
+			}
+			FROM = {
+				value = 0
+				additive_modifier = { # the new emperor will keep current religion if things are great
+					value = 100
+					#china_is_fine_trigger = yes
+					FROM = { religion_scope = { always = yes } } # Essentially a check that the previous emperor actually exists
+				}
 			}
 		}
 
 		dynasty = {
-			FROM = { #default dynasty for new president
+			FROM = { #default dynasty for new emperor
 				value = 99 #might drop from modifiers -- highest value will be picked instead (unless equal, then it will randomize)
 			}
 			actually_culture = {
@@ -1060,14 +1151,14 @@ offmap_federal_government = {
 			}
 			top_liege = {
 				suzerain = {
-					has_landed_title = e_national_guard
+					has_landed_title = e_china_west_governor
 				}
 			}
 			any_neighbor_independent_ruler = {
 				OR = {
-					has_landed_title = e_national_guard
+					has_landed_title = e_china_west_governor
 					suzerain = {
-						has_landed_title = e_national_guard
+						has_landed_title = e_china_west_governor
 					}
 				}
 			}

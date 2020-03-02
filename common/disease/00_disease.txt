@@ -1,5 +1,5 @@
 murder_investigation = { # Murder Investigation
-	contagiousness = 0.10
+	contagiousness = 0.50
 	outbreak_chance = 0.00
 	effect = {
 		local_tax_modifier = -0.40
@@ -8,69 +8,21 @@ murder_investigation = { # Murder Investigation
 	}
 	icon = 3
 	tooltip = MURDER_INVESTIGATION_INFO
-	months = 12
+	months = 18
 	trait = murder_suspect
 	always_get_message = no
 	color = { 60 0 0 }
 	timeperiod = { # Normal Outbreak
 	}
 	yearly_province_pulse = {
-		change_variable = {
-			which = notoriety_value
-			value = 10
-		}
-#		random_list = {		
-#			92 = {
-#			}
-#			8 = {
-#			}
-#		}
 	}
 	character_infection_chances = {
-		months = 3
-		
+		months = 1
 	}
 	on_character_infection = {
-		if = {
-			limit = {
-				NOT = {
-					trait = murder_suspect
-				}
-				age = 16
-			}			
-			random_list = {
-				10 = { # Get the disease
-					modifier = {
-						factor = 2
-						decadence = 50
-					}
-					modifier = {
-						factor = 2
-						decadence = 30
-					}
-					modifier = {
-						factor = 2
-						decadence = 10
-					}
-					modifier = {
-						factor = 3
-						check_variable = {
-							which = murder_count
-							value = 1
-						}
-					}
-					character_event = { id = MMI.3 }
-				}
-				90 = { # Nothing happens
-				}
-			}
-		}
+		add_trait = murder_suspect
 	}
 	on_province_infection = {
-		change_variable = {
-			which = notoriety_value
-			value = 10
-		}
 	}
 
 	disease_gfx = disease_gfx_typhus

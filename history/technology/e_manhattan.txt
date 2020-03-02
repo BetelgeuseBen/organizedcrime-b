@@ -5,7 +5,6 @@ technology = {
 		d_central_harlem
 		d_central_park
 		d_chelsea
-		d_chinatown
 		d_civic_center
 		d_east_harlem
 		d_east_village

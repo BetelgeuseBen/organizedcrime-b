@@ -430,9 +430,11 @@ plot_kill_character = {
 	}
 	effect = {
 		FROM = {
+			change_intrigue = 1
 			# Clear flags
 			hidden_tooltip = {
 				clr_character_flag = murder_in_motion
+				set_character_flag = fsakljkeojd
 			}
 		}
 	}
