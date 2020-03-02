@@ -172,21 +172,3 @@ character_event = {
 	}
 }
 
-# Temporary: Add made man trait
-character_event = {
-	id = MMIE.6
-	hide_window = yes
-	
-	trigger = {
-		religion_group = illegal_group
-		age = 16
-		NOT = { trait = made_man }
-		is_female = no
-		#culture_group = italian
-	}
-	mean_time_to_happen = {
-		months = 1
-	}
-	immediate = {
-		add_trait = made_man
-	}
