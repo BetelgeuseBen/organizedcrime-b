@@ -20,6 +20,7 @@ MODDING
 
 -Add more Mafia traits
 -Add mechanics for the Criminal Underworld
+-Add mechanics for Upright characters
 
 GRAPHIC DESIGN
 
