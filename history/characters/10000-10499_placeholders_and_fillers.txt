@@ -1,0 +1,1315 @@
+########################
+#ID RANGE 10000 - 10499#
+########################
+
+#Everyone here is a placeholder
+10000 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10001 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10002 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10003 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10004 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10005 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10006 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10007 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10008 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10009 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10010 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10011 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10012 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10013 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10014 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10015 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10016 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10017 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10018 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10019 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10020 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10021 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10022 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10023 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10024 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10025 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10026 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}
+10027 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10028 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10029 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10030 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10031 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10032 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10033 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10034 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10035 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10036 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10037 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10038 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10039 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10040 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10041 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10042 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10043 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10044 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10045 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10046 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10047 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10048 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10049 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10050 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10051 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10052 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10053 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10054 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10055 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10056 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10057 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10058 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10059 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10060 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10061 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10062 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10063 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10064 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10065 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10066 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10067 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10068 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10069 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10070 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10071 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10072 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10073 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10074 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10075 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10076 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10077 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10078 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10079 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10080 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10081 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10082 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10083 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10084 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10085 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10086 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10087 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10088 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10089 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10090 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10091 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10092 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10093 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10094 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10095 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10096 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10097 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10098 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10099 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10100 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10101 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10102 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10103 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10104 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10105 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10106 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10107 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10108 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10109 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10110 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10111 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10112 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10113 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10114 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10115 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10116 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10117 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10118 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10119 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10120 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10121 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10122 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10123 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10124 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10125 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10126 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10127 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10128 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10129 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
+10130 = {
+    name = Joe
+    dynasty = 0
+	
+    religion=criminal
+    culture=yankee
+  
+    1890.01.01 = { birth=yes }
+    1921.01.01 = { death=yes }
+}    
