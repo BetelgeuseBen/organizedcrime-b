@@ -13,7 +13,7 @@ b_homecrest = castle
 #b_avenue_r_2 = city
 
 # Misc
-culture = unknown_italian
+culture = polentonese
 religion = upright
 
 #History

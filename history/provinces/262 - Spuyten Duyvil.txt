@@ -13,7 +13,7 @@ b_independence_ave = city
 #b_netherland_ave = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = criminal
 
 #History

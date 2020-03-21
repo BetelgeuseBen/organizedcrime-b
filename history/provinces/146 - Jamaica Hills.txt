@@ -12,7 +12,7 @@ b_jamaica_hills = castle
 #b_midland_pkwy = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

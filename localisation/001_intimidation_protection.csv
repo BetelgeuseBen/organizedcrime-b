@@ -1,0 +1,14 @@
+TRIBUTARY_PROTECTION_NAME;Client;;;;;;;;;;;;;x
+TRIBUTARY_PROTECTION_PLURAL;Clients;;;;;;;;;;;;;x
+SUZERAIN_PROTECTION_NAME;Protector;;;;;;;;;;;;;x
+TRIBUTARY_PROTECTION_TRIBUTE;Protection Money;;;;;;;;;;;;;x
+WAR_NAME_INTIMIDATION;$ORDER$$FIRST_ADJ$ Extortion War with $DEFENDER$;;;;;;;;;;;;;x
+REMOVE_PREVIOUS_PROTECTOR;Remove previous protector.;;;;;;;;;;;;;x
+EVTDESCMMIN.1;Dear [GetMrMrsMiss] [Root.GetOnlyDynastyName],\n it must surely have come to your attention that we live in uncertain times. As I care for your well-being I want to make you an offer: I will extend my protection over you, in exchange for a small contribution to our prosperity on your part.\n It's really an offer you can't refuse.\n With kind regards,\n [FromFrom.GetDynName];;;;;;;;;;;;;x
+EVTOPTAMMIN.1;I need the protection.;;;;;;;;;;;;;x
+EVTOPTBMMIN.1;I will not be extorted by [FromFrom.GetOnlyDynastyName]'s goons!;;;;;;;;;;;;;x
+EVTDESCMMIN.2;Dear [GetMrMrsMiss] [Root.GetOnlyDynastyName],\n I was deeply impressed by your recent message. I will make sure to arrange for the payments you demand.\n Yours truly,\n [FromFrom.GetDynName];;;;;;;;;;;;;x
+EVTOPTAMMIN.2;Good.;;;;;;;;;;;;;x
+recently_intimidated;Intimidated me;;;;;;;;;;;;;x
+intimidate_character;Intimidate;;;;;;;;;;;;;x
+intimidate_character_desc;Sending a vaguely intimidating letter to [Root.GetDynName] might make [Root.GetHerHim] pay us a share of [Root.GetHerHis] income. If [Root.GetOnlyDynastyName] doesn't react, we will have to fight a war.;;;;;;;;;;;;;x

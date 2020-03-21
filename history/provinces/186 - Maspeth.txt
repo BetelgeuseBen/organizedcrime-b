@@ -13,7 +13,7 @@ b_maspeth = castle
 #b_65th_pl = city
 
 # Misc
-culture = yankee
+culture = german
 religion = upright
 
 #History

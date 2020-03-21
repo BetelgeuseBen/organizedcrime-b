@@ -13,7 +13,7 @@ b_woodside = castle
 #b_roosevelt_ave = city
 
 # Misc
-culture = yankee
+culture = irish
 religion = upright
 
 #History

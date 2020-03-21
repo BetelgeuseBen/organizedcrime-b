@@ -12,7 +12,7 @@ b_wakefield = castle
 #b_bussing_ave = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

@@ -13,7 +13,7 @@ b_concourse_waterfront = castle
 #b_151st_st = city
 
 # Misc
-culture = yankee
+culture = irish
 religion = criminal
 
 #History

@@ -1,0 +1,223 @@
+d_detective_bureau_manhattan_north = {
+	color={ 0 0 128 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 423 # Mount Morris Park
+	
+	title = "DEPUTY_CHIEF"
+	foa = "DEPUTY_CHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = detective_bureau_composition
+	
+	culture = american
+	
+	religion = upright
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to funding
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_detective_bureau_manhattan_south = {
+	color={ 0 0 128 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 314 # City Hall
+	
+	title = "DEPUTY_CHIEF"
+	foa = "DEPUTY_CHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = detective_bureau_composition
+	
+	culture = american
+	
+	religion = upright
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to funding
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_detective_bureau_brooklyn_north = {
+	color={ 0 0 128 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 33 # Downtown
+	
+	title = "DEPUTY_CHIEF"
+	foa = "DEPUTY_CHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = detective_bureau_composition
+	
+	culture = american
+	
+	religion = upright
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to funding
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_detective_bureau_brooklyn_south = {
+	color={ 0 0 128 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 101 # Flatlands
+	
+	title = "DEPUTY_CHIEF"
+	foa = "DEPUTY_CHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = detective_bureau_composition
+	
+	culture = american
+	
+	religion = upright
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to funding
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_detective_bureau_queens_north = {
+	color={ 0 0 128 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 212 # Flushing
+	
+	title = "DEPUTY_CHIEF"
+	foa = "DEPUTY_CHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = detective_bureau_composition
+	
+	culture = american
+	
+	religion = upright
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to funding
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_detective_bureau_queens_south = {
+	color={ 0 0 128 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 159 # Ozone Park
+	
+	title = "DEPUTY_CHIEF"
+	foa = "DEPUTY_CHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = detective_bureau_composition
+	
+	culture = american
+	
+	religion = upright
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to funding
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_detective_bureau_bronx = {
+	color={ 0 0 128 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 281 # Westchester Square
+	
+	title = "DEPUTY_CHIEF"
+	foa = "DEPUTY_CHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = detective_bureau_composition
+	
+	culture = american
+	
+	religion = upright
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to funding
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+
+d_detective_bureau_staten_island = {
+	color={ 0 0 128 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 1 # St. George
+	
+	title = "DEPUTY_CHIEF"
+	foa = "DEPUTY_CHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = detective_bureau_composition
+	
+	culture = american
+	
+	religion = upright
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to funding
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}

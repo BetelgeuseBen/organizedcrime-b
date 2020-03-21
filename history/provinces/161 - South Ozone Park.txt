@@ -13,7 +13,7 @@ b_south_ozone_park = castle
 #b_lefferts_blvd_2 = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

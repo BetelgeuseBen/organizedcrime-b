@@ -15,7 +15,7 @@ b_white_st = castle
 #b_franklin_st_2 = castle
 
 # Misc
-culture = unknown_italian
+culture = apulian
 religion = criminal
 
 #History

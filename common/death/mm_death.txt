@@ -1,0 +1,45 @@
+death_accident_gun = {
+	violent = yes
+	long_desc = "DEATH_ACCIDENT_GUN"
+	sound_list = {
+		female = {
+			"cruxifiction_female_01"
+			"cruxifiction_female_02"
+		}
+		male = {
+			"cruxifiction_male_01"
+			"cruxifiction_male_02"
+		}
+	}
+}
+
+death_accident_car = {
+	violent = yes
+	long_desc = "DEATH_ACCIDENT_CAR"
+	sound_list = {
+		female = {
+			"arrow_in_the_back_female"
+		}
+		male = {
+			"arrow_in_the_back_male"
+		}
+	}
+}
+
+death_accident_fire = {
+	violent = yes
+	long_desc = "DEATH_ACCIDENT_FIRE"
+	sound_list = {
+		female = {
+			"burning_female_01"
+			"burning_female_02"
+			"burning_female_03"
+		}
+		male = {
+			"burning_male_01"
+			"burning_male_02"
+			"burning_male_03"
+			"burning_male_04"
+		}
+	}
+}

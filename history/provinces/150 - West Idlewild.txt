@@ -11,7 +11,7 @@ b_west_idlewild = castle
 #b_shoreline_dr_2 = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

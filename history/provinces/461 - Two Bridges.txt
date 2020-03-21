@@ -7,14 +7,14 @@ title = c_two_bridges
 max_settlements = 5
 
 b_two_bridges = castle
-b_cherry_st_2 = city
-b_water_st_6 = temple
-#b_monroe_st = castle
+b_cherry_st_3 = city
+b_water_st_7 = temple
+#b_monroe_st_2 = castle
 #b_market_st_3 = city
 #b_madison_st_4 = temple
 
 # Misc
 culture = chinese
-religion = upright
+religion = criminal
 
 #History

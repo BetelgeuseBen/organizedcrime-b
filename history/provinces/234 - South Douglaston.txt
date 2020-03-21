@@ -11,7 +11,7 @@ b_south_douglaston = castle
 #b_hewlett_st = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

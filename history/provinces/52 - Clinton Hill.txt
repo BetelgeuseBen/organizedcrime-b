@@ -14,7 +14,7 @@ b_vanderbilt_ave_2 = city
 #b_clinton_ave = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

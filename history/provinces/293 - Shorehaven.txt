@@ -11,7 +11,7 @@ b_shorehaven = castle
 #b_gildersleeve_ave = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

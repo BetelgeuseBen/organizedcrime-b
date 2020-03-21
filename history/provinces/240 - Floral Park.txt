@@ -11,7 +11,7 @@ b_floral_park = castle
 #b_82nd_ave = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

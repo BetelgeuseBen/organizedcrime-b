@@ -13,7 +13,7 @@ b_150th_st_3 = city
 #b_3rd_ave_6 = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

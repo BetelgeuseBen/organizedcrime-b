@@ -11,7 +11,7 @@ b_beach_front_rd = city
 #b_ocean_ave_5 = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

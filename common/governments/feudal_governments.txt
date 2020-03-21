@@ -6,6 +6,7 @@ feudal_governments = {
 		frame_suffix = "_business"
 		potential = {
 			religion_group = legal_group
+			NOT = { is_government_potential = police_government }
 		}
 		
 		uses_decadence = yes
@@ -16,7 +17,6 @@ feudal_governments = {
 		allowed_holdings = { 
 			CASTLE 
 			CITY
-			TEMPLE
 			FORT
 			HOSPITAL
 		}
@@ -26,15 +26,12 @@ feudal_governments = {
 		can_demand_religious_conversion = no
 	}
 	
-	mafia_government = {
+	crime_syndicate_government = {
 		color = {0.55 0.15 0.10}
-		title_prefix = "mafia_"
-		frame_suffix = "_mafia"
+		title_prefix = "syndicate_"
+		frame_suffix = "_syndicate"
 		potential = {
-			AND = {
-				religion_group = illegal_group
-				culture_group = italian
-			}
+			religion_group = illegal_group
 		}
 		
 		uses_decadence = yes
@@ -45,7 +42,6 @@ feudal_governments = {
 		allowed_holdings = { 
 			CASTLE
 			CITY
-			TEMPLE
 			FORT
 			HOSPITAL
 		}
@@ -55,32 +51,65 @@ feudal_governments = {
 		can_demand_religious_conversion = no
 	}
 	
-	gang_government = {
-		color = {0.45 0.35 0.10}
-		title_prefix = "gang_"
-		frame_suffix = "_gang"
-		potential = {
-			AND = {
-				religion_group = illegal_group
-				NOT = {culture_group = italian}
-			}
-		}
-		
-		uses_decadence = yes
-		dukes_called_kings = yes
-		barons_need_dynasty = yes
-		
-		preferred_holdings = { CASTLE }
-		allowed_holdings = { 
-			CASTLE 
-			CITY
+	police_government = {
+		preferred_holdings = { TEMPLE }
+		allowed_holdings = {
+			CASTLE
 			TEMPLE
+			TRIBAL
 			FORT
 			HOSPITAL
 		}
+		accepts_liege_governments = {
+			feudal_government
+			muslim_government
+			theocracy_government
+			theocratic_feudal_government
+			chinese_imperial_government
+		}
+		free_revoke_on_governments = {
+			order_government
+		}
+		free_revoke_on_tiers = {
+			BARON
+		}
+
+		forced_contract = {
+			order_government
+		}
+
+		frame_suffix = "_police"
+		title_prefix = "police_"
+
+		potential = {
+			religion_group = legal_group
+			OR = {
+				holy_order = yes
+				AND = {
+					any_liege = {
+						holy_order = yes
+						religion = ROOT
+					}
+					ai = yes
+				}
+			}
+		}
 		
 		can_build_tribal = no
-		
-		can_demand_religious_conversion = no
+
+		color = { 0 0 128 }
+
+		have_gender_laws = no
+		can_create_kingdoms = no
+		can_create_empires = no
+		can_imprison_without_reason = no
+		can_revoke_without_reason = no
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		can_usurp_kingdoms_and_empires = no
+		can_grant_kingdoms_and_empires_to_other_government = no
+		can_be_granted_kingdoms_and_empires_by_other_government = no
+		can_inherit = no
+		free_retract_vassalage = yes
 	}
 }

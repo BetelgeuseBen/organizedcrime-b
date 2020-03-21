@@ -1,3 +1,17 @@
+# Religion-specific opinion can be added to modifiers (E.G., norse_pagan_opinion = 5), but the modifier *has* to be defined in 00_modifier_definitions.txt as well. It also needs localisation. Works for groups as well
+
+# join_crusade_if_bordering_hostile = yes # The AI won't refrain from joining a crusade simply because it borders a heathen/heretic realm
+
+# This trigger defines who can see a character's secret religion. The character with the secret religion is FROM, while the viewer is ROOT
+# Characters can always see their own secret religion. The observer can see all secret religions
+secret_religion_visibility_trigger = {
+	secret_religion = FROM
+}
+
+# women_can_take_consorts = yes # If set, women can take consorts as well, not just men. Defaults to "no". Has no effect if max_consorts is 0
+# men_can_take_consorts = no # If set, men cannot take consorts any more. Defaults to "yes". Has no effect if max_consorts is 0
+# male_temple_holders = no # If set to no, men cannot hold temples. Defaults to "yes". You might need to update your law scripts for this to fully work (see trigger "religion_allows_male_temple_holders")
+
 illegal_group = {
 	color = { 0.40 0.05 0.05 }
 	graphical_culture = westerngfx
@@ -47,9 +61,6 @@ illegal_group = {
 			
 			garrison_size = 0.6
 		}
-		character_modifier = {
-			intrigue = 2
-		}
 	}
 }
 
@@ -83,6 +94,7 @@ legal_group = {
 		female_temple_holders = yes
 		aggression = 1.0
 		autocephaly = yes
+		pentarchy = yes
 		has_heir_designation = yes
 		unit_home_modifier = {
 			land_morale = 0.8
@@ -102,4 +114,3 @@ legal_group = {
 		}
 	}
 }
-

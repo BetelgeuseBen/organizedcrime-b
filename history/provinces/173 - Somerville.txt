@@ -11,7 +11,7 @@ b_somerville = castle
 #b_almeda_ave = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

@@ -13,7 +13,7 @@ b_forest_hills = castle
 #b_grand_central_pkwy = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

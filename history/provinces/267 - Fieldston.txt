@@ -13,7 +13,7 @@ b_fieldston = castle
 #b_waldo_ave = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

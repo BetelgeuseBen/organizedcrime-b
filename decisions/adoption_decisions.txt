@@ -1,0 +1,164 @@
+targetted_decisions = {
+	adopt = {
+		is_high_prio = yes
+		ai_check_interval = 12
+		only_playable = yes
+		filter = home_court
+		
+		from_potential = {
+			has_character_flag = character_adopting
+		}
+		potential = {
+			is_ruler = no
+			is_heir = no
+			prisoner = no
+			is_incapable = no
+			NOT = { dynasty = FROM }
+			NOT = { trait = adopted }
+			NOT = { is_close_relative = FROM }
+		}
+		allow = {
+			FROM = { prestige = 100 }
+			opinion = { who = FROM value = 80 }
+			#reverse_opinion = { who = FROM value = 80 }
+		}
+		effect = {
+			FROM = {
+				prestige = -100
+				clr_character_flag = character_adopting
+			}
+			dynasty = FROM
+			add_trait = adopted
+			recalc_succession = yes
+			opinion = { modifier = opinion_adoption who = FROM }
+			reverse_opinion = { modifier = opinion_adoption who = FROM }
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
+
+decisions = {	
+	renounce_dynasty = {
+		ai_check_interval = 60
+		only_playable = yes
+		
+		potential = {
+			trait = adopted
+			is_ruler = yes
+			OR = {
+				any_close_relative = { NOT = { trait = adopted } }
+				NOT = { any_close_relative = { always = yes } }
+			}
+		}
+		allow = {
+			prestige = 250
+			NOT = { any_liege = { dynasty = PREV } }
+		}
+		effect = {
+			custom_tooltip = { text = adoption_decision_tooltip }
+			prestige = -250
+			any_vassal = {
+				if = {
+					limit = {
+						has_opinion_modifier = {
+							who = ROOT
+							modifier = opinion_inherited
+						}
+					}
+					remove_opinion = {
+						who = ROOT
+						modifier = opinion_inherited
+					}
+					opinion = {
+						who = ROOT
+						modifier = opinion_renounced_liege_dynasty_negative
+						years = 15
+					}
+				}
+				if = {
+					limit = {
+						dynasty  = PREV
+					}
+					opinion = {
+						who = ROOT
+						modifier = opinion_renounced_liege_dynasty_negative
+						years = 50
+					}
+				}
+			}
+			any_dynasty_member = {
+				opinion = {
+					who = ROOT
+					modifier = opinion_renounced_liege_dynasty_negative
+					years = 50
+				}
+			}
+			any_courtier_or_vassal = {
+				if = {
+					limit = {
+						spouse = {
+							dynasty = ROOT
+						}
+					}
+					opinion = {
+						who = ROOT
+						modifier = opinion_renounced_liege_dynasty_negative
+						years = 50
+					}
+				}
+			}
+			if = {
+				limit = {
+					NOT = { any_close_relative = { always = yes } }
+				}
+				hidden_tooltip = {
+					create_character = {
+						age = 80
+						health = 0.1
+						fertility = 0
+						religion = ROOT
+						culture = ROOT
+						genetic_father = ROOT
+						race = ROOT
+						dynasty = actually_culture
+					}
+					set_father = new_character
+				}
+				custom_tooltip = { text = father_moves_to_court }
+			}
+			random_close_relative = {
+				preferred_limit = {
+					is_father = ROOT
+					NOT = { trait = adopted }
+				}
+				preferred_limit = {
+					is_mother = ROOT
+					NOT = { trait = adopted }
+				}
+				ROOT = {
+					dynasty = PREV
+				}
+			}
+			remove_trait = adopted
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0.1
+			modifier = {
+				factor = 0.0
+				trait = humble
+			}
+			modifier = {
+				factor = 2.0
+				trait = proud
+			}
+		}
+	}
+}

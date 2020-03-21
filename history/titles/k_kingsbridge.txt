@@ -1,5 +1,6 @@
 # k_kingsbridge
 500.1.1={
+	pentarch = b_bronx_county_district_attorneys_office
 	law = agnatic_succession
 	law = succ_gavelkind
 }

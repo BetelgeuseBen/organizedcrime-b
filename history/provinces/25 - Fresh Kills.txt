@@ -10,7 +10,7 @@ b_fresh_kills = castle
 #b_muldoon_ave = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

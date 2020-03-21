@@ -12,7 +12,7 @@ b_bloomfield = castle
 #b_5th_st = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

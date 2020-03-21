@@ -12,7 +12,7 @@ b_bay_ridge_waterfront = castle
 #b_bay_ridge_ave = castle
 
 # Misc
-culture = unknown_italian
+culture = calabrian
 religion = upright
 
 #History

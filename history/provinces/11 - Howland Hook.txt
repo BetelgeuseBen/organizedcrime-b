@@ -12,7 +12,7 @@ b_howland_hook = castle
 #b_goethals_rd = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

@@ -99,8 +99,6 @@ c_castleton_corners;Castleton Corners;Castleton Corners;Castleton Corners;;Castl
 c_castleton_corners_adj;Castleton Cornersian;;Castleton Cornerser;;;;;;;;;;;x
 c_catherine_slip;Catherine Slip;Catherine Slip;Catherine Slip;;Catherine Slip;;;;;;;;;x
 c_catherine_slip_adj;Catherine Slipian;;Catherine Sliper;;;;;;;;;;;x
-c_central_bowery;Central Bowery;Central Bowery;Central Bowery;;Central Bowery;;;;;;;;;x
-c_central_bowery_adj;Central Bowerian;;Central Bowerer;;;;;;;;;;;x
 c_central_bushwick;Central Bushwick;Central Bushwick;Central Bushwick;;Central Bushwick;;;;;;;;;x
 c_central_bushwick_adj;Central Bushwickian;;Central Bushwicker;;;;;;;;;;;x
 c_central_idlewild;Central Idlewild;Central Idlewild;Central Idlewild;;Central Idlewild;;;;;;;;;x
@@ -705,6 +703,8 @@ c_south_borough_park;South Borough Park;South Borough Park;South Borough Park;;S
 c_south_borough_park_adj;South Borough Parkian;;South Borough Parker;;;;;;;;;;;x
 c_south_bowery;South Bowery;South Bowery;South Bowery;;South Bowery;;;;;;;;;x
 c_south_bowery_adj;South Bowerian;;South Bowerer;;;;;;;;;;;x
+c_south_bowery_2;South Bowery;South Bowery;South Bowery;;South Bowery;;;;;;;;;x
+c_south_bowery_2_adj;South Bowerian;;South Bowerer;;;;;;;;;;;x
 c_south_brownsville;South Brownsville;South Brownsville;South Brownsville;;South Brownsville;;;;;;;;;x
 c_south_brownsville_adj;South Brownsvillean;;South Brownsviller;;;;;;;;;;;x
 c_south_bushwick;South Bushwick;South Bushwick;South Bushwick;;South Bushwick;;;;;;;;;x

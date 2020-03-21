@@ -15,7 +15,7 @@ b_grand_st = temple
 #b_leonard_st = castle
 
 # Misc
-culture = unknown_italian
+culture = polentonese
 religion = upright
 
 #History

@@ -12,7 +12,7 @@ b_rockaway_ave_2 = city
 #b_hull_st = castle
 
 # Misc
-culture = unknown_italian
+culture = apulian
 religion = upright
 
 #History

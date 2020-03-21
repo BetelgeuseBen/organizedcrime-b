@@ -1,0 +1,41 @@
+settlement_decisions = {
+
+	demolish_street_gang = {
+		only_playable = yes
+		filter = owned
+		ai_target_filter = owned
+		is_high_prio = yes
+		ai_check_interval = 12
+		
+		from_potential = {
+			is_playable = yes
+			NOT = { government = street_gang_government }
+		}
+		
+		potential = {
+			holding_type = tribal
+		}
+		allow = {
+			FROM = { wealth = 250 }
+		}
+		effect = {
+			hidden_tooltip = {
+				location = {
+					change_variable = { which = notoriety_value value = -250 }
+					check_notoriety_level_effect = yes
+				}
+			}
+			FROM = { wealth = -250 }
+			destroy_settlement = THIS
+			custom_tooltip = { text = tooltip_notoriety_loss_major }
+		}
+		
+		revoke_allowed = {
+			always = no
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

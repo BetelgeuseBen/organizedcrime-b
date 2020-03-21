@@ -15,7 +15,7 @@ b_w_26th_st = castle
 #b_w_29th_st = castle
 
 # Misc
-culture = unknown_italian
+culture = polentonese
 religion = upright
 
 #History

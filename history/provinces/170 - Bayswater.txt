@@ -12,7 +12,7 @@ b_bayswater_ave = city
 #b_dickens_st = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

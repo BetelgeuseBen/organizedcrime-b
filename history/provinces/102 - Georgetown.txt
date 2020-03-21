@@ -12,7 +12,7 @@ b_georgetown = castle
 #b_veterans_ave = castle
 
 # Misc
-culture = unknown_italian
+culture = polentonese
 religion = upright
 
 #History

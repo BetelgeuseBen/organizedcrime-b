@@ -15,7 +15,7 @@ b_e_20th_st = castle
 #b_e_22nd_st = castle
 
 # Misc
-culture = unknown_italian
+culture = calabrian
 religion = upright
 
 #History

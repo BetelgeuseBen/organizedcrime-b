@@ -15,7 +15,7 @@ b_canal_st_3 = temple
 #b_worth_st_2 = castle
 
 # Misc
-culture = unknown_italian
+culture = polentonese
 religion = upright
 
 #History

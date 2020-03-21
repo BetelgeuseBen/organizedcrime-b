@@ -13,7 +13,7 @@ b_tremont_ave_5 = city
 #b_waters_pl = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

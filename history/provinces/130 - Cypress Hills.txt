@@ -13,7 +13,7 @@ b_fulton_st = city
 #b_ridgewood_ave = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

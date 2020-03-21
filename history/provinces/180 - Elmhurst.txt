@@ -13,7 +13,7 @@ b_broadway_5 = city
 #b_45th_ave = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

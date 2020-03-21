@@ -1,3 +1,4 @@
+#Italian Historical Dynasties 1...99
 1 = {
 	name = "Luciano"
 	culture = "sicilian"
@@ -159,6 +160,170 @@
 	culture = "sicilian"
 	used_for_random = no
 }
+
+#American Historical Dynasties 100...199
+100 = {
+	name = "Washington"
+	culture = white_american
+	used_for_random = no
+}
+
+101 = {
+	name = "Adams"
+	culture = white_american
+	used_for_random = no
+}
+
+102 = {
+	name = "Jefferson"
+	culture = white_american
+	used_for_random = no
+}
+
+103 = {
+	name = "Madison"
+	culture = white_american
+	used_for_random = no
+}
+
+104 = {
+	name = "Monroe"
+	culture = white_american
+	used_for_random = no
+}
+
+105 = {
+	name = "Adams"
+	culture = white_american
+	used_for_random = no
+}
+
+106 = {
+	name = "Jackson"
+	culture = white_american
+	used_for_random = no
+}
+
+107 = {
+	name = "Van Buren"
+	culture = white_american
+	used_for_random = no
+}
+
+108 = {
+	name = "Harrison"
+	culture = white_american
+	used_for_random = no
+}
+
+109 = {
+	name = "Tyler"
+	culture = white_american
+	used_for_random = no
+}
+
+110 = {
+	name = "Polk"
+	culture = white_american
+	used_for_random = no
+}
+
+111 = {
+	name = "Taylor"
+	culture = white_american
+	used_for_random = no
+}
+
+112 = {
+	name = "Fillmore"
+	culture = white_american
+	used_for_random = no
+}
+
+113 = {
+	name = "Pierce"
+	culture = white_american
+	used_for_random = no
+}
+
+114 = {
+	name = "Buchanan"
+	culture = white_american
+	used_for_random = no
+}
+
+115 = {
+	name = "Lincoln"
+	culture = white_american
+	used_for_random = no
+}
+
+116 = {
+	name = "Johnson"
+	culture = white_american
+	used_for_random = no
+}
+
+117 = {
+	name = "Grant"
+	culture = white_american
+	used_for_random = no
+}
+
+118 = {
+	name = "Hayes"
+	culture = white_american
+	used_for_random = no
+}
+
+119 = {
+	name = "Garfield"
+	culture = white_american
+	used_for_random = no
+}
+
+120 = {
+	name = "Arthur"
+	culture = white_american
+	used_for_random = no
+}
+
+121 = {
+	name = "Cleveland"
+	culture = white_american
+	used_for_random = no
+}
+
+122 = {
+	name = "Harrison"
+	culture = white_american
+	used_for_random = no
+}
+
+123 = {
+	name = "McKinley"
+	culture = white_american
+	used_for_random = no
+}
+
+124 = {
+	name = "Roosevelt"
+	culture = white_american
+	used_for_random = no
+}
+
+125 = {
+	name = "Taft"
+	culture = white_american
+	used_for_random = no
+}
+
+126 = {
+	name = "Wilson"
+	culture = white_american
+	used_for_random = no
+}
+
 ###################################Sicilian 500...999###################################
 
 500 = {

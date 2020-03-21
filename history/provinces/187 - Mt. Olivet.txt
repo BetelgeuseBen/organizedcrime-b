@@ -12,7 +12,7 @@ b_mt_olivet = castle
 #b_flushing_ave = castle
 
 # Misc
-culture = yankee
+culture = cemetery
 religion = upright
 
 #History

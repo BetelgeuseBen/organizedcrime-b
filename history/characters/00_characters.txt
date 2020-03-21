@@ -4,14 +4,14 @@
   
     religion=criminal
     culture=sicilian
+	
+	mother = 2
+	father = 3
   
     1867.05.02 = { birth=yes }
     1889.01.01 = { add_spouse=12 }
     1903.12.01 = { add_spouse=22 }
     1930.08.15 = { death=yes }
-	
-	mother = 2
-	father = 3
 }
 
 2 = {
@@ -21,14 +21,14 @@
 	female = yes
     religion=criminal
     culture=sicilian
+	
+	mother = 18
+	father = 17
   
     1848.05.11 = { birth=yes }
     1860.01.01 = { add_spouse=3 }
     1873.01.01 = { add_spouse=4 }
     1941.06.20 = { death=yes }
-	
-	mother = 18
-	father = 17
 }
 
 3 = {
@@ -48,12 +48,12 @@
   
     religion=criminal
     culture=sicilian
-  
-    1847.07.06 = { birth=yes }
-    1909.07.10 = { death=yes }
 	
 	mother = 20
 	father = 19
+  
+    1847.07.06 = { birth=yes }
+    1909.07.10 = { death=yes }
 }
 
 5 = {
@@ -62,12 +62,12 @@
   
     religion=criminal
     culture=sicilian
-  
-    1874.01.01 = { birth=yes }
-    1876.01.01 = { death=yes }
 	
 	mother = 2
 	father = 4
+  
+    1874.01.01 = { birth=yes }
+    1876.01.01 = { death=yes }
 }
 
 6 = {
@@ -76,12 +76,12 @@
   
     religion=criminal
     culture=sicilian
-  
-    1886.05.01 = { birth=yes }
-    1922.05.08 = { death=yes }
 	
 	mother = 2
 	father = 4
+  
+    1886.05.01 = { birth=yes }
+    1922.05.08 = { death=yes }
 }
 
 7 = {
@@ -90,13 +90,13 @@
   
     religion=criminal
     culture=sicilian
+	
+	mother = 2
+	father = 4
   
     1888.07.20 = { birth=yes }
     1909.04.25 = { add_spouse=15}
     1938.02.20 = { death=yes }
-	
-	mother = 2
-	father = 4
 }
 
 8 = {
@@ -108,9 +108,6 @@
   
     1890.01.06 = { birth=yes }
     1916.09.07 = { death=yes }
-	
-	mother = 2
-	father = 4
 }
 
 9 = {
@@ -120,12 +117,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1876.01.18 = { birth=yes }
-    1946.01.01 = { death=yes }
 	
 	mother = 2
 	father = 4
+  
+    1876.01.18 = { birth=yes }
+    1946.01.01 = { death=yes }
 }
 
 10 = {
@@ -135,12 +132,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1880.07.30 = { birth=yes }
-    1946.01.01 = { death=yes }
 	
 	mother = 2
 	father = 4
+  
+    1880.07.30 = { birth=yes }
+    1946.01.01 = { death=yes }
 }
 
 11 = {
@@ -150,12 +147,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1892.08.19 = { birth=yes }
-    1915.10.14 = { death=yes }
 	
 	mother = 2
 	father = 4
+  
+    1892.08.19 = { birth=yes }
+    1915.10.14 = { death=yes }
 }
 
 12 = {
@@ -178,12 +175,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1891.01.01 = { birth=yes }
-    1892.01.01 = { death=yes }
 	
 	father = 1
 	mother = 12
+  
+    1891.01.01 = { birth=yes }
+    1892.01.01 = { death=yes }
 }
 
 14 = {
@@ -192,12 +189,12 @@
   
     religion=criminal
     culture=sicilian
-  
-    1892.11.01 = { birth=yes }
-    1912.01.01 = { death=yes }
 	
 	father = 1
 	mother = 12
+  
+    1892.11.01 = { birth=yes }
+    1912.01.01 = { death=yes }
 }
 
 15 = {
@@ -239,7 +236,7 @@
     name=Salvatrice
     dynasty=21
 	
-      female = yes  
+    female = yes  
     religion=criminal
     culture=sicilian
   
@@ -263,7 +260,7 @@
     name=Salvatrice
     dynasty=22
   
-     female = yes
+    female = yes
     religion=criminal
     culture=sicilian
   
@@ -275,7 +272,7 @@
     name=Bernarda
     dynasty=23
   
-      female = yes
+    female = yes
     religion=criminal
     culture=sicilian
   
@@ -287,14 +284,14 @@
     name=Nicolina
     dynasty=20
   
-      female = yes
+    female = yes
     religion=criminal
     culture=sicilian
+
+	father = 23
   
     1885.03.20 = { birth=yes }
     1967.01.01 = { death=yes }
-
-	father = 23
 }
 
 23 = {
@@ -316,12 +313,12 @@
   
     religion=criminal
     culture=sicilian
+
+	father = 23
   
     1882.01.01 = { birth=yes }
     1899.01.01 = { add_spouse=9}
     1923.01.18 = { death=yes }
-
-	father = 23
 }
 
 25 = {
@@ -332,12 +329,12 @@
 
     religion=criminal
     culture=sicilian
-  
-    1872.02.28 = { birth=yes }
-    1926.12.17 = { death=yes }
 
 	father = 2
 	mother = 3
+  
+    1872.02.28 = { birth=yes }
+    1926.12.17 = { death=yes }
 }
 
 
@@ -349,12 +346,12 @@
 
     religion=criminal
     culture=sicilian
-  
-    1909.04.23 = { birth=yes }
-    1980.01.01 = { death=yes }
 
 	father = 1
 	mother = 22
+  
+    1909.04.23 = { birth=yes }
+    1980.01.01 = { death=yes }
 }
 
 27 = {
@@ -363,12 +360,12 @@
 
     religion=criminal
     culture=sicilian
-  
-    1921.04.23 = { birth=yes }
-    1980.01.01 = { death=yes }
 
 	father = 1
 	mother = 22
+  
+    1921.04.23 = { birth=yes }
+    1980.01.01 = { death=yes }
 }
 
 28 = {
@@ -377,12 +374,12 @@
 
     religion=upright
     culture=sicilian
+
+	father = 29
   
     1870.03.20 = { birth=yes }
     1898.01.01 = { add_spouse=25}
     1924.01.01 = { death=yes }
-
-	father = 29
 
 }
 
@@ -406,12 +403,12 @@
 	female = yes
     religion=upright
     culture=sicilian
-  
-    1899.01.01 = { birth=yes }
-    1960.01.01 = { death=yes }
 
 	father = 28
 	mother = 25
+  
+    1899.01.01 = { birth=yes }
+    1960.01.01 = { death=yes }
 }
 
 31 = {
@@ -420,12 +417,12 @@
 
     religion=upright
     culture=sicilian
-  
-    1902.09.01 = { birth=yes }
-    1984.01.01 = { death=yes }
 
 	father = 28
 	mother = 25
+  
+    1902.09.01 = { birth=yes }
+    1984.01.01 = { death=yes }
 }
 
 32 = {
@@ -435,12 +432,12 @@
 	female = yes
     religion=upright
     culture=sicilian
-  
-    1905.01.01 = { birth=yes }
-    1980.01.01 = { death=yes }
 
 	father = 28
 	mother = 25
+  
+    1905.01.01 = { birth=yes }
+    1980.01.01 = { death=yes }
 }
 
 33 = {
@@ -449,12 +446,12 @@
 
     religion=upright
     culture=sicilian
-  
-    1907.03.18 = { birth=yes }
-    1988.05.06 = { death=yes }
 
 	father = 28
 	mother = 25
+  
+    1907.03.18 = { birth=yes }
+    1988.05.06 = { death=yes }
 }
 
 34 = {
@@ -464,12 +461,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1914.05.07 = { birth=yes }
-    1950.01.01 = { death=yes }
 	
 	mother = 21
 	father = 6
+  
+    1914.05.07 = { birth=yes }
+    1950.01.01 = { death=yes }
 }
 
 35 = {
@@ -479,12 +476,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1916.09.20 = { birth=yes }
-    1951.01.01 = { death=yes }
 	
 	mother = 21
 	father = 6
+  
+    1916.09.20 = { birth=yes }
+    1951.01.01 = { death=yes }
 }
 
 
@@ -507,12 +504,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1938.09.20 = { birth=yes }
-    1970.01.01 = { death=yes }
 	
 	mother = 34
 	father = 36
+  
+    1938.09.20 = { birth=yes }
+    1970.01.01 = { death=yes }
 }
 
 38 = {
@@ -522,12 +519,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1939.01.01 = { birth=yes }
-    1971.01.01 = { death=yes }
 	
 	mother = 34
 	father = 36
+  
+    1939.01.01 = { birth=yes }
+    1971.01.01 = { death=yes }
 }
 
 39 = {
@@ -537,12 +534,12 @@
 	female = yes
     religion=upright
     culture=sicilian
-  
-    1912.10.12 = { birth=yes }
-    1972.01.01 = { death=yes }
 	
 	mother = 15
 	father = 7
+  
+    1912.10.12 = { birth=yes }
+    1972.01.01 = { death=yes }
 }
 
 40 = {
@@ -552,12 +549,12 @@
 	female = yes  
     religion=upright
     culture=sicilian
-  
-    1914.01.01 = { birth=yes }
-    1972.01.01 = { death=yes }
 	
 	mother = 15
 	father = 7
+  
+    1914.01.01 = { birth=yes }
+    1972.01.01 = { death=yes }
 }
 
 41 = {
@@ -567,12 +564,12 @@
 	female = yes  
     religion=upright
     culture=sicilian
-  
-    1917.10.29 = { birth=yes }
-    1972.01.01 = { death=yes }
 	
 	mother = 15
 	father = 7
+  
+    1917.10.29 = { birth=yes }
+    1972.01.01 = { death=yes }
 }
 
 42 = {
@@ -581,12 +578,12 @@
   
     religion=upright
     culture=sicilian
-  
-    1915.11.06 = { birth=yes }
-    1972.01.01 = { death=yes }
 	
 	mother = 15
 	father = 7
+  
+    1915.11.06 = { birth=yes }
+    1972.01.01 = { death=yes }
 }
 
 43 = {
@@ -641,4 +638,308 @@
   
     1872.011.29 = { birth=yes }
     1926.09.12 = { death=yes }
+}
+
+#Office History
+2000 = {
+	name = "George"
+	dynasty = 100
+
+	religion = upright
+	culture = white_american
+
+	1732.02.22 = { birth = yes }
+	1799.12.14 = { death = yes }
+}
+
+2001 = {
+	name = "John"
+	dynasty = 101
+
+	religion = upright
+	culture = white_american
+
+	1735.10.30 = { birth = yes }
+	1826.07.04 = { death = yes }
+}
+
+2002 = {
+	name = "Thomas"
+	dynasty = 102
+
+	religion = upright
+	culture = white_american
+
+	1743.04.13 = { birth = yes }
+	1826.07.04 = { death = yes }
+}
+
+2003 = {
+	name = "James"
+	dynasty = 103
+
+	religion = upright
+	culture = white_american
+
+	1751.03.16 = { birth = yes }
+	1836.06.28 = { death = yes }
+}
+
+2004 = {
+	name = "James"
+	dynasty = 104
+
+	religion = upright
+	culture = white_american
+
+	1758.04.28 = { birth = yes }
+	1831.07.04 = { death = yes }
+}
+
+2005 = {
+	name = "John Quincy"
+	dynasty = 105
+
+	religion = upright
+	culture = white_american
+
+	1767.07.11 = { birth = yes }
+	1848.02.23 = { death = yes }
+}
+
+2006 = {
+	name = "Andrew"
+	dynasty = 106
+
+	religion = upright
+	culture = white_american
+
+	1767.03.15 = { birth = yes }
+	1845.06.08 = { death = yes }
+}
+
+2007 = {
+	name = "Martin"
+	dynasty = 107
+
+	religion = upright
+	culture = white_american
+
+	1782.12.05 = { birth = yes }
+	1862.07.24 = { death = yes }
+}
+
+2008 = {
+	name = "William Henry"
+	dynasty = 108
+
+	religion = upright
+	culture = white_american
+
+	1773.02.09 = { birth = yes }
+	1841.04.04 = { death = yes }
+}
+
+2009 = {
+	name = "John"
+	dynasty = 109
+
+	religion = upright
+	culture = white_american
+
+	1790.03.29 = { birth = yes }
+	1862.01.18 = { death = yes }
+}
+
+2010 = {
+	name = "James Knox"
+	dynasty = 110
+
+	religion = upright
+	culture = white_american
+
+	1795.11.02 = { birth = yes }
+	1849.06.15 = { death = yes }
+}
+
+2011 = {
+	name = "Zachary"
+	dynasty = 111
+
+	religion = upright
+	culture = white_american
+
+	1784.11.24 = { birth = yes }
+	1850.07.09 = { death = yes }
+}
+
+2012 = {
+	name = "Millard"
+	dynasty = 112
+
+	religion = upright
+	culture = white_american
+
+	1800.01.07 = { birth = yes }
+	1874.03.08 = { death = yes }
+}
+
+2013 = {
+	name = "Franklin"
+	dynasty = 113
+
+	religion = upright
+	culture = white_american
+
+	1804.11.23 = { birth = yes }
+	1869.10.08 = { death = yes }
+}
+
+2014 = {
+	name = "James"
+	dynasty = 114
+
+	religion = upright
+	culture = white_american
+
+	1791.04.23 = { birth = yes }
+	1868.06.01 = { death = yes }
+}
+
+2015 = {
+	name = "Abraham"
+	dynasty = 115
+
+	religion = upright
+	culture = white_american
+
+	1809.02.12 = { birth = yes }
+	1865.04.15 = {
+		death_reason = death_murder
+		death = yes
+	}
+}
+
+2016 = {
+	name = "Andrew"
+	dynasty = 116
+
+	religion = upright
+	culture = white_american
+
+	1808.12.29 = { birth = yes }
+	1875.07.31 = { death = yes }
+}
+
+2017 = {
+	name = "Ulysses Simpson"
+	dynasty = 117
+
+	religion = upright
+	culture = white_american
+
+	1822.04.27 = { birth = yes }
+	1885.07.23 = { death = yes }
+}
+
+2018 = {
+	name = "Rutherford Birchard"
+	dynasty = 118
+
+	religion = upright
+	culture = white_american
+
+	1822.10.04 = { birth = yes }
+	1893.01.17 = { death = yes }
+}
+
+2019 = {
+	name = "James Abram"
+	dynasty = 119
+
+	religion = upright
+	culture = white_american
+
+	1831.11.19 = { birth = yes }
+	1881.09.19 = {
+		death_reason = death_murder
+		death = yes
+	}
+}
+
+2020 = {
+	name = "Chester Alan"
+	dynasty = 120
+
+	religion = upright
+	culture = white_american
+
+	1829.10.05 = { birth = yes }
+	1886.11.18 = { death = yes }
+}
+
+2021 = {
+	name = "Grover"
+	dynasty = 121
+
+	religion = upright
+	culture = white_american
+
+	1837.03.18 = { birth = yes }
+	1908.06.24 = { death = yes }
+}
+
+2022 = {
+	name = "Benjamin"
+	dynasty = 122
+
+	religion = upright
+	culture = white_american
+
+	1833.08.20 = { birth = yes }
+	1901.03.13 = { death = yes }
+}
+
+2023 = {
+	name = "William"
+	dynasty = 123
+
+	religion = upright
+	culture = white_american
+
+	1843.01.29 = { birth = yes }
+	1901.09.14 = { death = yes }
+}
+
+2024 = {
+	name = "Theodore"
+	dynasty = 124
+
+	religion = upright
+	culture = white_american
+
+	1858.10.27 = { birth = yes }
+	1919.01.06 = { death = yes }
+}
+
+2025 = {
+	name = "William Howard"
+	dynasty = 125
+
+	religion = upright
+	culture = white_american
+
+	1857.09.15 = { birth = yes }
+	1930.03.08 = { death = yes }
+}
+
+2026 = {
+	name = "Woodrow"
+	dynasty = 126
+
+	religion = upright
+	culture = white_american
+
+	1856.12.28 = { birth = yes }
+	1924.02.03 = { death = yes }
 }

@@ -11,7 +11,7 @@ b_madison = castle
 #b_avenue_u_4 = temple
 
 # Misc
-culture = unknown_italian
+culture = polentonese
 religion = upright
 
 #History

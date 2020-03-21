@@ -15,7 +15,7 @@ b_w_38th_st_2 = castle
 #b_w_37th_st = castle
 
 # Misc
-culture = unknown_italian
+culture = sicilian
 religion = upright
 
 #History

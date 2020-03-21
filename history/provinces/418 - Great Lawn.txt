@@ -6,11 +6,11 @@ title = c_great_lawn
 # Settlements
 max_settlements = 1
 
-b_great_lawn = castle
+b_great_lawn = tribal
 #b_86th_st_4 = city
 
 # Misc
-culture = central_park
+culture = white_american
 religion = upright
 
 #History

@@ -15,7 +15,7 @@ b_e_38th_st = temple
 #b_e_41st_st = castle
 
 # Misc
-culture = unknown_italian
+culture = apulian
 religion = upright
 
 #History

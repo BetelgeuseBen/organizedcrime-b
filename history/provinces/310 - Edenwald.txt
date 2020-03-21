@@ -12,7 +12,7 @@ b_edenwald = castle
 #b_229th_st = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

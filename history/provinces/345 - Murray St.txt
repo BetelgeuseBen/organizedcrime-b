@@ -6,7 +6,7 @@ title = c_murray_st
 # Settlements
 max_settlements = 5
 
-b_murray_st_2 = castle
+b_murray_st = castle
 b_chambers_st_4 = city
 b_river_terrace = temple
 #b_warren_st_3 = castle
@@ -15,7 +15,7 @@ b_river_terrace = temple
 #b_barclay_st = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

@@ -14,7 +14,7 @@ b_cherry_st = castle
 #b_monroe_st = temple
 
 # Misc
-culture = unknown_italian
+culture = sicilian
 religion = upright
 
 #History

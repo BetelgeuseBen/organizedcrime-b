@@ -15,7 +15,7 @@ b_worth_st_3 = castle
 #b_trimble_pl = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

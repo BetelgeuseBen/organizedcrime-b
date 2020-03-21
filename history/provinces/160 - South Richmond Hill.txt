@@ -12,7 +12,7 @@ b_liberty_ave_3 = city
 #b_lefferts_blvd = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

@@ -12,7 +12,7 @@ b_richmond = castle
 #b_riedel_ave = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

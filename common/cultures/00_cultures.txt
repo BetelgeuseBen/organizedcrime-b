@@ -10,7 +10,7 @@
 american = {
 	graphical_cultures = { westerngfx }
 	
-	yankee = {
+	white_american = {
 		graphical_cultures = { englishgfx }
 		
 		color = { 0.20 0.70 1.00 }
@@ -75,32 +75,58 @@ american = {
 	german = {
 		graphical_cultures = { englishgfx }
 		color = { 0.5 0.5 0.5 }
+		male_names = {
+			Hans
+		}
+		female_names = {
+			Gretel
+		}
 	}
 	french = {
 		graphical_cultures = { englishgfx }
 		color = { 0 0.16 1 }
+		male_names = {
+			Pierre
+		}
+		female_names = {
+			Claire
+		}
 	}
 	afro_american = {
 		graphical_cultures = { englishgfx }
 		color = { 0.50 0.2 0 }
+		male_names = {
+			John
+		}
+		female_names = {
+			Mary
+		}
 	}
 	scandinavian = {
 		graphical_cultures = { englishgfx }
 		color = { 0.14 0.8 1 }
+		male_names = {
+			Johann
+		}
+		female_names = {
+			Astrid
+		}
 	}
 	greek = {
 		graphical_cultures = { englishgfx }
 		color = { 1 0.4 1 }
+		male_names = {
+			Alexandros
+		}
+		female_names = {
+			Lydia
+		}
 	}
 }
 
 italian = {
 	graphical_cultures = { westerngfx }
 	
-	unknown_italian = {
-		graphical_cultures = { italiangfx southerngfx }
-		color = { 0.80 0.50 0.40 }
-	}
 	sicilian = {
 		graphical_cultures = { italiangfx southerngfx }
 		
@@ -118,11 +144,11 @@ italian = {
 			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
 			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
 			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
-			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio GiosuÃ¨ Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
+			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
 			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
 			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
 			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
-			Milo Mirco Mirko Nanni Napoleone NiccolÃ² Nico Nicola NicolÃ² Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
+			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
 			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
 			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
 			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
@@ -163,11 +189,11 @@ italian = {
 			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
 			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
 			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
-			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio GiosuÃ¨ Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
+			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
 			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
 			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
 			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
-			Milo Mirco Mirko Nanni Napoleone NiccolÃ² Nico Nicola NicolÃ² Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
+			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
 			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
 			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
 			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
@@ -208,11 +234,11 @@ italian = {
 			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
 			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
 			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
-			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio GiosuÃ¨ Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
+			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
 			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
 			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
 			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
-			Milo Mirco Mirko Nanni Napoleone NiccolÃ² Nico Nicola NicolÃ² Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
+			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
 			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
 			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
 			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
@@ -253,11 +279,11 @@ italian = {
 			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
 			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
 			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
-			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio GiosuÃ¨ Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
+			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
 			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
 			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
 			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
-			Milo Mirco Mirko Nanni Napoleone NiccolÃ² Nico Nicola NicolÃ² Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
+			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
 			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
 			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
 			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
@@ -298,11 +324,11 @@ italian = {
 			Ermenegildo Ermes Ernesto Ettore Ezio Fabio Fabrizio Fausto Fedele Federico Federigo Ferdinando Filippo Fiorenzo Fiorino 
 			Flavio Francesco Franco Fredo Fulvio Gabriele Gaetano Galasso Gaspare Gastone Geppetto Giacinto Giacobbe Giacomo Giampaolo 
 			Giampiero Gian Giancarlo Gianfrancesco Gianfranco Gianluca Gianluigi Gianmarco Gianni Gianpaolo Gianpietro Gilberto Gino 
-			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio GiosuÃ¨ Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
+			Gioacchino Gioachino Gioele Gioffre Gionata Giorgio Giosuè Giovanni Girolamo Giuliano Giulio Giuseppe Giustino Goffredo 
 			Graziano Greco Guarino Guglielmo Guido Gustavo Hugo Ignazio Ippazio Ivan Ivo Jacopo Joseph Lamberto Lando Laureano Lazzaro 
 			Leonardo Leone Leopoldo Liberto Livio Lodovico Lorenzo Luca Luchino Luciano Lucio Ludovico Luigi Manuel Marcantonio Marcello 
 			Marco Mariano Mario Martino Massimiliano Massimo Matteo Mattia Maurilio Maurizio Mauro Michelangelo Michele Micheletto Michelotto 
-			Milo Mirco Mirko Nanni Napoleone NiccolÃ² Nico Nicola NicolÃ² Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
+			Milo Mirco Mirko Nanni Napoleone Niccolò Nico Nicola Nicolò Nino Nunzio Omero Orazio Oreste Orlando Osvaldo Ottavio Ottone 
 			Panfilo Paolo Paride Pasqual Pasquale Patrizio Pellegrino Pier Pierangelo Piergiorgio Piergiuseppe Pierluigi Piermaria Piero 
 			Pierpaolo Piersanti Pietro Pompeo Pomponio Puccio Raffaellino Raffaello Raimondo Ranieri Rembrandt Renzo Riccardo Ricciotti 
 			Roberto Rocco Rodolfo Rolando Roman Romeo Romolo Ronaldo Rosario Ruggero Ruggiero Sabatino Salvatore Salvi Sandro Sante Santino 
@@ -327,24 +353,56 @@ italian = {
 		}
 	}
 }
+asian = {
+	graphical_cultures = { westerngfx }
+	
+	chinese = {
+		color = { 1 0.5 0.2 }
+		graphical_cultures = { italiangfx southerngfx }
+		male_names = {
+			Wei
+		}
+		female_names = {
+			Ying
+		}
+	}
+}
 irish = {
 	graphical_cultures = { westerngfx }
 	
 	irish = {
 		color = { 0.29 1 0 }
 		graphical_cultures = { italiangfx southerngfx }
+		male_names = {
+			Cormac
+		}
+		female_names = {
+			Grace
+		}
 	}
 }
-jewish = {
+jewish_culture = {
 	graphical_cultures = { westerngfx }
 	
 	galizianer = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.95 0.95 0.95 }
+		male_names = {
+			Naftali
+		}
+		female_names = {
+			Roza
+		}
 	}
 	litvak = {
 		color = { 1 0.85 0 }
 		graphical_cultures = { italiangfx southerngfx }
+		male_names = {
+			Elijah
+		}
+		female_names = {
+			Yemima
+		}
 	}
 }
 slavic = {
@@ -359,37 +417,91 @@ no_living_there = {
 	central_park = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.5 0.1 0 }
+		male_names = {
+			NoName
+		}
+		female_names = {
+			NoName
+		}
 	}
 	naval_base = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0 1 1 }
+		male_names = {
+			NoName
+		}
+		female_names = {
+			NoName
+		}
 	}
 	iron_mine = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.8 0.2 0.8 }
+		male_names = {
+			NoName
+		}
+		female_names = {
+			NoName
+		}
 	}
 	resort = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.2 0.65 1 }
+		male_names = {
+			NoName
+		}
+		female_names = {
+			NoName
+		}
 	}
 	fort = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.6 0.6 0.6 }
+		male_names = {
+			NoName
+		}
+		female_names = {
+			NoName
+		}
 	}
 	port = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.2 0.1 0.2 }
+		male_names = {
+			NoName
+		}
+		female_names = {
+			NoName
+		}
 	}
 	zoo = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.2 0.1 0.2 }
+		male_names = {
+			NoName
+		}
+		female_names = {
+			NoName
+		}
 	}
 	cemetery = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.2 0.1 0.2 }
+		male_names = {
+			NoName
+		}
+		female_names = {
+			NoName
+		}
 	}
 	swamp = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.2 0.1 0.2 }
+		male_names = {
+			NoName
+		}
+		female_names = {
+			NoName
+		}
 	}
 }

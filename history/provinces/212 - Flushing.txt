@@ -10,10 +10,10 @@ b_flushing = castle
 b_main_st_4 = city
 #b_union_st_4 = temple
 #b_linden_pl = castle
-#b_prince_st_2 = city
+#b_prince_st = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

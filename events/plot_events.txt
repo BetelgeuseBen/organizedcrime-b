@@ -1,6 +1,6 @@
 namespace = MMP
 
-character_event = {
+character_event = { #Murder Plot
 	id = MMP.1
 	desc = EVTDESCMMP.1
 	picture = GFX_evt_whispers
@@ -27,7 +27,7 @@ character_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 1
+		months = 3
 	}
 	
 	immediate = {

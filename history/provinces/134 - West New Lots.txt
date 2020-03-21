@@ -13,7 +13,7 @@ b_west_new_lots = castle
 #b_bank_st = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

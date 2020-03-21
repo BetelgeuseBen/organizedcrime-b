@@ -14,7 +14,7 @@ b_battery = castle
 #b_2nd_pl = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

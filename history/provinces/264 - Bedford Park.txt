@@ -13,7 +13,7 @@ b_grand_concourse = city
 #b_jerome_ave_3 = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

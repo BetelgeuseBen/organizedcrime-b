@@ -6,6 +6,7 @@ notorious_1 = {
 	add_piety_modifier = 0.10
 	levy_size = 0.05
 	fort_level = 0.10
+	local_revolt_risk = 0.02
 	#icons in major_modifiers_strip
 	icon = 1
 }
@@ -18,6 +19,7 @@ notorious_2 = {
 	add_piety_modifier = 0.25
 	levy_size = 0.10
 	fort_level = 0.25
+	local_revolt_risk = 0.04
 	#icons in major_modifiers_strip
 	icon = 2
 }
@@ -30,6 +32,7 @@ notorious_3 = {
 	add_piety_modifier = 0.50
 	levy_size = 0.15
 	fort_level = 0.50
+	local_revolt_risk = 0.08
 	#icons in major_modifiers_strip
 	icon = 3
 }
@@ -37,4 +40,15 @@ notorious_3 = {
 disregarding_industry_regulations = {
 	local_tax_modifier = 1.00
 	icon = 1
+}
+
+minor_gang_violence = {
+	local_revolt_risk = 0.1
+	local_tax_modifier = -0.5
+	icon = 31
+}
+
+test_modifier_revolt = {
+	icon = 31
+	local_revolt_risk = 1.0
 }

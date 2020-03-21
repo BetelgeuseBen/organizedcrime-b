@@ -10,8 +10,8 @@ offmap_federal_government = {
 	tier = emperor
 	non_aggression_modifier = peace_deal_with_china		#tbd
 	coa_religion = upright
-	government = presidential_republic
-	beginning_of_history = 1776.7.4
+	government = presidential_republic_government
+	beginning_of_history = 1789.04.30
 	sound = china_interaction_interface					#tbd?
 	display_trigger = {
 		always = yes
@@ -188,7 +188,7 @@ offmap_federal_government = {
 			}
 		}
 		culture = {
-			yankee = { # default culture for new president
+			white_american = { # default culture for new president
 				value = 99 # if any other value reaches 100, it will be picked instead
 			}
 		}

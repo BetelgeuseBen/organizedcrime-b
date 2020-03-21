@@ -15,7 +15,7 @@ b_madison_st_2 = castle
 #b_rutgers_st = castle
 
 # Misc
-culture = unknown_italian
+culture = polentonese
 religion = criminal
 
 #History

@@ -13,7 +13,7 @@ b_soundview_village = castle
 #b_lafayette_ave_4 = city
 
 # Misc
-culture = yankee
+culture = litvak
 religion = upright
 
 #History

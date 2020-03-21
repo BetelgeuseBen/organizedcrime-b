@@ -12,7 +12,7 @@ b_west_bensonhurst = castle
 #b_15th_ave = castle
 
 # Misc
-culture = unknown_italian
+culture = sicilian
 religion = upright
 
 #History

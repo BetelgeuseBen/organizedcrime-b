@@ -1,0 +1,68 @@
+targeted_decisions = {
+	intimidate_character = {
+		filter = independent_rulers
+		from_potential = {
+			independent = yes
+			prisoner = no
+			is_incapable = no
+			age = 16
+			religion_group = illegal_group
+			war = no
+		}
+		potential = {
+			independent = yes
+			NOT = {
+				realm_size = 8
+				is_tributary = { suzerain = FROM }
+				has_opinion_modifier = { who = FROM modifier = recently_intimidated }
+				reverse_has_truce = FROM
+			}
+		}
+		allow = {
+			NOT = {
+				piety = 500
+				prestige = 500
+			}
+		}
+		effect = {
+			letter_event = { id = MMIN.1 days = 1 }
+			opinion = { modifier = recently_intimidated who = FROM }
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 80
+			modifier = {
+				factor = 0.0
+				FROM = {
+					ai = yes
+					war = yes
+				}
+			}
+			modifier = {
+				factor = 0.5
+				FROM = {
+					culture_group = american
+				}
+			}
+			modifier = {
+				factor = 1.2
+				OR = {
+					trait = wroth
+					trait = greedy
+				}
+			}
+			modifier = {
+				factor = 0.8
+				OR = {
+					trait = kind
+					trait = charitable
+				}
+			}
+		}
+		#ai_acceptance = {
+		#	
+		#}
+	}
+}

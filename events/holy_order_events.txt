@@ -1,0 +1,434 @@
+namespace = MMHO
+
+# The son of a ruler volunteers to join the NYPD
+character_event = {
+	id = MMHO.1
+	hide_window = yes
+	
+	only_men = yes
+	min_age = 16
+	max_age = 45
+	only_capable = yes
+	prisoner = no
+	religion_group = legal_group
+	
+	trigger = {
+		is_ruler = no
+		
+		martial = 5
+		intrigue = 5
+		
+		OR = {
+			is_title_active = d_detective_bureau_manhattan_north
+			is_title_active = d_detective_bureau_manhattan_south
+			is_title_active = d_detective_bureau_brooklyn_north
+			is_title_active = d_detective_bureau_brooklyn_south
+			is_title_active = d_detective_bureau_queens_north
+			is_title_active = d_detective_bureau_queens_south
+			is_title_active = d_detective_bureau_bronx
+			is_title_active = d_detective_bureau_staten_island
+		}
+		
+		OR = {
+			father_even_if_dead = {
+				primary_title = { higher_tier_than = BARON }
+			}
+			mother_even_if_dead = {
+				primary_title = { higher_tier_than = BARON }
+			}
+		}
+		
+		liege = {
+			holy_order = no
+			religion_group = legal_group
+			liege = {
+				holy_order = no
+			}
+		}
+		
+		NOT = {
+			any_spouse = {
+				is_landed = yes
+			}
+			has_opinion_modifier = {
+				who = liege
+				modifier = opinion_refused_request_nypd
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 100
+		modifier = {
+			factor = 0.25
+			trait = zealous
+		}
+		modifier = {
+			factor = 1.5
+			NOT = { culture = white_american }
+		}
+		modifier = {
+			factor = 4
+			female = yes
+		}
+		modifier = {
+			factor = 0.5
+			trait = celibate
+		}
+		modifier = {
+			factor = 0.5
+			trait = homosexual
+		}
+		modifier = {
+			factor = 0.7
+			trait = content
+		}
+		modifier = {
+			factor = 0.75
+			trait = chaste
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { age = 25 }
+		}
+		modifier = {
+			factor = 1.5
+			trait = slothful
+		}
+		modifier = {
+			factor = 2.0
+			trait = lustful
+		}
+		modifier = {
+			factor = 2.0
+			trait = cynical
+		}
+		modifier = {
+			factor = 2.0
+			trait = hedonist
+		}
+		modifier = {
+			factor = 2.0
+			trait = ambitious
+		}
+		modifier = {
+			factor = 2.0
+			any_heir_title = {
+				always = yes
+			}
+		}
+		modifier = {
+			factor = 2.0
+			is_primary_heir = yes
+		}
+		modifier = {
+			factor = 2
+			any_spouse = {
+				reverse_opinion = { who = ROOT value = 100 }
+			}
+		}
+	}
+	
+	immediate = {
+		liege = {
+			character_event = {
+				id = MMHO.2
+			}
+		}
+	}
+}
+
+# Son or brother asks to join the NYPD
+character_event = {
+	id = MMHO.2
+	desc = EVTDESCMMHO.2
+	picture = GFX_evt_crusaders
+	border = GFX_event_normal_frame_religion
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTAMMHO.2 # Agree
+		ai_chance = {
+			factor = 100
+		}
+		
+		if = {
+			limit = {
+				religion = FROM
+			}
+			piety = 100
+		}
+		
+		FROM = {
+			character_event = {
+				id = MMHO.3
+				tooltip = EVTTOOLTIPMMHO.3
+			}
+		}
+	}
+	
+	option = {
+		name = EVTOPTBMMHO.2 # Refuse
+		
+		if = {
+			limit = {
+				religion = FROM
+			}
+			piety = -100
+		}
+		
+		FROM = {
+			character_event = {
+				id = MMHO.4
+				tooltip = EVTTOOLTIPMMHO.4
+			}
+		}
+	}
+}
+
+# Son or brother joins the NYPD
+character_event = {
+	id = MMHO.3
+	hide_window = yes
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		random_list = {
+			10 = {
+				d_detective_bureau_manhattan_north = {
+					holder_scope = {
+						save_event_target_as = order_target
+						ROOT = {
+							character_event = { id = MMHO.6 }
+						}
+					}
+				}
+			}
+			10 = {
+				d_detective_bureau_manhattan_south = {
+					holder_scope = {
+						save_event_target_as = order_target
+						ROOT = {
+							character_event = { id = MMHO.6 }
+						}
+					}
+				}
+			}
+			10 = {
+				d_detective_bureau_brooklyn_north = {
+					holder_scope = {
+						save_event_target_as = order_target
+						ROOT = {
+							character_event = { id = MMHO.6 }
+						}
+					}
+				}
+			}
+			10 = {
+				d_detective_bureau_brooklyn_south = {
+					holder_scope = {
+						save_event_target_as = order_target
+						ROOT = {
+							character_event = { id = MMHO.6 }
+						}
+					}
+				}
+			}
+			10 = {
+				d_detective_bureau_queens_north = {
+					holder_scope = {
+						save_event_target_as = order_target
+						ROOT = {
+							character_event = { id = MMHO.6 }
+						}
+					}
+				}
+			}
+			10 = {
+				d_detective_bureau_queens_south = {
+					holder_scope = {
+						save_event_target_as = order_target
+						ROOT = {
+							character_event = { id = MMHO.6 }
+						}
+					}
+				}
+			}
+			10 = {
+				d_detective_bureau_bronx = {
+					holder_scope = {
+						save_event_target_as = order_target
+						ROOT = {
+							character_event = { id = MMHO.6 }
+						}
+					}
+				}
+			}
+			5 = {
+				d_detective_bureau_staten_island = {
+					holder_scope = {
+						save_event_target_as = order_target
+						ROOT = {
+							character_event = { id = MMHO.6 }
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+# Liege refuses request to join the NYPD
+character_event = {
+	id = MMHO.4
+	hide_window = yes
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		opinion = {
+			who = FROM
+			modifier = opinion_refused_request_nypd
+		}
+	}
+}
+
+# NYPD succession - duchy holder is always Deputy Chief, fired from on_new_holder, on_new_holder_inheritance, on_new_holder_usurpation
+character_event = {
+	id = MMHO.5
+	hide_window = yes
+
+	is_triggered_only = yes
+	only_playable = yes
+	
+	trigger = {
+		is_government_potential = police_government
+		primary_title = { holy_order = yes }
+	}
+	immediate = {
+		if = {
+			limit = { NOT = { society_member_of = new_york_police_department } }
+			leave_society = yes
+			join_society = new_york_police_department
+		}
+		if = {
+			limit = {
+				society_rank = {
+					rank == 1
+					society = new_york_police_department
+				}
+			}
+			society_rank_up = {
+				rank = 3
+				society = new_york_police_department
+			}
+		}
+		if = {
+			limit = {
+				society_rank = {
+					rank == 2
+					society = new_york_police_department
+				}
+			}
+			society_rank_up = {
+				rank = 2
+				society = new_york_police_department
+			}
+		}
+		if = {
+			limit = {
+				society_rank = {
+					rank == 3
+					society = new_york_police_department
+				}
+			}
+			society_rank_up = {
+				rank = 1
+				society = new_york_police_department
+			}
+		}
+		any_courtier = {
+			if = {
+				limit = {
+					is_in_society = no
+					is_adult = yes
+					prisoner = no
+					NOT = { trait = incapable }
+				}
+			join_society = new_york_police_department
+			}
+		}
+		any_vassal = {
+			if = {
+				limit = {
+					is_in_society = no
+					is_adult = yes
+					prisoner = no
+					NOT = { trait = incapable }
+				}
+			join_society = new_york_police_department
+			}
+		}
+		FROMFROM = {
+			society_rank_down = 1
+			any_courtier = {
+				if = {
+					limit = {
+						is_in_society = no
+						is_adult = yes
+						prisoner = no
+						NOT = { trait = incapable }
+					}
+				join_society = new_york_police_department
+				}
+			}
+			any_vassal = {
+				if = {
+					limit = {
+						is_in_society = no
+						is_adult = yes
+						prisoner = no
+						NOT = { trait = incapable }
+					}
+				join_society = new_york_police_department
+				}
+			}
+		}
+	}
+}
+
+# Character joining NYPD effects
+character_event = {
+	id = MMHO.6
+	hide_window = yes
+
+	is_triggered_only = yes
+	
+	immediate = {
+		if = {
+			limit = {
+				has_minor_title = title_commander
+			}
+			remove_title = title_commander
+		}
+		if = {
+			limit = {
+				has_minor_title = title_appointed_regent
+			}
+			remove_title = title_appointed_regent
+		}
+		if = {
+			limit = {
+				has_minor_title = title_patrician_heir
+			}
+			remove_title = title_patrician_heir
+		}
+		clear_wealth = event_target:order_target
+		move_character = event_target:order_target
+		end_inaccessibility_effect = yes #removes in_hiding or in_seclusion
+		leave_society = yes
+		join_society = new_york_police_department
+	}
+}

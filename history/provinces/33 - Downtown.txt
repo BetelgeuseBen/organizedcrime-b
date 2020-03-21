@@ -7,15 +7,15 @@ title = c_downtown
 max_settlements = 7
 
 b_downtown = castle
-b_tillary_st = city
-b_brooklyn_bridge_blvd = temple
-#b_jay_st = castle
-#b_gold_st = city
-#b_duffield_st = temple
-#b_prince_st = castle
+b_kings_county_district_attorneys_office = temple
+b_tillary_st = temple
+#b_brooklyn_bridge_blvd = castle
+#b_jay_st = city
+#b_gold_st = temple
+#b_duffield_st = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

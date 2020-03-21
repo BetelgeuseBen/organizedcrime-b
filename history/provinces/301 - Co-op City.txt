@@ -11,7 +11,7 @@ b_co_op_city = castle
 #b_peartree_ave = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History
