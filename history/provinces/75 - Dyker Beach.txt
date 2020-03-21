@@ -11,7 +11,7 @@ b_dyker_beach = castle
 #b_poly_pl = temple
 
 # Misc
-culture = unknown_italian
+culture = polentonese
 religion = upright
 
 #History

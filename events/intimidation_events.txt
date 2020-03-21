@@ -1,0 +1,50 @@
+namespace = MMIN
+
+letter_event = { #Intimidation event
+	id = MMIN.1
+	desc = EVTDESCMMIN.1
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		
+	}
+	
+	immediate = {
+	}
+	
+	option = { #Become tributary to intimidator
+		name = EVTOPTAMMIN.1
+		FROMFROM = {
+			make_tributary = { who = ROOT tributary_type = protection}
+			letter_event = { id = MMIN.2 }
+		}
+	}
+	
+	option = { #Intimidator declares modified tributary war
+		name = EVTOPTBMMIN.1
+		FROMFROM = {
+			war = { target = ROOT casus_belli = intimidation_cb }
+		}
+		prestige = 100
+	}
+}
+
+letter_event = { #Intimidation successful notification
+	id = MMIN.2
+	desc = EVTDESCMMIN.2
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		
+	}
+	
+	immediate = {
+		prestige = 100
+	}
+	
+	option = {
+		name = EVTOPTAMMIN.2
+	}
+}

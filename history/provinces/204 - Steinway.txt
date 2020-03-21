@@ -12,7 +12,7 @@ b_hazen_st = city
 #b_ditmars_blvd_2 = castle
 
 # Misc
-culture = yankee
+culture = greek
 religion = upright
 
 #History

@@ -11,7 +11,7 @@ b_west_schuylerville = castle
 #b_balcom_ave = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

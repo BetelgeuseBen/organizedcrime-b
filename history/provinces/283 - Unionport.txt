@@ -13,7 +13,7 @@ b_westchester_ave_2 = city
 #b_zerega_ave_2 = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

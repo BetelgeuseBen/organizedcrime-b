@@ -14,7 +14,7 @@ b_new_lots_ave = city
 #b_bradfort_st = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

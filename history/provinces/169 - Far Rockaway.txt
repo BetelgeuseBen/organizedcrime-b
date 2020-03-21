@@ -12,7 +12,7 @@ b_beach_20th_st = city
 #b_mott_ave = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

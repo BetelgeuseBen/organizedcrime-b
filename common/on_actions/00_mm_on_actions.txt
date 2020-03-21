@@ -1,5 +1,0 @@
-on_death = {
-	events = {
-		MMI.2
-	}
-}

@@ -10,7 +10,7 @@ b_pleasant_plains = castle
 #b_cunningham_rd = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

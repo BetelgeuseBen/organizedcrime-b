@@ -15,7 +15,7 @@ b_charles_st = castle
 #b_leroy_st = castle
 
 # Misc
-culture = unknown_italian
+culture = sicilian
 religion = upright
 
 #History

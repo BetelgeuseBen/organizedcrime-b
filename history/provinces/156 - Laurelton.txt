@@ -12,7 +12,7 @@ b_laurelton = castle
 #b_francis_lewis_blvd = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

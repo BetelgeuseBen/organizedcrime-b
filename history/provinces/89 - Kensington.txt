@@ -13,7 +13,7 @@ b_church_ave = city
 #b_minna_st = city
 
 # Misc
-culture = unknown_italian
+culture = polentonese
 religion = upright
 
 #History

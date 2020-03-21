@@ -15,7 +15,7 @@ b_broadway = temple
 #b_beaver_st = castle
 
 # Misc
-culture = unknown_italian
+culture = sicilian
 religion = upright
 
 #History

@@ -12,7 +12,7 @@ b_3rd_ave_10 = city
 #b_tinton_ave = castle
 
 # Misc
-culture = yankee
+culture = sicilian
 religion = upright
 
 #History

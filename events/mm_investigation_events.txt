@@ -6,18 +6,14 @@ character_event = {
 	desc = EVTDESCMMI.1
 	option = {
 		name = EVTOPTAMMI.1
-		effect = {
-			capital_scope = {
-				spawn_disease = murder_investigation
-			}
+		capital_scope = {
+			spawn_disease = murder_investigation
 		}
 	}
 	option = {
 		name = EVTOPTBMMI.1
-		effect = {
-			wealth = -10
-			piety = -100
-		}
+		wealth = -10
+		piety = -100
 	}
 }
 
@@ -50,15 +46,11 @@ character_event = {
 	desc = EVTDESCMMI.3
 	option = {
 		name = EVTOPTAMMI.3
-		effect = {
-			add_trait = murder_suspect
-		}
+		add_trait = murder_suspect
 	}
 	option = {
 		name = EVTOPTBMMI.3
-		effect = {
-			wealth = -10
-			piety = -100
-		}
+		wealth = -10
+		piety = -100
 	}
 }

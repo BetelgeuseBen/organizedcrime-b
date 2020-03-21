@@ -4,14 +4,15 @@
 title = c_kew_gardens
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
 b_kew_gardens = castle
-b_kew_gardens_rd = city
-#b_austin_st = temple
+b_queens_county_district_attorneys_office = temple
+#b_kew_gardens_rd = temple
+#b_austin_st = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

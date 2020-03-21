@@ -15,7 +15,7 @@ b_new_springville = castle
 #b_marsh_ave = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

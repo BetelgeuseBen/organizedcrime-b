@@ -11,7 +11,7 @@ b_east_hunts_point = castle
 #b_market_st_2 = temple
 
 # Misc
-culture = yankee
+culture = litvak
 religion = criminal
 
 #History

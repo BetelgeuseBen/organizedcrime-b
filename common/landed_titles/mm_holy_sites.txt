@@ -1,0 +1,61 @@
+k_upright = {
+#	color={ 150 90 30 }
+	color={ 183 60 155 }
+	color2={ 220 220 0 }
+	
+	capital = 314 # City Hall
+	
+	title = "US_ATTORNEY"
+	foa = "US_ATTORNEY_FOA"
+	short_name = yes
+
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = upright
+	
+	religion = upright
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	assimilate = no
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+	# Regnal names
+	male_names = {
+		Jeff
+	}
+}
+
+b_new_york_county_district_attorneys_office = {
+	holy_site = upright
+	pentarchy = upright
+	short_name = yes
+}
+
+b_bronx_county_district_attorneys_office = {
+	holy_site = upright
+	pentarchy = upright
+	short_name = yes
+}
+
+b_queens_county_district_attorneys_office = {
+	holy_site = upright
+	pentarchy = upright
+	short_name = yes
+}
+
+b_kings_county_district_attorneys_office = {
+	holy_site = upright
+	pentarchy = upright
+	short_name = yes
+}
+
+b_richmond_county_district_attorneys_office = {
+	holy_site = upright
+	pentarchy = upright
+	short_name = yes
+}

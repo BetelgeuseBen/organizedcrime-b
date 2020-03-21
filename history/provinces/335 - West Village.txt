@@ -15,7 +15,7 @@ b_carmine_st = city
 #b_jones_st = castle
 
 # Misc
-culture = unknown_italian
+culture = polentonese
 religion = upright
 
 #History

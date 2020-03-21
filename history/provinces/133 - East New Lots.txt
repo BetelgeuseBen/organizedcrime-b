@@ -12,7 +12,7 @@ b_east_new_lots = castle
 #b_wortman_ave = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

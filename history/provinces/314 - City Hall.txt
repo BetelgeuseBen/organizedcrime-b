@@ -7,15 +7,15 @@ title = c_city_hall
 max_settlements = 5
 
 b_city_hall = castle
-b_park_row = city
-b_broadway_8 = temple
-#b_chambers_st = castle
-#b_park_pl_2 = city
-#b_warren_st_2 = temple
-#b_murray_st = castle
+b_new_york_county_district_attorneys_office = temple
+b_park_row = temple
+#b_broadway_8 = castle
+#b_chambers_st = city
+#b_park_pl_2 = temple
+#b_warren_st_2 = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

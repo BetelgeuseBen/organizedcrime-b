@@ -1,0 +1,18 @@
+recently_intimidated = {
+	opinion = -15
+	months = 120
+}
+
+opinion_refused_request_nypd = {
+	opinion = -15
+	months = 120
+}
+
+opinion_renounced_liege_dynasty_negative = {
+	opinion = -15
+}
+
+opinion_adoption = {
+	opinion = 15
+	months = 60
+}

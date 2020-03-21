@@ -12,7 +12,7 @@ b_douglaston = castle
 #b_douglaston_pkwy = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

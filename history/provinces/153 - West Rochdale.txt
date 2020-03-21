@@ -13,7 +13,7 @@ b_west_rochdale = castle
 #b_rockaway_blvd_3 = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

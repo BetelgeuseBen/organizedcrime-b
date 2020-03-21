@@ -15,7 +15,7 @@ b_broome_st = castle
 #b_mulberry_st = castle
 
 # Misc
-culture = unknown_italian
+culture = sicilian
 religion = criminal
 
 #History

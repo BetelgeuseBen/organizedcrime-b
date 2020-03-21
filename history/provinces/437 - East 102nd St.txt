@@ -15,7 +15,7 @@ b_e_98th_st = city
 #b_park_ave_4 = castle
 
 # Misc
-culture = unknown_italian
+culture = apulian
 religion = criminal
 
 #History

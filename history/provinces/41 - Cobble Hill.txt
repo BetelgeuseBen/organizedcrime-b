@@ -13,7 +13,7 @@ b_baltic_st = temple
 #b_warren_st = city
 
 # Misc
-culture = unknown_italian
+culture = campanian
 religion = upright
 
 #History

@@ -1,0 +1,116 @@
+obj_adopt_heir = {
+	type = character
+	
+	creation_effect = {
+		set_character_flag = character_adopting		#Can be used for firing additional events
+	}
+	
+	potential = {
+		is_playable = yes
+		is_landed = yes
+		higher_tier_than = BARON
+		current_heir = {
+			NAND = {
+				dynasty = PREV
+				age = 16
+			}
+		}
+	}
+	
+	allow = {
+		
+	}
+	
+	chance = {
+		factor = 100
+		
+		modifier = {
+			factor = 0.1
+			OR = {
+				trait = arbitrary
+				trait = slothful
+			}
+		}
+		modifier = {
+			factor = 0.2
+			has_children = yes
+		}
+		modifier = {
+			factor = 0.2
+			NOT = {
+				age = 25
+			}
+		}
+		modifier = {
+			factor = 0.5
+			AND = {
+				has_focus = focus_family
+				has_children = yes
+			}
+		}
+		modifier = {
+			factor = 1.5
+			OR = {
+				trait = charitable
+				trait = diligent
+				trait = chaste
+			}
+		}
+		modifier = {
+			factor = 1.5
+			AND = {
+				has_focus = focus_family
+				has_children = no
+			}
+		}
+		modifier = {
+			factor = 1.5
+			age = 40
+		}
+		modifier = {
+			factor = 1.5
+			age = 50
+		}
+		modifier = {
+			factor = 1.5
+			age = 60
+		}
+		modifier = {
+			factor = 1.5
+			age = 70
+		}
+	}
+	
+	success = {
+		custom_tooltip = {
+			text = tooltip_obj_adopt_heir
+			hidden_tooltip = {
+				NOT = {
+					has_character_flag = character_adopting
+				}
+			}
+		}
+	}
+	
+	abort = {
+		OR = {
+			trait = incapable
+			is_playable = no
+			is_landed = no
+			current_heir = {
+				AND = {
+					dynasty = PREV
+					age = 16
+				}
+			}
+		}
+	}
+	
+	abort_effect = {
+		clr_character_flag = character_adopting
+	}
+	
+	effect = {
+		change_diplomacy = 1
+	}
+}

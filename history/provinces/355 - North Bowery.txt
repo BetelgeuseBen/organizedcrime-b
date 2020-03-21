@@ -15,7 +15,7 @@ b_e_5th_st = temple
 #b_e_6th_st_3 = castle
 
 # Misc
-culture = unknown_italian
+culture = sicilian
 religion = upright
 
 #History

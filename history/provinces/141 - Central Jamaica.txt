@@ -13,7 +13,7 @@ b_merrick_blvd = city
 #b_108th_ave = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

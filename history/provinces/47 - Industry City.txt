@@ -12,7 +12,7 @@ b_2nd_ave_2 = city
 #b_3rd_ave_2 = castle
 
 # Misc
-culture = yankee
+culture = sicilian
 religion = upright
 
 #History

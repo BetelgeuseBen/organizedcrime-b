@@ -1,0 +1,13 @@
+adopted;Adopted;;;;;;;;;;;;;x
+adopted_desc;This character was adopted and is not widely considered a real part of the family.;;;;;;;;;;;;;x
+opinion_renounced_liege_dynasty_negative;Renounced Adoption;;;;;;;;;;;;;x
+opinion_adoption;Adoption;;;;;;;;;;;;;x
+obj_adopt_heir_title;Adopt an heir;;;;;;;;;;;;;x
+obj_adopt_heir_desc;[This.GetDynName] is worried about [This.GetHerHis] succession as [This.GetSheHe] §Ydoesn't have a suitable heir from [This.GetHerHis] family§!.\n\nThis ambition unlocks a decision to adopt a courtier into your dynasty.;;;;;;;;;;;;;x
+tooltip_obj_adopt_heir;Adopted an heir!;;;;;;;;;;;;;x
+adopt;Adopt;;;;;;;;;;;;;x
+adopt_desc;Adopting a character will give them a bad trait but make them available for succession.;;;;;;;;;;;;;x
+renounce_dynasty;Renounce my adoption;;;;;;;;;;;;;x
+renounce_dynasty_desc;The [This.GetOnlyDynastyName] Family has never treated me as one of their equals. I will embrace my real family and bring glory to our name!;;;;;;;;;;;;;x
+father_moves_to_court;Your father, now an old man lost in obscurity, will move to your neighborhood and §Ywelcome you to his family§!.;;;;;;;;;;;;;x
+adoption_decision_tooltip;You will §Yleave the [This.GetOnlyDynastyName] Family§! and become part of §Yyour birth family§!.\nThis will make vassals who like the [This.GetOnlyDynastyName]s and members of the Family angry.;;;;;;;;;;;;;x

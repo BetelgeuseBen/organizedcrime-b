@@ -13,7 +13,7 @@ b_crescent_ave = city
 #b_quarry_rd = city
 
 # Misc
-culture = unknown_italian
+culture = sicilian
 religion = upright
 
 #History

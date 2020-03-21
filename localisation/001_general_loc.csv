@@ -7,12 +7,16 @@ STAT_PIETY_DESC_INFLUENCE;Influence can be invested in favors with politicians. 
 barony_of;Service Business on;;;;;;;;;;;;;x
 city_barony_of;Industrial Complex on;;;;;;;;;;;;;x
 temple_barony_of;Community Center on;;;;;;;;;;;;;x
+TRIBE_OF;Street Gang of;;;;;;;;;;;;;x
+tribal_barony_of;Street Gang of;;;;;;;;;;;;x
+tribal_barony;Gang;;;;;;;;;;;;;x
 barony;Service Business;;;;;;;;;;;;;x
 city_barony;Industrial Complex;;;;;;;;;;;;;x
 temple_barony;Community Center;;;;;;;;;;;;;x
 castle;Service Business;;;;;;;;;;;;;x
 city;Industrial Complex;;;;;;;;;;;;;x
 temple;Community Center;;;;;;;;;;;;;x
+tribe;Ghetto;;;;;;;;;;;;;x
 castle_desc;Shops, bars, caffes or restaurants.;;;;;;;;;;;;;x
 city_desc;Construction companies, landfills, delivery services or factories.;;;;;;;;;;;;;x
 temple_desc;Public spaces and institutions, theatres or cultural hotspots.;;;;;;;;;;;;;x
@@ -40,6 +44,11 @@ DYN12_DESC;With a score of $SCORE$ you$FAILED$ beat House von Z�hringen, who w
 DYN13_DESC;With a score of $SCORE$ you$FAILED$ beat House de Montfort, who were small scale land holders in France. Through marriage and service the family gained estates in both Normandy and England. It was under the zealous but cruel Simon de Montfort the Elder that the family ascended. Through his participation in the Albigensian Crusade the family would add substantial estates in the South of France. The family reached the height of its power through his son Simon de Montfort the Younger, who became de facto ruler of England. However, all this would prove fleeting and by 1337 the family would have lost it all and gone extinct in the male line.;Votre score est de $SCORE$ et vous pouvez le comparer avec celui de la Maison Montfort compos�e de petits propri�taires fonciers fran�ais. Par le mariage et les services rendus, la famille acquiert des propri�t�s en Normandie et en Angleterre. Elle conna�t une ascension fulgurante sous le r�gne du z�l� mais cruel Simon de Montfort l'A�n�. Gr�ce � sa participation � la croisade des Albigeois, il acquiert des propri�t�s importantes dans le sud de la France. La famille atteint l'apog�e de son pouvoir avec son fils, Simon de Montfort le Jeune, qui devient de facto souverain d'Angleterre. Toutefois, tout cela se r�v�le fugace puisqu'en 1337 la famille a tout perdu et que sa ligne masculine est �teinte.;Mit einem Punktestand von $SCORE$ habt Ihr$FAILED$ das Haus de Montfort �bertroffen. Diese Familie waren kleine franz�sische Landbesitzer, die durch Verm�hlungen und Dienste f�r die Krone G�ter in der Normandie und in England erlangt hatten. Unter dem eifrigen, aber grausamen Simon de Montfort dem �lteren stieg die Macht der Familie. Durch seine Teilnahme am Albigenserkreuzzug erhielt sein Haus gro�e G�ter in S�dfrankreich. Unter Simon de Montfort dem J�ngeren schlie�lich erreichte die Familie den H�hepunkt ihrer Macht, als sie England de facto beherrschte. Dieser Ruhm aber war verg�nglich: Im Jahr 1337 hatte die Familie wieder alles verloren und ihre m�nnliche Linie war ausgestorben.;;Con una puntuaci�n de $SCORE$ t�, $FAILED$, no has logrado vencer a la Casa de Montfort, peque�os terratenientes en Francia. Mediante matrimonios y servicio, la familia obtuvo estados en Normand�a e Inglaterra. La familia prosper� bajo el entusiasta pero cruel Sim�n de Montfort el Viejo. Merced a su participaci�n en la cruzada contra los c�taros, la familia a�adi� a su haber importantes estados del sur de Francia. Alcanzaron el c�nit de su poder mediante su hijo Sim�n de Montfort el Joven, que se convertir�a en el rey de facto de Inglaterra. No obstante, su poder fue ef�mero y en 1337 la familia lo perdi� todo y se extingui� su linaje masculino.;;;;;;;;;x
 DYN15_DESC;With a score of $SCORE$ you$FAILED$ beat House Babenberger, which is not to be confused with the slightly more famous von Babenbergs of Austria. This cadet branch of house Capet held minor titles in Franconia. History probably wouldn't remember them if it wasn't for the more famous family with a similar name.;Votre score est de $SCORE$ et vous pouvez le comparer avec celui de la Maison Babenberger, � ne pas confondre avec les illustres von Babenberger d'Autriche. Cette branche cadette de la maison cap�tienne poss�de des titres mineurs en Franconie. L'histoire ne se souviendrait probablement pas de cette famille si on ne la confondait pas avec les von Babenberger.;Mit einem Punktestand von $SCORE$ habt Ihr$FAILED$ das Haus der Babenberger �bertroffen, die aber nicht mit den etwas bekannteren Babenbergern �sterreichs verwechselt werden d�rfen. Diese Nebenlinie der Kapetinger hielt kleinere Titel in Franken. W�re da nicht die ber�hmtere Familie des gleichen Namens, h�tte die Geschichte sie wohl vergessen.;;Con una puntuaci�n de $SCORE$ t�, $FAILED$, no has vencido a la Casa de Babenberger, que no debe confundirse con la conocida de los Babenergs de Austria. Esta l�nea de sangre secundaria de la Casa Capet tuvo t�tulos menores en Franconia. La historia no les recordar�a de no ser por el parecido de su nombre al de los famosos.;;;;;;;;;x
 business_government;Business;;;;;;;;;;;;;x
+crime_syndicate_government;Crime Syndicate;;;;;;;;;;;;;x
+street_gang_government;Street Gang;;;;;;;;;;;;;x
+politician_government;Politician;;;;;;;;;;;;;x
+presidential_republic_government;Presidential Republic;;;;;;;;;;;;;x
+police_government;Police;;;;;;;;;;;;;x
 empire_criminal;Borough;;;;;;;;;;;;;x
 kingdom_criminal;Community;;;;;;;;;;;;;x
 duchy_criminal;District;;;;;;;;;;;;;x
@@ -53,3 +62,16 @@ baron_criminal;Soldier;;;;;;;;;;;;;x
 city_count;Caporegime;;;;;;;;;;;;;x
 tribal_count;Caporegime;;;;;;;;;;;;;x
 PETTY; ;;;;;;;;;;;;x
+ADDRESS_MR;Mr.;;;;;;;;;;;;x
+ADDRESS_MRS;Mrs.;;;;;;;;;;;;x
+ADDRESS_MISS;Miss;;;;;;;;;;;;x
+DEATH_ACCIDENT_GUN;was tragically killed in a gun accident;;;;;;;;;;;;x
+DEATH_ACCIDENT_CAR;died from a car crash;;;;;;;;;;;;x
+DEATH_ACCIDENT_FIRE;died in a house fire;;;;;;;;;;;;x
+credit_rating_event_tooltip;This option is available due to your high credit rating.;;;;;;;;;;;;x
+tooltip_notoriety_loss_minor;The neighborhood's �Ynotoriety�! will �Ydecrease slightly�!.;;;;;;;;;;;;x
+tooltip_notoriety_loss_medium;The neighborhood's �Ynotoriety�! will �Ydecrease�!.;;;;;;;;;;;;x
+tooltip_notoriety_loss_major;The neighborhood's �Ynotoriety�! will �Ydecrease greatly�!.;;;;;;;;;;;;x
+tooltip_notoriety_gain_minor;The neighborhood's �Ynotoriety�! will �Yincrease slightly�!.;;;;;;;;;;;;x
+tooltip_notoriety_gain_medium;The neighborhood's �Ynotoriety�! will �Yincrease�!.;;;;;;;;;;;;x
+tooltip_notoriety_gain_major;The neighborhood's �Ynotoriety�! will �Yincrease greatly�!.;;;;;;;;;;;;x

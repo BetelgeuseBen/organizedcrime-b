@@ -13,7 +13,7 @@ b_emmons_ave = city
 #b_nostrand_ave_4 = city
 
 # Misc
-culture = unknown_italian
+culture = polentonese
 religion = upright
 
 #History

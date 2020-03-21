@@ -12,7 +12,7 @@ b_bulls_head = castle
 #b_merrill_ave = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

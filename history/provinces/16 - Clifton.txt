@@ -14,7 +14,7 @@ b_park_hill = city
 #b_vanderbilt_ave = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

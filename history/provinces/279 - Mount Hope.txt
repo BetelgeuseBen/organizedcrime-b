@@ -13,7 +13,7 @@ b_mount_hope = castle
 #b_tremont_ave_4 = city
 
 # Misc
-culture = yankee
+culture = litvak
 religion = upright
 
 #History

@@ -11,7 +11,7 @@ b_bergen_beach = castle
 #b_royce_st = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

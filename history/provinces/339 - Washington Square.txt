@@ -15,7 +15,7 @@ b_w_11th_st = temple
 #b_w_9th_st = castle
 
 # Misc
-culture = unknown_italian
+culture = apulian
 religion = upright
 
 #History

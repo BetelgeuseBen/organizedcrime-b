@@ -12,7 +12,7 @@ b_sunnyside_gardens = castle
 #b_queens_blvd_2 = castle
 
 # Misc
-culture = yankee
+culture = irish
 religion = upright
 
 #History

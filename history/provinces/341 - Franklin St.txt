@@ -15,7 +15,7 @@ b_hubert_st = temple
 #b_desbrosses_st = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

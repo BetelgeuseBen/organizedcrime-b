@@ -1,5 +1,4 @@
-unknown_italian;Italian;;;;;;;;;;;x
-jewish;Jewish;;;;;;;;;;;x
+jewish_culture;Jewish;;;;;;;;;;;x
 litvak;Litvak;;;;;;;;;;;x
 galizianer;Galizianer;;;;;;;;;;;x
 german_jew;German Yeddish;;;;;;;;;;;x
@@ -7,18 +6,31 @@ irish;Irish;;;;;;;;;;;x
 afro_american;African American;;;;;;;;;;;x
 central_park;Central Park;;;;;;;;;;;x
 polish_jew;Polish Jew;;;;;;;;;;;x
+
 italian;Italian;;;;;;;;;;;x
 sicilian;Sicilian;;;;;;;;;;;x
-roman;Roman;;;;;;;;;;;x
 lombard;Lombard;;;;;;;;;;;x
 calabrian;Calabrian;;;;;;;;;;;x
 apulian;Apulian;;;;;;;;;;;x
 polentonese;Polentonese;;;;;;;;;;;x
 campanian;Campanian;;;;;;;;;;;x
-american;American;;;;;;;;;;;x
-white_american;White American;;;;;;;;;;;x
+
+white_american;American;;;;;;;;;;;x
 
 illegal_group;Illegal;;;;;;;;;;;x
 criminal;Criminal;;;;;;;;;;;x
 legal_group;Legal;;;;;;;;;;;x
 upright;Upright;;;;;;;;;;;x
+AUTOCEPHALOUS_REL_HEAD_TITLE;District Attorney;;;;;;;;;;;;;x
+US_ATTORNEY;US Attorney;;;;;;;;;;;;;x
+k_upright;US Attorney's Office;;;;;;;;;;;;;x
+d_detective_bureau_manhattan_north;Detective Bureau Manhattan North;;;;;;;;;;;;;x
+d_detective_bureau_manhattan_south;Detective Bureau Manhattan South;;;;;;;;;;;;;x
+d_detective_bureau_brooklyn_north;Detective Bureau Brooklyn North;;;;;;;;;;;;;x
+d_detective_bureau_brooklyn_south;Detective Bureau Brooklyn South;;;;;;;;;;;;;x
+d_detective_bureau_queens_north;Detective Bureau Queens North;;;;;;;;;;;;;x
+d_detective_bureau_queens_south;Detective Bureau Queens South;;;;;;;;;;;;;x
+d_detective_bureau_bronx;Detective Bureau Bronx;;;;;;;;;;;;;x
+d_detective_bureau_staten_island;Detective Bureau Staten Island;;;;;;;;;;;;;x
+DEPUTY_CHIEF;Deputy Chief;;;;;;;;;;;;;x
+DEPUTY_CHIEF_FOA;Deputy Chief;;;;;;;;;;;;;x

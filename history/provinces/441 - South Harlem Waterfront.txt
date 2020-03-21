@@ -15,7 +15,7 @@ b_e_99th_st_3 = city
 #b_e_107th_st_3 = castle
 
 # Misc
-culture = unknown_italian
+culture = apulian
 religion = upright
 
 #History

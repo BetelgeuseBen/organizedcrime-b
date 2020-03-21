@@ -15,7 +15,7 @@ b_e_43rd_st = city
 #b_e_43rd_st_2 = castle
 
 # Misc
-culture = unknown_italian
+culture = calabrian
 religion = upright
 
 #History

@@ -15,7 +15,7 @@ b_crosby_st = temple
 #b_broome_st_2 = castle
 
 # Misc
-culture = unknown_italian
+culture = apulian
 religion = criminal
 
 #History

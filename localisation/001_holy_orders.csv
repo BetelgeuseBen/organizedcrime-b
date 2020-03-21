@@ -1,0 +1,16 @@
+EVTDESCMMHO.2;My [GetFromRelation], [From.GetTitledFirstName], has requested to join the NYPD in their struggle against the criminals, even though this will forever disinherit [From.GetHerHim].;;;;;;;;;;;;;x
+EVTOPTAMMHO.2;Go with my blessing.;;;;;;;;;;;;;x
+EVTOPTBMMHO.2;Absolutely not!;;;;;;;;;;;;;x
+EVTTOOLTIPMMHO.3;[From.GetTitledFirstName] will join the police.;;;;;;;;;;;;;x
+EVTTOOLTIPMMHO.4;[From.GetTitledFirstName] will stay.;;;;;;;;;;;;;x
+opinion_refused_request_nypd;Refused my request to join the police;;;;;;;;;;;;;x
+new_york_police_department;New York Police Department;;;;;;;;;;;;;x
+new_york_police_department_desc;Fidelis Ad Mortem;;;;;;;;;;;;;x
+new_york_police_department_rank_1_male;Detective;;;;;;;;;;;;;x
+new_york_police_department_rank_2_male;Sergeant;;;;;;;;;;;;;x
+new_york_police_department_rank_3_male;Captain;;;;;;;;;;;;;x
+new_york_police_department_rank_4_male;Deputy Chief;;;;;;;;;;;;;x
+new_york_police_department_rank_1_female;Detective;;;;;;;;;;;;;x
+new_york_police_department_rank_2_female;Sergeant;;;;;;;;;;;;;x
+new_york_police_department_rank_3_female;Captain;;;;;;;;;;;;;x
+new_york_police_department_rank_4_female;Deputy Chief;;;;;;;;;;;;;x

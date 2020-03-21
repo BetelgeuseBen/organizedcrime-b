@@ -1,5 +1,6 @@
 # k_castleton
 500.1.1={
+	pentarch = b_richmond_county_district_attorneys_office
 	law = agnatic_succession
 	law = succ_gavelkind
 }

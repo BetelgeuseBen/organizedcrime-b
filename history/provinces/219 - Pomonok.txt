@@ -12,7 +12,7 @@ b_pomonok = castle
 #b_parsons_blvd_3 = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

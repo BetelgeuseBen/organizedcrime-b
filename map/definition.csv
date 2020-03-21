@@ -344,7 +344,7 @@ province;red;green;blue;x;x
 343;21;18;125;Radio Row;x
 344;13;34;143;Hudson Square;x
 345;21;52;122;Murray St;x
-346;34;88;138;Central Bowery;x
+346;34;88;138;South Bowery;x
 347;21;114;143;Manhattan Bridge;x
 348;39;117;125;East Broadway;x
 349;31;104;128;Williamsburg Bridge;x
@@ -460,6 +460,5 @@ province;red;green;blue;x;x
 459;47;125;159;Pell St;x
 460;62;96;151;Mott St;x
 461;62;107;169;Two Bridges;x
-462;26;104;146;South Bowery;x
+462;26;104;146;South Bowery_2;x
 463;60;141;167;Seward Park;x
-464;232;255;255;Water;x

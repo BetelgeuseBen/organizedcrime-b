@@ -11,7 +11,7 @@ b_great_kills = castle
 #b_keegans_ln = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

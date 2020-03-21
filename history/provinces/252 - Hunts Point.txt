@@ -13,7 +13,7 @@ b_hunts_point = castle
 #b_garrison_ave = city
 
 # Misc
-culture = yankee
+culture = litvak
 religion = upright
 
 #History

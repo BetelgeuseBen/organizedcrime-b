@@ -13,7 +13,7 @@ b_jackson_heights = castle
 #b_northern_blvd_2 = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

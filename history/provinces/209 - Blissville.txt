@@ -12,7 +12,7 @@ b_blissville = castle
 #b_page_pl = castle
 
 # Misc
-culture = yankee
+culture = irish
 religion = upright
 
 #History

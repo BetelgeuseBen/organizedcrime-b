@@ -12,7 +12,7 @@ b_south_bensonhurst = castle
 #b_80th_st = castle
 
 # Misc
-culture = unknown_italian
+culture = apulian
 religion = upright
 
 #History

@@ -1,0 +1,319 @@
+namespace = MMSG
+
+# Peasant Rebels rise up (temporary rebel title created, with a leader and a war)
+# Triggered from "on_rebel_revolt"
+province_event = {
+	id = MMSG.1
+	desc = EVTDESCMMSG.1
+	picture = GFX_evt_peasants
+	border = GFX_event_normal_frame_war
+	
+	is_triggered_only = yes
+
+	trigger = {
+		OR = {
+#			has_province_flag = force_peasant_revolt
+			NOT = { # Not if there is already an ongoing peasant revolt for this province
+				owner = {
+					top_liege = {
+						war = yes
+						
+						any_war = {
+							defender = { character = PREV }
+							AND = {
+								using_cb = gang_uprising
+								war_title = { location = { ROOT = location } } # The county
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	immediate = {
+		create_character = {
+			random_traits = yes
+			dynasty = actually_culture
+			religion = criminal
+			culture = ROOT
+			female = no
+			age = 25
+			attributes = {
+				martial = 5
+			}
+			trait = gang_founder
+			trait = tough_soldier
+		}
+		location = {
+			change_variable = { which = notoriety_value value = 50 }
+		}
+		
+		if = {
+			limit = {
+				NOT = { num_of_empty_holdings = 1 }
+				NOT = { num_of_max_settlements = 7 }
+			}
+			add_holding_slot = 1
+		}
+		else_if = {
+			limit = {
+				num_of_settlements = 7
+			}
+			random_province_holding = {
+				limit = {
+					is_capital = no
+				}
+				preferred_limit = {
+					holder_scope = {
+						ai = yes
+					}
+				}
+				preferred_limit = {
+					holder_scope = {
+						is_powerful_vassal = no
+					}
+				}
+				preferred_limit = {
+					NOT = { holding_type = tribal }
+				}
+				preferred_limit = {
+					holding_type = temple
+				}
+				destroy_settlement = yes
+			}
+		}
+		
+		build_holding = {
+			type = tribal
+			holder = new_character
+		}
+		
+		new_character = {			
+			wealth = 100
+			
+			spawn_gang_uprising_effect = yes
+			
+			if = {
+				limit = {
+					has_game_rule = {
+						name = provincial_revolt_strength
+						value = powerful
+					}
+				}
+				spawn_gang_uprising_effect = yes
+				wealth = 150
+			}
+			
+			if = {
+				limit = {
+					has_game_rule = {
+						name = provincial_revolt_strength
+						value = very_powerful
+					}
+				}
+				spawn_gang_uprising_effect = yes
+				spawn_gang_uprising_effect = yes
+				spawn_gang_uprising_effect = yes
+				wealth = 250
+			}
+			
+			if = {
+				limit = {
+					has_game_rule = {
+						name = provincial_revolt_strength
+						value = extremely_powerful
+					}
+				}
+				spawn_gang_uprising_effect = yes
+				spawn_gang_uprising_effect = yes
+				spawn_gang_uprising_effect = yes
+				spawn_gang_uprising_effect = yes
+				spawn_gang_uprising_effect = yes
+				wealth = 350
+			}
+			
+			# DoW on the province top liege
+			ROOT = {
+				owner = {
+					top_liege = {
+#						set_defacto_vassal = PREVPREVPREV
+						reverse_war = {
+							target = PREVPREVPREV
+							casus_belli = gang_uprising
+							thirdparty_title = { PREVPREVPREV = { primary_title } } #the new tribal holding
+						}
+						reverse_opinion = {
+							who = PREVPREVPREV
+							modifier = opinion_evil_tyrant
+						}
+					}
+				}
+			}
+		}
+		
+		owner = {
+			any_liege = { # Inform the lieges
+				character_event = {
+					id = MMSG.2
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTAMMSG.1"
+	}
+}
+
+character_event = {
+	id = MMSG.2
+	desc = EVTDESCMMSG.2
+	picture = GFX_evt_peasants
+	border = GFX_event_normal_frame_war
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAMMSG.2"
+	}
+}
+
+# Gang uprising seizes a holding. Fired from 'on_siege_over_winner'.
+character_event = {
+	id = MMSG.3
+	hide_window = yes
+	is_triggered_only = yes
+	
+	trigger = {
+		trait = gang_founder
+		FROM = { 
+			is_capital = yes # The capital holding
+		}
+	}
+	
+	immediate = {
+		FROM = {
+			location = {
+				if = {
+					limit = {
+						NOT = { has_province_modifier = minor_gang_violence }
+					}
+					add_province_modifier = {
+						name = minor_gang_violence
+						duration = 730
+					}
+				}
+			}
+		}
+	}
+}
+
+# Gangs rise up to reinforce an ongoing provincial gang revolt
+# Triggered from "on_rebel_revolt"
+province_event = {
+	id = MMSG.4
+	desc = EVTDESCMMSG.4
+	picture = GFX_evt_peasants
+	border = GFX_event_normal_frame_war
+	
+	is_triggered_only = yes
+
+	trigger = {
+		# There is already an ongoing gang uprising in this province
+		owner = {
+			top_liege = {
+				war = yes
+				any_war = {
+					defender = { character = PREV }
+					using_cb = gang_uprising
+					war_title = { ROOT = any_province_holding } # The holding
+				}
+			}
+		}
+	}
+	
+	immediate = {
+		
+#		add_province_modifier = {
+#			name = recent_county_uprising
+#			duration = 1825 # Five years of -100% revolt risk in this county
+#		}
+		
+		owner = {
+			top_liege = {
+				any_war = {
+					limit = {
+						defender = { character = PREV }
+						using_cb = gang_uprising
+						war_title = { ROOT = any_province_holding } # The holding
+					}
+					attacker = {
+						spawn_gang_reinforcements_effect = yes
+						
+						if = {
+							limit = {
+								has_game_rule = {
+									name = provincial_revolt_strength
+									value = powerful
+								}
+							}
+							spawn_gang_reinforcements_effect = yes
+						}
+						
+						if = {
+							limit = {
+								has_game_rule = {
+									name = provincial_revolt_strength
+									value = very_powerful
+								}
+							}
+							spawn_gang_reinforcements_effect = yes
+							spawn_gang_reinforcements_effect = yes
+							spawn_gang_reinforcements_effect = yes
+						}
+						
+						if = {
+							limit = {
+								has_game_rule = {
+									name = provincial_revolt_strength
+									value = extremely_powerful
+								}
+							}
+							spawn_gang_reinforcements_effect = yes
+							spawn_gang_reinforcements_effect = yes
+							spawn_gang_reinforcements_effect = yes
+							spawn_gang_reinforcements_effect = yes
+							spawn_gang_reinforcements_effect = yes
+						}
+					}
+				}
+			}
+		}
+		
+		owner = {
+			any_liege = { # Inform the lieges
+				character_event = {
+					id = MMSG.5
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTAMMSG.4"
+	}
+}
+
+character_event = {
+	id = MMSG.5
+	desc = EVTDESCMMSG.5
+	picture = GFX_evt_peasants
+	border = GFX_event_normal_frame_war
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAMMSG.5"
+	}
+}

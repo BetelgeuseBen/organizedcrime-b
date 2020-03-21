@@ -1,4 +1,33 @@
-Changelog Vb0.3.1:
+==Changelog Vb0.3.2:=========================================================================
+
+- Added "protection" tributary type for extortion of protection money
+- Added "Intimidate" decision, opinion mod, cb type and events for acquisition of tributaries
+	!!TBD: ai_chance in MMIN.1
+- Added GetMrMrsMiss custom loc
+- Added Pentarchy (District Attorneys) for Upright religion
+- Fixed a few issues with religions and removed vanilla ones, removed k_papal_states etc.
+- Added replace_path = "decisions"
+- Added eight Detective Bureaus as Upright holy orders
+- Added Presidency title history
+- Fixed provinceDef.xls, added more specific Italian cultures
+- Added new government types:
+	-> presidential_republic_government for offmap_federal_government
+	-> crime_syndicate_government for standard mafia-style criminal syndicates
+	-> street_gang_government for more violent, less organized gangs (tribal equivalent)
+	-> politician_government for temple holdings, generating piety
+	-> police_government for the Detective Bureaus
+- Added events for uprisings of small gangs in local ghettos
+	-> Added gang_founder trait
+- Added more appropriate death_accident_ types
+- Added NYPD society with corresponding events
+- Added adoption mechanic
+	-> Adoption as a targetted decision unlocked by ambition
+	-> Added Adopted trait giving opinion and diplomacy penalties
+	-> Added decision to renounce dynasty, removing the adopted trait
+- Adjusted and fixed notoriety gain
+	!!TBD: new ways to lose notoriety, e.g. events, temple holdings, offmap interactions etc.
+
+==Changelog Vb0.3.1:=========================================================================
 
 - Buildings
 	-> Added Store, Restaurant, Bar and Butcher Shop buildings to castle holdings

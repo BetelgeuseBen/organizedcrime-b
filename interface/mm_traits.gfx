@@ -68,3 +68,23 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
 }
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_adopted"
+		texturefile = "gfx/traits/placeholder.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_gang_founder"
+		texturefile = "gfx/traits/placeholder.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}

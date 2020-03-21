@@ -13,7 +13,7 @@ b_west_canarsie = castle
 #b_glenwood_rd_3 = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

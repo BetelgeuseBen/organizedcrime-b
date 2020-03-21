@@ -1,4 +1,4 @@
-# Only for Test Characters and Placeholders
+# Only for Test Characters and Uniqe Placeholders
 
 23 = {
     name=Kaiser #Police Captain Kaiser the German; Researcher

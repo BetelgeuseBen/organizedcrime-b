@@ -333,3 +333,280 @@ the_commission = {
 		}
 	}
 }
+
+###NYPD###
+new_york_police_department = {
+	primary_attribute = intrigue
+	is_religious = yes
+	opinion_to_other_members = +10
+	opinion_to_pretenders = +0			#Pretenders is the opinion you have of people perceived/discovered to be in your society.
+	opinion_to_perceived_members = +0 	#Perceived is the opinion you have of people perceived/discovered to be of a society you're not part of
+	opinion_per_rank_above = +10
+	society_rank_up_decision = request_to_rank_up_within_nypd
+	sound = assassins_interface
+	society_ranks_gfx = generic_ranks
+	society_influence = no
+	
+	active = {
+		always = yes
+	}
+	indestructible = yes
+
+	can_join_society = {
+		hidden_trigger = {
+			NAND = {
+				ai = yes
+				is_society_rank_full = { 
+					society = new_york_police_department
+					rank = 1
+				}
+			}
+		}
+		hidden_trigger = {
+			NOT = { has_character_flag = society_join_block }
+		}
+		trigger_if = {
+			limit = { prisoner = yes }
+			prisoner = no
+		}
+		OR = {
+			top_liege = {
+				government = police_government
+			}
+			any_liege = {
+				government = police_government
+			}
+		}
+	}
+
+	show_society = {
+		always = yes
+	}
+
+	potential = {
+		OR = {
+			top_liege = {
+				is_government_potential = police_government
+			}
+			any_liege = {
+				is_government_potential = police_government
+			}
+		}
+	}
+
+	society_rank = {
+		level = 1
+		limit = 128 
+		startup_limit = 64
+		modifier = {
+			intrigue = 1
+			martial = 1
+			combat_rating = 15
+		}
+		decisions = {
+		}
+	}
+	
+	society_rank = {
+		level = 2
+		limit = 64
+		startup_limit = 32
+		modifier = { 
+			intrigue = 1 
+			diplomacy = 1
+			combat_rating = 10
+		}
+		decisions = {
+		}
+	}
+	
+	society_rank = {
+		level = 3
+		limit = 16 
+		startup_limit = 8
+		modifier = {
+			intrigue = 1
+			combat_rating = 10
+			piety = 0.5
+		}
+		decisions = {
+		}
+	}
+
+	society_rank = {
+		level = 4
+		limit = 8
+		startup_limit = 8
+		modifier = {
+			piety = 1.0
+		}
+		decisions = {
+		}
+		obedience_tooltip = obedience_tooltip #this can be unique per rank/society 
+		obedient = {
+			ROOT = {
+				always = yes
+			}
+		}
+	}
+
+	monthly_currency_gain = {
+		name = currency_name_new_york_police_department
+    
+		per_attribute = {
+			name = intrigue 
+			value = 0.5
+		}
+		has_trait = {
+			trait = zealous
+			value = 3
+		}
+		has_trait = {
+			trait = erudite
+			value = 3
+		}
+		has_trait = {
+			trait = scholar
+			value = 3
+		}
+		has_trait = {
+			trait = theologian
+			value = 3
+		}
+		has_trait = {
+			trait = schemer
+			value = 3
+		}
+		has_trait = {
+			trait = strong
+			value = 1
+		}
+		has_trait = {
+			trait = robust
+			value = 1
+		}
+		has_trait = {
+			trait = genius
+			value = 1
+		}
+		has_trait = {
+			trait = quick
+			value = 1
+		}
+		has_trait = {
+			trait = shrewd
+			value = 1
+		}
+		has_trait = {
+			trait = diligent
+			value = 1
+		}
+		has_trait = {
+			trait = patient
+			value = 1
+		}
+		has_trait = {
+			trait = temperate
+			value = 1
+		}
+		has_trait = {
+			trait = charitable
+			value = 1
+		}
+		society_rank = {
+			rank = 4
+			value = 10
+		}
+	}
+
+	member_score_per_attribute = 3
+	member_score_per_rank = 100
+
+	member_score = {
+		value = 10
+
+		modifier = {
+			primary_title = {
+				holy_order = yes
+			}
+			factor = 10
+		}
+		modifier = {
+			trait = zealous
+			factor = 1.3
+		}
+		modifier = {
+			trait = erudite
+			factor = 1.3
+		}
+		modifier = {
+			trait = scholar
+			factor = 1.3
+		}
+		modifier = {
+			trait = theologian
+			factor = 1.3
+		}
+		modifier = {
+			trait = schemer
+			factor = 1.3
+		}
+		modifier = {
+			trait = strong
+			factor = 1.1
+		}
+		modifier = {
+			trait = robust
+			factor = 1.1
+		}
+		modifier = {
+			trait = genius
+			factor = 1.1
+		}
+		modifier = {
+			trait = quick
+			factor = 1.1
+		}
+		modifier = {
+			trait = shrewd
+			factor = 1.1
+		}
+		modifier = {
+			trait = diligent
+			factor = 1.1
+		}
+		modifier = {
+			trait = patient
+			factor = 1.1
+		}
+		modifier = {
+			trait = temperate
+			factor = 1.1
+		}
+		modifier = {
+			trait = charitable
+			factor = 1.1
+		}	
+	}
+	
+	startup_populate = {
+	    trigger = {
+			ai = yes
+	    	controls_religion = no 
+			religion_group = upright
+			OR = {
+				top_liege = {	# Includes ROOT
+					primary_title = {
+						holy_order = yes
+					}
+				}
+				any_liege = {	# Does not include ROOT!
+					primary_title = {
+						holy_order = yes
+					}
+				}
+			}
+			is_in_society = no
+		}
+	}
+}

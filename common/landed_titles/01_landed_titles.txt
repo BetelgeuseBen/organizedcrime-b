@@ -34,6 +34,8 @@ e_brooklyn = {
 				
 				b_downtown = {
 				}
+				b_kings_county_district_attorneys_office = {
+				}
 				b_tillary_st = {
 				}
 				b_brooklyn_bridge_blvd = {
@@ -43,8 +45,6 @@ e_brooklyn = {
 				b_gold_st = {
 				}
 				b_duffield_st = {
-				}
-				b_prince_st = {
 				}
 			}
 			c_boerum_hill = { # 34
@@ -528,7 +528,7 @@ e_brooklyn = {
 		color2={ 255 255 255 }
 		
 		capital = 60 # c_central_bushwick
-		culture = apulian
+		culture = galizianer
 		
 		d_bushwick = {
 			color={ 234 82 26 }
@@ -1015,7 +1015,7 @@ e_brooklyn = {
 		color2={ 255 255 255 }
 		
 		capital = 87 # c_flatbush
-		culture = sicilian
+		culture = galizianer
 		
 		d_flatbush = {
 			color={ 252 112 15 }
@@ -1260,7 +1260,7 @@ e_brooklyn = {
 		color2={ 255 255 255 }
 		
 		capital = 101 # c_flatlands
-		culture = white_american
+		culture = galizianer
 		
 		d_flatlands = {
 			color={ 186 41 18 }
@@ -1474,7 +1474,7 @@ e_brooklyn = {
 		color2={ 255 255 255 }
 		
 		capital = 114 # c_coney
-		culture = campanian
+		culture = litvak
 		
 		d_coney_island = {
 			color={ 227 212 24 }
@@ -1725,7 +1725,7 @@ e_brooklyn = {
 		color2={ 255 255 255 }
 		
 		capital = 72 # c_bay_ridge
-		culture = calabrian
+		culture = campanian
 		
 		d_bay_ridge = {
 			color={ 195 30 34 }
@@ -2005,6 +2005,8 @@ e_manhattan = {
 				
 				b_city_hall = {
 				}
+				b_new_york_county_district_attorneys_office = {
+				}
 				b_park_row = {
 				}
 				b_broadway_8 = {
@@ -2014,8 +2016,6 @@ e_manhattan = {
 				b_park_pl_2 = {
 				}
 				b_warren_st_2 = {
-				}
-				b_murray_st = {
 				}
 			}
 			c_brooklyn_bridge = { # 316
@@ -2043,9 +2043,11 @@ e_manhattan = {
 				}
 				b_madison_st = {
 				}
-				b_wagner_pl = {
+				b_cherry_st = {
 				}
-				b_south_st = {
+				b_water_st_3 = {
+				}
+				b_monroe_st = {
 				}
 			}
 			c_fulton_st = { # 315
@@ -2215,7 +2217,7 @@ e_manhattan = {
 				}
 				b_pine_st = {
 				}
-				b_water_st_3 = {
+				b_water_st_4 = {
 				}
 				b_exchange_pl = {
 				}
@@ -2287,7 +2289,7 @@ e_manhattan = {
 				
 				b_whitehall_st = {
 				}
-				b_water_st_4 = {
+				b_water_st_5 = {
 				}
 				b_pearl_st_4 = {
 				}
@@ -2454,9 +2456,9 @@ e_manhattan = {
 				}
 				b_howard_st = {
 				}
-				b_lispenard_st = {
+				b_bayard_st = {
 				}
-				b_leonard_st_2 = {
+				b_franklin_st_2 = {
 				}
 			}
 			c_kenmare_st = { # 326
@@ -2501,7 +2503,7 @@ e_manhattan = {
 				color={ 29 86 135 }
 				color2={ 255 255 255 }
 				
-				b_prince_st_3 = {
+				b_prince_st_2 = {
 				}
 				b_bleecker_st = {
 				}
@@ -2571,7 +2573,7 @@ e_manhattan = {
 				color={ 36 31 133 }
 				color2={ 255 255 255 }
 				
-				b_franklin_st_2 = {
+				b_franklin_st_3 = {
 				}
 				b_laight_st = {
 				}
@@ -2609,7 +2611,7 @@ e_manhattan = {
 				color={ 21 52 122 }
 				color2={ 255 255 255 }
 				
-				b_murray_st_2 = {
+				b_murray_st = {
 				}
 				b_chambers_st_4 = {
 				}
@@ -2655,9 +2657,9 @@ e_manhattan = {
 				}
 				b_white_st_2 = {
 				}
-				b_franklin_st_3 = {
+				b_franklin_st_4 = {
 				}
-				b_leonard_st_3 = {
+				b_leonard_st_2 = {
 				}
 				b_worth_st_2 = {
 				}
@@ -2669,7 +2671,7 @@ e_manhattan = {
 		color2={ 255 255 255 }
 		
 		capital = 421 # c_west_125th_st_2
-		culture = white_american
+		culture = afro_american
 		
 		d_central_harlem = {
 			color={ 20 16 91 }
@@ -3215,8 +3217,8 @@ e_manhattan = {
 		color={ 64 58 153 }
 		color2={ 255 255 255 }
 		
-		capital = 346 # c_central_bowery
-		culture = sicilian
+		capital = 346 # c_south_bowery
+		culture = polentonese
 		
 		d_lower_east_side = {
 			color={ 44 78 143 }
@@ -3228,25 +3230,25 @@ e_manhattan = {
 					any_demesne_province = { OR = { province_id = 346 province_id = 347 province_id = 348 province_id = 349 province_id = 350 province_id = 351 } }
 				}
 			}
-			capital = 346 # c_central_bowery
+			capital = 346 # c_south_bowery
 			
-			c_central_bowery = { # 346
+			c_south_bowery = { # 346
 				color={ 34 88 138 }
 				color2={ 255 255 255 }
 				
-				b_central_bowery = {
+				b_south_bowery = {
 				}
-				b_rivington_st = {
+				b_grand_st_4 = {
 				}
 				b_stanton_st = {
 				}
-				b_houston_st_3 = {
+				b_hester_st_2 = {
 				}
-				b_delancey_st = {
+				b_rivington_st = {
 				}
-				b_forsyth_st = {
+				b_broome_st_3 = {
 				}
-				b_chrystie_st = {
+				b_canal_st_4 = {
 				}
 			}
 			c_allen_st = { # 350
@@ -3259,13 +3261,13 @@ e_manhattan = {
 				}
 				b_stanton_st_2 = {
 				}
-				b_orchard_st = {
+				b_orchard_st_2 = {
 				}
-				b_ludlow_st = {
+				b_ludlow_st_2 = {
 				}
-				b_grand_st_4 = {
+				b_grand_st_7 = {
 				}
-				b_houston_st_4 = {
+				b_houston_st_3 = {
 				}
 			}
 			c_east_broadway = { # 348
@@ -3280,7 +3282,7 @@ e_manhattan = {
 				}
 				b_henry_st_2 = {
 				}
-				b_water_st_5 = {
+				b_water_st_6 = {
 				}
 				b_jefferson_st = {
 				}
@@ -3318,7 +3320,7 @@ e_manhattan = {
 				}
 				b_madison_st_2 = {
 				}
-				b_cherry_st = {
+				b_cherry_st_2 = {
 				}
 				b_division_st = {
 				}
@@ -3335,11 +3337,11 @@ e_manhattan = {
 				}
 				b_lewis_st = {
 				}
-				b_delancey_st_2 = {
+				b_delancey_st = {
 				}
 				b_mangin_st = {
 				}
-				b_broome_st_3 = {
+				b_broome_st_4 = {
 				}
 			}
 		}
@@ -3367,9 +3369,9 @@ e_manhattan = {
 				}
 				b_division_st_2 = {
 				}
-				b_bayard_st = {
+				b_bayard_st_2 = {
 				}
-				b_forsyth_st_2 = {
+				b_forsyth_st = {
 				}
 				b_eldridge_st = {
 				}
@@ -3384,7 +3386,7 @@ e_manhattan = {
 				}
 				b_elizabeth_st_3 = {
 				}
-				b_canal_st_4 = {
+				b_canal_st_5 = {
 				}
 				b_mosco_st = {
 				}
@@ -3399,34 +3401,34 @@ e_manhattan = {
 				
 				b_seward_park = {
 				}
-				b_ludlow_st_2 = {
+				b_ludlow_st = {
 				}
-				b_orchard_st_2 = {
+				b_orchard_st = {
 				}
 				b_division_st_3 = {
 				}
-				b_canal_st_5 = {
+				b_canal_st_6 = {
 				}
-				b_hester_st_2 = {
+				b_hester_st_3 = {
 				}
 				b_grand_st_6 = {
 				}
 			}
-			c_south_bowery = { # 462
+			c_south_bowery_2 = { # 462
 				color={ 26 104 146 }
 				color2={ 255 255 255 }
 				
-				b_south_bowery = {
+				b_south_bowery_2 = {
 				}
-				b_delancey_st_3 = {
+				b_delancey_st_2 = {
 				}
 				b_grand_st_5 = {
 				}
-				b_broome_st_4 = {
+				b_broome_st_5 = {
 				}
-				b_chrystie_st_2 = {
+				b_chrystie_st = {
 				}
-				b_forsyth_st_3 = {
+				b_forsyth_st_2 = {
 				}
 				b_eldridge_st_2 = {
 				}
@@ -3437,11 +3439,11 @@ e_manhattan = {
 				
 				b_two_bridges = {
 				}
-				b_cherry_st_2 = {
+				b_cherry_st_3 = {
 				}
-				b_water_st_6 = {
+				b_water_st_7 = {
 				}
-				b_monroe_st = {
+				b_monroe_st_2 = {
 				}
 				b_market_st_3 = {
 				}
@@ -3671,7 +3673,7 @@ e_manhattan = {
 		color2={ 255 255 255 }
 		
 		capital = 448 # c_highbridge_park
-		culture = white_american
+		culture = irish
 		
 		d_washington_heights = {
 			color={ 18 11 127 }
@@ -3933,7 +3935,7 @@ e_manhattan = {
 		color2={ 255 255 255 }
 		
 		capital = 362 # c_times_square
-		culture = white_american
+		culture = irish
 		
 		d_midtown = {
 			color={ 26 11 114 }
@@ -4373,7 +4375,7 @@ e_manhattan = {
 		color2={ 255 255 255 }
 		
 		capital = 400 # c_east_63rd_st
-		culture = white_american
+		culture = galizianer
 		
 		d_upper_east_side = {
 			color={ 72 68 205 }
@@ -4767,7 +4769,7 @@ e_manhattan = {
 		color2={ 255 255 255 }
 		
 		capital = 382 # c_west_86th_st
-		culture = white_american
+		culture = irish
 		
 		d_upper_west_side = {
 			color={ 10 0 119 }
@@ -5484,7 +5486,7 @@ e_queens = {
 				}
 				b_linden_pl = {
 				}
-				b_prince_st_2 = {
+				b_prince_st = {
 				}
 			}
 			c_college_point = { # 213
@@ -6227,7 +6229,7 @@ e_queens = {
 		color2={ 255 255 255 }
 		
 		capital = 180 # c_elmhurst
-		culture = calabrian
+		culture = white_american
 		
 		d_elmhurst = {
 			color={ 111 45 161 }
@@ -6539,7 +6541,7 @@ e_queens = {
 		color2={ 255 255 255 }
 		
 		capital = 159 # c_ozone_park
-		culture = apulian
+		culture = white_american
 		
 		d_ozone_park = {
 			color={ 144 89 182 }
@@ -6643,6 +6645,8 @@ e_queens = {
 				
 				b_kew_gardens = {
 				}
+				b_queens_county_district_attorneys_office = {
+				}
 				b_kew_gardens_rd = {
 				}
 				b_austin_st = {
@@ -6712,7 +6716,7 @@ e_queens = {
 		color2={ 255 255 255 }
 		
 		capital = 169 # c_far_rockaway
-		culture = campanian
+		culture = white_american
 		
 		d_far_rockaway = {
 			color={ 199 56 113 }
@@ -6889,14 +6893,14 @@ e_staten_island = {
 	color2={ 255 255 20 }
 	
 	capital = 1 # c_st_george
-	culture = sicilian
+	culture = litvak
 	
 	k_castleton = {
 		color={ 111 139 46 }
 		color2={ 255 255 255 }
 		
 		capital = 1 # c_st_george
-		culture = sicilian
+		culture = litvak
 		
 		d_castleton = {
 			color={ 91 159 36 }
@@ -6916,6 +6920,8 @@ e_staten_island = {
 				
 				b_st_george = {
 				}
+				b_richmond_county_district_attorneys_office = {
+				}
 				b_jersey_st = {
 				}
 				b_ferry_terminal = {
@@ -6925,8 +6931,6 @@ e_staten_island = {
 				b_westervelt_ave = {
 				}
 				b_hamilton_ave = {
-				}
-				b_st_marks_pl = {
 				}
 			}
 			c_castleton_corners = { # 3
@@ -7495,14 +7499,14 @@ e_the_bronx = {
 	color2={ 255 255 20 }
 	
 	capital = 242 # c_mott_haven
-	culture = white_american
+	culture = irish
 	
 	k_morrisania = {
 		color={ 177 208 250 }
 		color2={ 255 255 255 }
 		
 		capital = 242 # c_mott_haven
-		culture = white_american
+		culture = irish
 		
 		d_mott_haven = {
 			color={ 197 188 4 }
@@ -7683,6 +7687,8 @@ e_the_bronx = {
 				
 				b_concourse = {
 				}
+				b_bronx_county_district_attorneys_office = {
+				}
 				b_mcclellan_st = {
 				}
 				b_morris_ave_2 = {
@@ -7837,7 +7843,7 @@ e_the_bronx = {
 		color2={ 255 255 255 }
 		
 		capital = 261 # c_kingsbridge
-		culture = apulian
+		culture = irish
 		
 		d_kingsbridge = {
 			color={ 203 188 52 }
@@ -8173,7 +8179,7 @@ e_the_bronx = {
 		color2={ 255 255 255 }
 		
 		capital = 299 # c_pelham_bay
-		culture = campanian
+		culture = calabrian
 		
 		d_pelham_bay = {
 			color={ 194 225 15 }

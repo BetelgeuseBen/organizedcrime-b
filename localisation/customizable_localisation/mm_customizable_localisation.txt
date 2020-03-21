@@ -1,0 +1,20 @@
+defined_text = {
+	name = GetMrMrsMiss
+	use_first_valid = yes
+	text = {
+		trigger = {
+			is_female = no
+		}
+		localisation_key = ADDRESS_MR
+	}
+	text = {
+		trigger = {
+			is_married = yes
+		}
+		localisation_key = ADDRESS_MRS
+	
+	}
+	text = {
+		localisation_key = ADDRESS_MISS
+	}
+}

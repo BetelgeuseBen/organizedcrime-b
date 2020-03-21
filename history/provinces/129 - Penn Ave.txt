@@ -13,7 +13,7 @@ b_alabama_ave = city
 #b_georgia_ave = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

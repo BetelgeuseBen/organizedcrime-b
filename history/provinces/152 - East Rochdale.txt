@@ -13,7 +13,7 @@ b_east_rochdale = castle
 #b_137th_ave = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

@@ -4,13 +4,14 @@
 title = c_concourse
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_concourse = castle
-#b_mcclellan_st = city
-#b_morris_ave_2 = temple
-#b_findlay_ave = castle
-#b_walton_ave = city
+b_bronx_county_district_attorneys_office = temple
+#b_mcclellan_st = temple
+#b_morris_ave_2 = castle
+#b_findlay_ave = city
+#b_walton_ave = temple
 
 # Misc
 culture = irish

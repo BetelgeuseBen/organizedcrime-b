@@ -12,7 +12,7 @@ b_springfield_gardens = castle
 #b_147th_ave = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

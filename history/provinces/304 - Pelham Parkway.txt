@@ -12,7 +12,7 @@ b_pelham_parkway = castle
 #b_bronx_park_e = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

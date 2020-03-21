@@ -13,7 +13,7 @@ b_burke_ave = city
 #b_bronx_blvd = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

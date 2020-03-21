@@ -10,7 +10,7 @@ b_cross_bay = castle
 #b_cross_bay_blvd_2 = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

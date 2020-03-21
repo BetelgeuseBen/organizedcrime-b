@@ -11,7 +11,7 @@ b_arden_heights = castle
 #b_pompey_ave = temple
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

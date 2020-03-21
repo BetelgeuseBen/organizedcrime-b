@@ -10,7 +10,7 @@ b_white_island = castle
 #b_flatbush_ave_5 = city
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

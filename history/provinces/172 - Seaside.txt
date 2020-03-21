@@ -12,7 +12,7 @@ b_shore_front_pkwy = city
 #b_rockaway_beach_blvd_2 = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

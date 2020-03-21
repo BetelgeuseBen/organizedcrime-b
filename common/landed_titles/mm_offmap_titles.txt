@@ -2,7 +2,7 @@ e_national_guard = {
 	landless = yes
 	primary = yes
 
-	culture = yankee
+	culture = white_american
 	religion = upright
 	
 	title = CHIEF

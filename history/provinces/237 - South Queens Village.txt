@@ -12,7 +12,7 @@ b_south_queens_village = castle
 #b_hollis_ave_2 = castle
 
 # Misc
-culture = yankee
+culture = white_american
 religion = upright
 
 #History

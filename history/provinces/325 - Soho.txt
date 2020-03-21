@@ -15,7 +15,7 @@ b_sullivan_st = temple
 #b_6th_ave_3 = castle
 
 # Misc
-culture = unknown_italian
+culture = apulian
 religion = upright
 
 #History

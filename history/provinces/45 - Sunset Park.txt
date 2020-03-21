@@ -13,7 +13,7 @@ b_sunset_park = castle
 #b_7th_ave_3 = city
 
 # Misc
-culture = yankee
+culture = apulian
 religion = upright
 
 #History

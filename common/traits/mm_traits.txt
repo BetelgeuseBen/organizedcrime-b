@@ -106,4 +106,35 @@ immigrant = {
 sicilian = {
 	random = no
 	same_opinion = 10
+
+gang_founder = {
+	random = no
+
+	martial = 5
+	combat_rating = 25
+	prestige = 0.5
+	piety = -0.5
+	
+	same_opinion = 5
+	
+	tribal_opinion = 20
+
+	rebel_inherited = yes
+	customizer = no
+	
+	male_insult = INSULT_PEASANT
+	male_insult_adj = INSULT_LOWBORN
+	female_insult = INSULT_PEASANT_WOMAN
+	female_insult_adj = INSULT_LOWBORN
+}
+
+adopted = {
+	random = no
+	customizer = no
+	
+	diplomacy = -2
+	prestige = -0.5
+	
+	vassal_opinion = -10
+	dynasty_opinion = -10
 }

@@ -12,7 +12,7 @@ b_morris_heights = castle
 #b_burnside_ave = castle
 
 # Misc
-culture = yankee
+culture = irish
 religion = upright
 
 #History

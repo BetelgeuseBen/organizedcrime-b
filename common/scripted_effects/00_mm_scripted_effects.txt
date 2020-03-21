@@ -137,3 +137,537 @@ check_notoriety_level_effect = {
 		}
 	}
 }
+
+raise_notoriety_level_effect = {
+	if = {
+		limit = {
+			has_province_modifier = notorious_3
+		}
+		change_variable = { which = notoriety_value value = 100 }
+	}
+	else_if = {
+		limit = {
+			has_province_modifier = notorious_2
+		}
+		remove_province_modifier = notorious_2
+		add_province_modifier = { name = notorious_3 duration = -1 }
+		set_variable = { which = notoriety_value value = 500 } #NotorietyLvl3Def
+	}
+	else_if = {
+		limit = {
+			has_province_modifier = notorious_1
+		}
+		remove_province_modifier = notorious_1
+		add_province_modifier = { name = notorious_2 duration = -1 }
+		set_variable = { which = notoriety_value value = 250 } #NotorietyLvl2Def
+	}
+	else_if = {
+		limit = {
+			NOT = {
+				has_province_modifier = notorious_1
+				has_province_modifier = notorious_2
+				has_province_modifier = notorious_3
+			}
+		}
+		add_province_modifier = { name = notorious_1 duration = -1 }
+		set_variable = { which = notoriety_value value = 100 } #NotorietyLvl1Def
+	}
+	check_notoriety_level_effect = yes
+}
+
+random_accident_death_effect = {
+	tooltip = { death = { death_reason = death_accident } }
+	hidden_effect = {
+		random_list = {
+			10 = { 
+				death = { death_reason = death_accident_drowning }
+			}
+			10 = {
+				death = { death_reason = death_accident_fall }
+			}
+			10 = {
+				death = { death_reason = death_accident_gun }
+			}
+			10 = {
+				death = { death_reason = death_accident_car }
+			}
+			10 = {
+				death = { death_reason = death_accident_fire }
+			}
+		}
+	}
+}
+
+spawn_gang_uprising_effect = {
+	if = {
+		limit = {
+			always = yes
+		}
+		random_list = {
+			17 = {
+				
+				spawn_unit = {
+					province = ROOT
+					home = ROOT
+					owner = THIS
+					#leader = THIS
+					scaled_by_biggest_garrison = 0.75
+					troops = {
+						light_infantry = { 30 30 }
+					}
+					attrition = 0
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = actually_culture
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 20
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.75
+						troops = {
+							light_infantry = { 30 30 }
+						}
+						attrition = 0
+						disband_on_peace = yes
+					}
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = actually_culture
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 30
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.75
+						troops = {
+							light_infantry = { 30 30 }
+						}
+						attrition = 0
+						disband_on_peace = yes
+					}
+				}
+			}
+			17 = {
+				spawn_unit = {
+					province = ROOT
+					home = ROOT
+					owner = THIS
+					#leader = THIS
+					scaled_by_biggest_garrison = 0.5
+					troops = {
+						light_infantry = { 30 30 }
+					}
+					attrition = 0
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = actually_culture
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 30
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.5
+						troops = {
+							light_infantry = { 30 30 }
+						}
+						attrition = 0
+						disband_on_peace = yes
+					}
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = none
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 20
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.5
+						troops = {
+							light_infantry = { 30 30 }
+						}
+						attrition = 0
+					}
+				}
+			}
+			16 = {
+				spawn_unit = {
+					province = ROOT
+					home = ROOT
+					owner = THIS
+					#leader = THIS
+					scaled_by_biggest_garrison = 0.75
+					troops = {
+						archers = { 3 3 }
+						light_infantry = { 22 22 }
+					}
+					attrition = 0
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = none
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 30
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.75
+						troops = {
+							archers = { 3 3 }
+							light_infantry = { 22 22 }
+						}
+						attrition = 0
+						disband_on_peace = yes
+					}
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = none
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 20
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.75
+						troops = {
+							archers = { 3 3 }
+							light_infantry = { 22 22 }
+						}
+						attrition = 0
+						disband_on_peace = yes
+					}
+				}
+			}
+			17 = {
+				spawn_unit = {
+					province = ROOT
+					home = ROOT
+					owner = THIS
+					#leader = THIS
+					scaled_by_biggest_garrison = 0.5
+					troops = {
+						archers = { 3 3 }
+						light_infantry = { 22 22 }
+					}
+					attrition = 0
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = none
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 30
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.5
+						troops = {
+							archers = { 3 3 }
+							light_infantry = { 22 22 }
+						}
+						attrition = 0
+						disband_on_peace = yes
+					}
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = none
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 20
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.5
+						troops = {
+							archers = { 3 3 }
+							light_infantry = { 22 22 }
+						}
+						attrition = 0
+						disband_on_peace = yes
+					}
+				}
+			}
+		}
+	}
+}
+
+spawn_gang_reinforcements_effect = {
+	if = {
+		limit = {
+			always = yes
+		}
+		random_list = {
+			17 = {
+				create_character = {
+					random_traits = yes
+					dynasty = actually_culture
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 25
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.75
+						troops = {
+							light_infantry = { 30 30 }
+						}
+						attrition = 0
+					}
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = actually_culture
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 30
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.75
+						troops = {
+							light_infantry = { 30 30 }
+						}
+						attrition = 0
+						disband_on_peace = yes
+					}
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = actually_culture
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 20
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.75
+						troops = {
+							light_infantry = { 30 30 }
+						}
+						attrition = 0
+						disband_on_peace = yes
+					}
+				}
+			}
+			17 = {
+				create_character = {
+					random_traits = yes
+					dynasty = actually_culture
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 25
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.5
+						troops = {
+							light_infantry = { 30 30 }
+						}
+						attrition = 0
+					}
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = actually_culture
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 30
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.5
+						troops = {
+							light_infantry = { 30 30 }
+						}
+						attrition = 0
+					}
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = actually_culture
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 20
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.5
+						troops = {
+							light_infantry = { 30 30 }
+						}
+						attrition = 0
+						disband_on_peace = yes
+					}
+				}
+			}
+			16 = {
+				create_character = {
+					random_traits = yes
+					dynasty = actually_culture
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 25
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.75
+						troops = {
+							archers = { 3 3 }
+							light_infantry = { 22 22 }
+						}
+						attrition = 0
+					}
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = actually_culture
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 30
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.75
+						troops = {
+							archers = { 3 3 }
+							light_infantry = { 22 22 }
+						}
+						attrition = 0
+						disband_on_peace = yes
+					}
+				}
+				create_character = {
+					random_traits = yes
+					dynasty = actually_culture
+					religion = THIS
+					culture = THIS
+					female = no
+					age = 20
+					trait = gang_founder
+					trait = tough_soldier
+				}
+				new_character = {
+					spawn_unit = {
+						province = ROOT
+						home = ROOT
+						owner = PREV
+						scaled_by_biggest_garrison = 0.75
+						troops = {
+							archers = { 3 3 }
+							light_infantry = { 22 22 }
+						}
+						attrition = 0
+						disband_on_peace = yes
+					}
+				}
+			}
+		}
+	}
+}
