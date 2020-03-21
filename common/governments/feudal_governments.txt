@@ -83,4 +83,29 @@ feudal_governments = {
 		
 		can_demand_religious_conversion = no
 	}
+
+#	federal_government = {
+#		color = {0.85 0.75 0.20}
+#		title_prefix = "federal_"
+#		frame_suffix = "_federal"
+#		potential = {
+#			religion = police
+#		}
+#		
+#		dukes_called_kings = yes
+#		barons_need_dynasty = yes
+#		
+#		preferred_holdings = { CASTLE }
+#		allowed_holdings = { 
+#			CASTLE 
+#			CITY
+#			TEMPLE
+#			FORT
+#			HOSPITAL
+#		}
+#		
+#		can_build_tribal = no
+#		
+#		can_demand_religious_conversion = no
+#	}
 }
